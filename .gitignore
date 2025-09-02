@@ -3,4 +3,5 @@
 .DS_Store
 
 # Ignore the map cropping script
-z_map_cropping.pyData/SVI/Raw Files/county_county.tsv
+z_map_cropping.py
+Data/SVI/Raw Files/county_county.tsv
