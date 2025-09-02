@@ -1,0 +1,221 @@
+12:23:14 Year 2010 - Goodness-of-Fit Tests:
+12:23:14   Lognormal Distribution:
+12:23:14     KS Stat = 0.0336, p-value = 0.0137
+12:23:14     AIC = 15663.27, BIC = 15680.35
+
+12:23:14   Gamma Distribution:
+12:23:14     KS Stat = 0.0488, p-value = 0.0001
+12:23:14     AIC = 15709.23, BIC = 15726.32
+
+12:23:14   Weibull Distribution:
+12:23:14     KS Stat = 0.0526, p-value = 0.0000
+12:23:14     AIC = 15750.16, BIC = 15767.24
+
+12:23:14   Inverse Gaussian Distribution:
+12:23:14     KS Stat = 0.2559, p-value = 0.0000
+12:23:14     AIC = 17394.22, BIC = 17411.31
+
+12:23:14 Year 2011 - Goodness-of-Fit Tests:
+12:23:14   Lognormal Distribution:
+12:23:14     KS Stat = 0.0482, p-value = 0.0001
+12:23:14     AIC = 15963.09, BIC = 15980.21
+
+12:23:14   Gamma Distribution:
+12:23:14     KS Stat = 0.0698, p-value = 0.0000
+12:23:14     AIC = 16009.33, BIC = 16026.45
+
+12:23:14   Weibull Distribution:
+12:23:14     KS Stat = 0.0659, p-value = 0.0000
+12:23:14     AIC = 16036.32, BIC = 16053.43
+
+12:23:14   Inverse Gaussian Distribution:
+12:23:14     KS Stat = 0.2531, p-value = 0.0000
+12:23:14     AIC = 17545.39, BIC = 17562.51
+
+12:23:14 Year 2012 - Goodness-of-Fit Tests:
+12:23:14   Lognormal Distribution:
+12:23:14     KS Stat = 0.0435, p-value = 0.0004
+12:23:14     AIC = 15762.80, BIC = 15779.91
+
+12:23:14   Gamma Distribution:
+12:23:14     KS Stat = 0.0675, p-value = 0.0000
+12:23:14     AIC = 15797.18, BIC = 15814.29
+
+12:23:14   Weibull Distribution:
+12:23:14     KS Stat = 0.0528, p-value = 0.0000
+12:23:14     AIC = 15782.14, BIC = 15799.25
+
+12:23:14   Inverse Gaussian Distribution:
+12:23:14     KS Stat = 0.3378, p-value = 0.0000
+12:23:14     AIC = 18633.74, BIC = 18650.85
+
+12:23:14 Year 2013 - Goodness-of-Fit Tests:
+12:23:14   Lognormal Distribution:
+12:23:14     KS Stat = 0.0347, p-value = 0.0084
+12:23:14     AIC = 16082.54, BIC = 16099.71
+
+12:23:14   Gamma Distribution:
+12:23:14     KS Stat = 0.0652, p-value = 0.0000
+12:23:14     AIC = 16132.13, BIC = 16149.30
+
+12:23:14   Weibull Distribution:
+12:23:14     KS Stat = 0.0455, p-value = 0.0002
+12:23:14     AIC = 16084.41, BIC = 16101.58
+
+12:23:14   Inverse Gaussian Distribution:
+12:23:14     KS Stat = 0.3225, p-value = 0.0000
+12:23:14     AIC = 19006.90, BIC = 19024.07
+
+12:23:14 Year 2014 - Goodness-of-Fit Tests:
+12:23:14   Lognormal Distribution:
+12:23:14     KS Stat = 0.0365, p-value = 0.0042
+12:23:14     AIC = 16992.39, BIC = 17009.61
+
+12:23:14   Gamma Distribution:
+12:23:14     KS Stat = 0.0615, p-value = 0.0000
+12:23:14     AIC = 16989.38, BIC = 17006.60
+
+12:23:14   Weibull Distribution:
+12:23:14     KS Stat = 0.0439, p-value = 0.0003
+12:23:14     AIC = 16954.60, BIC = 16971.83
+
+12:23:14   Inverse Gaussian Distribution:
+12:23:14     KS Stat = 0.2542, p-value = 0.0000
+12:23:14     AIC = 18857.94, BIC = 18875.17
+
+12:23:14 Year 2015 - Goodness-of-Fit Tests:
+12:23:14   Lognormal Distribution:
+12:23:14     KS Stat = 0.0355, p-value = 0.0056
+12:23:14     AIC = 17291.80, BIC = 17309.05
+
+12:23:14   Gamma Distribution:
+12:23:14     KS Stat = 0.0609, p-value = 0.0000
+12:23:14     AIC = 17335.82, BIC = 17353.07
+
+12:23:14   Weibull Distribution:
+12:23:14     KS Stat = 0.0408, p-value = 0.0009
+12:23:14     AIC = 17282.75, BIC = 17300.00
+
+12:23:14   Inverse Gaussian Distribution:
+12:23:14     KS Stat = 0.3044, p-value = 0.0000
+12:23:14     AIC = 19956.56, BIC = 19973.81
+
+12:23:14 Year 2016 - Goodness-of-Fit Tests:
+12:23:14   Lognormal Distribution:
+12:23:14     KS Stat = 0.0271, p-value = 0.0624
+12:23:14     AIC = 18376.75, BIC = 18394.04
+
+12:23:14   Gamma Distribution:
+12:23:14     KS Stat = 0.0584, p-value = 0.0000
+12:23:14     AIC = 18378.86, BIC = 18396.15
+
+12:23:14   Weibull Distribution:
+12:23:14     KS Stat = 0.0400, p-value = 0.0010
+12:23:14     AIC = 18320.23, BIC = 18337.52
+
+12:23:14   Inverse Gaussian Distribution:
+12:23:14     KS Stat = 0.2989, p-value = 0.0000
+12:23:14     AIC = 20843.26, BIC = 20860.56
+
+12:23:14 Year 2017 - Goodness-of-Fit Tests:
+12:23:14   Lognormal Distribution:
+12:23:14     KS Stat = 0.0269, p-value = 0.0653
+12:23:14     AIC = 18550.84, BIC = 18568.13
+
+12:23:14   Gamma Distribution:
+12:23:14     KS Stat = 0.0503, p-value = 0.0000
+12:23:14     AIC = 18549.52, BIC = 18566.80
+
+12:23:14   Weibull Distribution:
+12:23:14     KS Stat = 0.0376, p-value = 0.0025
+12:23:14     AIC = 18528.00, BIC = 18545.29
+
+12:23:14   Inverse Gaussian Distribution:
+12:23:14     KS Stat = 0.2851, p-value = 0.0000
+12:23:14     AIC = 20970.24, BIC = 20987.52
+
+12:23:14 Year 2018 - Goodness-of-Fit Tests:
+12:23:14   Lognormal Distribution:
+12:23:14     KS Stat = 0.0294, p-value = 0.0352
+12:23:14     AIC = 18244.37, BIC = 18261.63
+
+12:23:14   Gamma Distribution:
+12:23:14     KS Stat = 0.0588, p-value = 0.0000
+12:23:14     AIC = 18245.18, BIC = 18262.44
+
+12:23:14   Weibull Distribution:
+12:23:14     KS Stat = 0.0360, p-value = 0.0046
+12:23:14     AIC = 18169.23, BIC = 18186.49
+
+12:23:14   Inverse Gaussian Distribution:
+12:23:14     KS Stat = 0.2901, p-value = 0.0000
+12:23:14     AIC = 20716.91, BIC = 20734.18
+
+12:23:15 Year 2019 - Goodness-of-Fit Tests:
+12:23:15   Lognormal Distribution:
+12:23:15     KS Stat = 0.0257, p-value = 0.0850
+12:23:15     AIC = 18634.16, BIC = 18651.48
+
+12:23:15   Gamma Distribution:
+12:23:15     KS Stat = 0.0493, p-value = 0.0000
+12:23:15     AIC = 18644.86, BIC = 18662.18
+
+12:23:15   Weibull Distribution:
+12:23:15     KS Stat = 0.0319, p-value = 0.0157
+12:23:15     AIC = 18577.97, BIC = 18595.29
+
+12:23:15   Inverse Gaussian Distribution:
+12:23:15     KS Stat = 0.3249, p-value = 0.0000
+12:23:15     AIC = 21601.16, BIC = 21618.48
+
+12:23:15 Year 2020 - Goodness-of-Fit Tests:
+12:23:15   Lognormal Distribution:
+12:23:15     KS Stat = 0.0213, p-value = 0.2019
+12:23:15     AIC = 21107.62, BIC = 21125.10
+
+12:23:15   Gamma Distribution:
+12:23:15     KS Stat = 0.0440, p-value = 0.0001
+12:23:15     AIC = 21111.26, BIC = 21128.74
+
+12:23:15   Weibull Distribution:
+12:23:15     KS Stat = 0.0328, p-value = 0.0089
+12:23:15     AIC = 21090.61, BIC = 21108.10
+
+12:23:15   Inverse Gaussian Distribution:
+12:23:15     KS Stat = 0.2179, p-value = 0.0000
+12:23:15     AIC = 22732.82, BIC = 22750.31
+
+12:23:15 Year 2021 - Goodness-of-Fit Tests:
+12:23:15   Lognormal Distribution:
+12:23:15     KS Stat = 0.0261, p-value = 0.0576
+12:23:15     AIC = 22647.77, BIC = 22665.35
+
+12:23:15   Gamma Distribution:
+12:23:15     KS Stat = 0.0455, p-value = 0.0000
+12:23:15     AIC = 22703.56, BIC = 22721.14
+
+12:23:15   Weibull Distribution:
+12:23:15     KS Stat = 0.0394, p-value = 0.0006
+12:23:15     AIC = 22677.32, BIC = 22694.90
+
+12:23:15   Inverse Gaussian Distribution:
+12:23:15     KS Stat = 0.2542, p-value = 0.0000
+12:23:15     AIC = 24955.10, BIC = 24972.68
+
+12:23:15 Year 2022 - Goodness-of-Fit Tests:
+12:23:15   Lognormal Distribution:
+12:23:15     KS Stat = 0.0296, p-value = 0.0215
+12:23:15     AIC = 22350.29, BIC = 22367.86
+
+12:23:15   Gamma Distribution:
+12:23:15     KS Stat = 0.0573, p-value = 0.0000
+12:23:15     AIC = 22442.03, BIC = 22459.60
+
+12:23:15   Weibull Distribution:
+12:23:15     KS Stat = 0.0423, p-value = 0.0002
+12:23:15     AIC = 22417.45, BIC = 22435.01
+
+12:23:15   Inverse Gaussian Distribution:
+12:23:15     KS Stat = 0.2445, p-value = 0.0000
+12:23:15     AIC = 24679.69, BIC = 24697.26
+

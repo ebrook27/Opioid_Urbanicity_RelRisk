@@ -1,0 +1,11 @@
+- Processing year 2010 -> predicting RR bin for year 2011
+- Processing year 2011 -> predicting RR bin for year 2012
+- Processing year 2012 -> predicting RR bin for year 2013
+- Processing year 2013 -> predicting RR bin for year 2014
+- Processing year 2014 -> predicting RR bin for year 2015
+- Processing year 2015 -> predicting RR bin for year 2016
+- Processing year 2016 -> predicting RR bin for year 2017
+- Processing year 2017 -> predicting RR bin for year 2018
+- Processing year 2018 -> predicting RR bin for year 2019
+- Processing year 2019 -> predicting RR bin for year 2020
+- Processing year 2020 -> predicting RR bin for year 2021

@@ -1,0 +1,36 @@
+import pandas as pd
+
+# Load the .tsv file
+sci_path = 'Data/SVI/Raw Files/county_county.tsv'
+sci_df = pd.read_csv(sci_path, sep='\t', dtype={'user_loc': str, 'fr_loc': str})
+
+# Filter rows where user_loc == fr_loc (self-connectedness)
+self_sci_df = sci_df[sci_df['user_loc'] == sci_df['fr_loc']]
+
+# Rename columns for clarity
+self_sci_df = self_sci_df.rename(columns={
+    'user_loc': 'FIPS',
+    'scaled_sci': '2018 Social Connectedness'  # Replace 'scaled_sci' with the actual column name
+})
+
+# Keep only relevant columns
+self_sci_df = self_sci_df[['FIPS', '2018 Social Connectedness']]
+
+# # Normalize the '2018 Social Connectedness' column
+# self_sci_df['2018 Social Connectedness'] = (
+#     self_sci_df['2018 Social Connectedness'] - self_sci_df['2018 Social Connectedness'].mean()
+# ) / self_sci_df['2018 Social Connectedness'].std()
+
+# Convert '2018 Social Connectedness' to relative rates
+self_sci_df['2018 Social Connectedness'] = (
+    self_sci_df['2018 Social Connectedness'] / self_sci_df['2018 Social Connectedness'].max()
+) * 100
+
+# Define the output path
+output_path = 'Data/SVI/Final Files/Social Connectedness_final_rates.csv'
+
+# Save the result (optional)
+self_sci_df.to_csv(output_path, index=False)
+
+# Print a sample
+print(self_sci_df.head())

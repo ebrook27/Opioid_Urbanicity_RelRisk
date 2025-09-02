@@ -1,0 +1,6 @@
+*.pth
+
+.DS_Store
+
+# Ignore the map cropping script
+z_map_cropping.py

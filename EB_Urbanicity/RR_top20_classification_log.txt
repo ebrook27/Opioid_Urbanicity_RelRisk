@@ -1,0 +1,1265 @@
+=== Year 2010, Fold 1 ===
+              precision    recall  f1-score   support
+
+           0      0.333     0.750     0.462         4
+           1      0.000     0.000     0.000         2
+           2      0.000     0.000     0.000         2
+           3      0.000     0.000     0.000         3
+           4      0.000     0.000     0.000         9
+           5      0.750     0.951     0.839        41
+
+    accuracy                          0.689        61
+   macro avg      0.181     0.284     0.217        61
+weighted avg      0.526     0.689     0.594        61
+
+Confusion Matrix:
+        Pred 0  Pred 1  Pred 2  Pred 3  Pred 4  Pred 5
+True 0       3       0       0       0       0       1
+True 1       1       0       0       0       0       1
+True 2       2       0       0       0       0       0
+True 3       0       0       0       0       0       3
+True 4       1       0       0       0       0       8
+True 5       2       0       0       0       0      39
+
+=== Year 2010, Fold 2 ===
+              precision    recall  f1-score   support
+
+           0      0.200     0.333     0.250         3
+           1      0.000     0.000     0.000         2
+           2      0.000     0.000     0.000         2
+           3      0.000     0.000     0.000         4
+           4      0.000     0.000     0.000         8
+           5      0.709     0.951     0.812        41
+
+    accuracy                          0.667        60
+   macro avg      0.152     0.214     0.177        60
+weighted avg      0.495     0.667     0.568        60
+
+Confusion Matrix:
+        Pred 0  Pred 1  Pred 2  Pred 3  Pred 4  Pred 5
+True 0       1       0       0       0       0       2
+True 1       1       0       0       0       0       1
+True 2       0       0       0       0       0       2
+True 3       1       0       0       0       0       3
+True 4       0       0       0       0       0       8
+True 5       2       0       0       0       0      39
+
+=== Year 2010, Fold 3 ===
+              precision    recall  f1-score   support
+
+           0      0.167     0.333     0.222         3
+           1      0.000     0.000     0.000         2
+           2      0.000     0.000     0.000         2
+           3      0.000     0.000     0.000         4
+           4      0.000     0.000     0.000         9
+           5      0.722     0.975     0.830        40
+
+    accuracy                          0.667        60
+   macro avg      0.148     0.218     0.175        60
+weighted avg      0.490     0.667     0.564        60
+
+Confusion Matrix:
+        Pred 0  Pred 1  Pred 2  Pred 3  Pred 4  Pred 5
+True 0       1       0       0       0       0       2
+True 1       2       0       0       0       0       0
+True 2       1       0       0       0       0       1
+True 3       0       0       0       0       0       4
+True 4       1       0       0       0       0       8
+True 5       1       0       0       0       0      39
+
+=== Year 2010, Fold 4 ===
+              precision    recall  f1-score   support
+
+           0      1.000     0.333     0.500         3
+           1      0.000     0.000     0.000         2
+           2      0.000     0.000     0.000         2
+           3      0.000     0.000     0.000         4
+           4      0.000     0.000     0.000         9
+           5      0.678     1.000     0.808        40
+
+    accuracy                          0.683        60
+   macro avg      0.280     0.222     0.218        60
+weighted avg      0.502     0.683     0.564        60
+
+Confusion Matrix:
+        Pred 0  Pred 1  Pred 2  Pred 3  Pred 4  Pred 5
+True 0       1       0       0       0       0       2
+True 1       0       0       0       0       0       2
+True 2       0       0       0       0       0       2
+True 3       0       0       0       0       0       4
+True 4       0       0       0       0       0       9
+True 5       0       0       0       0       0      40
+
+=== Year 2010, Fold 5 ===
+              precision    recall  f1-score   support
+
+           0      0.571     1.000     0.727         4
+           1      0.000     0.000     0.000         2
+           2      0.000     0.000     0.000         2
+           3      0.000     0.000     0.000         3
+           4      0.000     0.000     0.000         9
+           5      0.755     1.000     0.860        40
+
+    accuracy                          0.733        60
+   macro avg      0.221     0.333     0.265        60
+weighted avg      0.541     0.733     0.622        60
+
+Confusion Matrix:
+        Pred 0  Pred 1  Pred 2  Pred 3  Pred 4  Pred 5
+True 0       4       0       0       0       0       0
+True 1       1       0       0       0       0       1
+True 2       0       0       0       0       0       2
+True 3       1       0       0       0       0       2
+True 4       1       0       0       0       0       8
+True 5       0       0       0       0       0      40
+
+=== Year 2011, Fold 1 ===
+              precision    recall  f1-score   support
+
+           0      0.000     0.000     0.000         2
+           1      0.000     0.000     0.000         2
+           2      0.000     0.000     0.000         3
+           3      0.000     0.000     0.000         2
+           4      0.000     0.000     0.000         8
+           5      0.738     0.957     0.833        47
+
+    accuracy                          0.703        64
+   macro avg      0.123     0.160     0.139        64
+weighted avg      0.542     0.703     0.612        64
+
+Confusion Matrix:
+        Pred 0  Pred 1  Pred 2  Pred 3  Pred 4  Pred 5
+True 0       0       0       0       0       0       2
+True 1       0       0       0       0       0       2
+True 2       0       0       0       0       0       3
+True 3       1       0       0       0       0       1
+True 4       0       0       0       0       0       8
+True 5       2       0       0       0       0      45
+
+=== Year 2011, Fold 2 ===
+              precision    recall  f1-score   support
+
+           0      0.500     0.500     0.500         2
+           1      0.000     0.000     0.000         2
+           2      0.000     0.000     0.000         3
+           3      0.000     0.000     0.000         2
+           4      0.000     0.000     0.000         9
+           5      0.726     0.978     0.833        46
+
+    accuracy                          0.719        64
+   macro avg      0.204     0.246     0.222        64
+weighted avg      0.537     0.719     0.615        64
+
+Confusion Matrix:
+        Pred 0  Pred 1  Pred 2  Pred 3  Pred 4  Pred 5
+True 0       1       0       0       0       0       1
+True 1       0       0       0       0       0       2
+True 2       0       0       0       0       0       3
+True 3       0       0       0       0       0       2
+True 4       0       0       0       0       0       9
+True 5       1       0       0       0       0      45
+
+=== Year 2011, Fold 3 ===
+              precision    recall  f1-score   support
+
+           0      0.000     0.000     0.000         2
+           1      0.000     0.000     0.000         3
+           2      0.000     0.000     0.000         3
+           3      0.000     0.000     0.000         2
+           4      0.000     0.000     0.000         8
+           5      0.726     0.978     0.833        46
+
+    accuracy                          0.703        64
+   macro avg      0.121     0.163     0.139        64
+weighted avg      0.522     0.703     0.599        64
+
+Confusion Matrix:
+        Pred 0  Pred 1  Pred 2  Pred 3  Pred 4  Pred 5
+True 0       0       0       0       0       0       2
+True 1       0       0       0       0       0       3
+True 2       1       0       0       0       0       2
+True 3       0       0       0       0       0       2
+True 4       0       0       0       0       0       8
+True 5       1       0       0       0       0      45
+
+=== Year 2011, Fold 4 ===
+              precision    recall  f1-score   support
+
+           0      0.000     0.000     0.000         2
+           1      0.000     0.000     0.000         3
+           2      0.000     0.000     0.000         3
+           3      0.000     0.000     0.000         2
+           4      0.000     0.000     0.000         8
+           5      0.726     0.978     0.833        46
+
+    accuracy                          0.703        64
+   macro avg      0.121     0.163     0.139        64
+weighted avg      0.522     0.703     0.599        64
+
+Confusion Matrix:
+        Pred 0  Pred 1  Pred 2  Pred 3  Pred 4  Pred 5
+True 0       0       0       0       0       0       2
+True 1       1       0       0       0       0       2
+True 2       0       0       0       0       0       3
+True 3       0       0       0       0       0       2
+True 4       0       0       0       0       0       8
+True 5       1       0       0       0       0      45
+
+=== Year 2011, Fold 5 ===
+              precision    recall  f1-score   support
+
+           0      1.000     0.667     0.800         3
+           1      0.000     0.000     0.000         2
+           2      0.000     0.000     0.000         3
+           3      0.000     0.000     0.000         2
+           4      0.000     0.000     0.000         8
+           5      0.742     1.000     0.852        46
+
+    accuracy                          0.750        64
+   macro avg      0.290     0.278     0.275        64
+weighted avg      0.580     0.750     0.650        64
+
+Confusion Matrix:
+        Pred 0  Pred 1  Pred 2  Pred 3  Pred 4  Pred 5
+True 0       2       0       0       0       0       1
+True 1       0       0       0       0       0       2
+True 2       0       0       0       0       0       3
+True 3       0       0       0       0       0       2
+True 4       0       0       0       0       0       8
+True 5       0       0       0       0       0      46
+
+=== Year 2012, Fold 1 ===
+              precision    recall  f1-score   support
+
+           0      0.000     0.000     0.000         2
+           1      0.000     0.000     0.000         3
+           2      0.000     0.000     0.000         2
+           3      0.000     0.000     0.000         3
+           4      0.000     0.000     0.000         5
+           5      0.773     0.981     0.864        52
+
+    accuracy                          0.761        67
+   macro avg      0.129     0.163     0.144        67
+weighted avg      0.600     0.761     0.671        67
+
+Confusion Matrix:
+        Pred 0  Pred 1  Pred 2  Pred 3  Pred 4  Pred 5
+True 0       0       0       0       0       0       2
+True 1       0       0       0       0       0       3
+True 2       0       0       0       0       0       2
+True 3       0       0       0       0       0       3
+True 4       0       0       0       0       0       5
+True 5       1       0       0       0       0      51
+
+=== Year 2012, Fold 2 ===
+              precision    recall  f1-score   support
+
+           0      0.000     0.000     0.000         3
+           1      0.000     0.000     0.000         4
+           2      0.000     0.000     0.000         2
+           3      0.000     0.000     0.000         2
+           4      0.000     0.000     0.000         4
+           5      0.773     0.981     0.864        52
+
+    accuracy                          0.761        67
+   macro avg      0.129     0.163     0.144        67
+weighted avg      0.600     0.761     0.671        67
+
+Confusion Matrix:
+        Pred 0  Pred 1  Pred 2  Pred 3  Pred 4  Pred 5
+True 0       0       0       0       0       0       3
+True 1       0       0       0       0       0       4
+True 2       0       0       0       0       0       2
+True 3       0       0       0       0       0       2
+True 4       0       0       0       0       0       4
+True 5       1       0       0       0       0      51
+
+=== Year 2012, Fold 3 ===
+              precision    recall  f1-score   support
+
+           0      0.250     0.500     0.333         2
+           1      0.000     0.000     0.000         4
+           2      0.000     0.000     0.000         3
+           3      0.000     0.000     0.000         2
+           4      0.000     0.000     0.000         4
+           5      0.810     0.981     0.887        52
+
+    accuracy                          0.776        67
+   macro avg      0.177     0.247     0.203        67
+weighted avg      0.636     0.776     0.698        67
+
+Confusion Matrix:
+        Pred 0  Pred 1  Pred 2  Pred 3  Pred 4  Pred 5
+True 0       1       0       0       0       0       1
+True 1       1       0       0       0       0       3
+True 2       1       0       0       0       0       2
+True 3       0       0       0       0       0       2
+True 4       0       0       0       0       0       4
+True 5       1       0       0       0       0      51
+
+=== Year 2012, Fold 4 ===
+              precision    recall  f1-score   support
+
+           0      0.000     0.000     0.000         2
+           1      0.000     0.000     0.000         3
+           2      0.000     0.000     0.000         2
+           3      0.000     0.000     0.000         2
+           4      0.000     0.000     0.000         5
+           5      0.785     0.981     0.872        52
+
+    accuracy                          0.773        66
+   macro avg      0.131     0.163     0.145        66
+weighted avg      0.618     0.773     0.687        66
+
+Confusion Matrix:
+        Pred 0  Pred 1  Pred 2  Pred 3  Pred 4  Pred 5
+True 0       0       0       0       0       0       2
+True 1       0       0       0       0       0       3
+True 2       0       0       0       0       0       2
+True 3       0       0       0       0       0       2
+True 4       0       0       0       0       0       5
+True 5       1       0       0       0       0      51
+
+=== Year 2012, Fold 5 ===
+              precision    recall  f1-score   support
+
+           0      0.000     0.000     0.000         2
+           1      0.000     0.000     0.000         3
+           2      0.000     0.000     0.000         2
+           3      0.000     0.000     0.000         3
+           4      0.000     0.000     0.000         5
+           5      0.778     0.961     0.860        51
+
+    accuracy                          0.742        66
+   macro avg      0.130     0.160     0.143        66
+weighted avg      0.601     0.742     0.664        66
+
+Confusion Matrix:
+        Pred 0  Pred 1  Pred 2  Pred 3  Pred 4  Pred 5
+True 0       0       0       0       0       0       2
+True 1       1       0       0       0       0       2
+True 2       0       0       0       0       0       2
+True 3       0       0       0       0       0       3
+True 4       0       0       0       0       0       5
+True 5       2       0       0       0       0      49
+
+=== Year 2013, Fold 1 ===
+              precision    recall  f1-score   support
+
+           0      0.000     0.000     0.000         2
+           1      0.000     0.000     0.000         2
+           2      0.000     0.000     0.000         4
+           3      0.000     0.000     0.000         4
+           4      0.000     0.000     0.000         7
+           5      0.743     0.981     0.846        53
+
+    accuracy                          0.722        72
+   macro avg      0.124     0.164     0.141        72
+weighted avg      0.547     0.722     0.622        72
+
+Confusion Matrix:
+        Pred 0  Pred 1  Pred 2  Pred 3  Pred 4  Pred 5
+True 0       0       0       0       0       0       2
+True 1       0       0       0       0       0       2
+True 2       0       0       0       0       0       4
+True 3       1       0       0       0       0       3
+True 4       0       0       0       0       0       7
+True 5       1       0       0       0       0      52
+
+=== Year 2013, Fold 2 ===
+              precision    recall  f1-score   support
+
+           0      1.000     1.000     1.000         2
+           1      0.000     0.000     0.000         3
+           2      0.000     0.000     0.000         3
+           3      0.000     0.000     0.000         4
+           4      0.000     0.000     0.000         6
+           5      0.768     1.000     0.869        53
+
+    accuracy                          0.775        71
+   macro avg      0.295     0.333     0.311        71
+weighted avg      0.602     0.775     0.677        71
+
+Confusion Matrix:
+        Pred 0  Pred 1  Pred 2  Pred 3  Pred 4  Pred 5
+True 0       2       0       0       0       0       0
+True 1       0       0       0       0       0       3
+True 2       0       0       0       0       0       3
+True 3       0       0       0       0       0       4
+True 4       0       0       0       0       0       6
+True 5       0       0       0       0       0      53
+
+=== Year 2013, Fold 3 ===
+              precision    recall  f1-score   support
+
+           0      0.000     0.000     0.000         2
+           1      0.000     0.000     0.000         3
+           2      0.000     0.000     0.000         3
+           3      0.000     0.000     0.000         4
+           4      0.000     0.000     0.000         6
+           5      0.768     1.000     0.869        53
+
+    accuracy                          0.746        71
+   macro avg      0.128     0.167     0.145        71
+weighted avg      0.573     0.746     0.649        71
+
+Confusion Matrix:
+        Pred 0  Pred 1  Pred 2  Pred 3  Pred 4  Pred 5
+True 0       0       0       0       0       0       2
+True 1       1       0       0       0       0       2
+True 2       0       0       0       0       0       3
+True 3       0       0       0       0       0       4
+True 4       1       0       0       0       0       5
+True 5       0       0       0       0       0      53
+
+=== Year 2013, Fold 4 ===
+              precision    recall  f1-score   support
+
+           0      0.000     0.000     0.000         2
+           1      0.000     0.000     0.000         2
+           2      0.000     0.000     0.000         3
+           3      0.000     0.000     0.000         5
+           4      0.000     0.000     0.000         6
+           5      0.757     1.000     0.862        53
+
+    accuracy                          0.746        71
+   macro avg      0.126     0.167     0.144        71
+weighted avg      0.565     0.746     0.643        71
+
+Confusion Matrix:
+        Pred 0  Pred 1  Pred 2  Pred 3  Pred 4  Pred 5
+True 0       0       0       0       0       0       2
+True 1       0       0       0       0       0       2
+True 2       1       0       0       0       0       2
+True 3       0       0       0       0       0       5
+True 4       0       0       0       0       0       6
+True 5       0       0       0       0       0      53
+
+=== Year 2013, Fold 5 ===
+              precision    recall  f1-score   support
+
+           0      0.000     0.000     0.000         2
+           1      0.000     0.000     0.000         2
+           2      0.000     0.000     0.000         4
+           3      0.000     0.000     0.000         4
+           4      0.000     0.000     0.000         7
+           5      0.750     0.981     0.850        52
+
+    accuracy                          0.718        71
+   macro avg      0.125     0.163     0.142        71
+weighted avg      0.549     0.718     0.623        71
+
+Confusion Matrix:
+        Pred 0  Pred 1  Pred 2  Pred 3  Pred 4  Pred 5
+True 0       0       0       0       0       0       2
+True 1       0       0       0       0       0       2
+True 2       0       0       0       0       0       4
+True 3       1       0       0       0       0       3
+True 4       1       0       0       0       0       6
+True 5       1       0       0       0       0      51
+
+=== Year 2014, Fold 1 ===
+              precision    recall  f1-score   support
+
+           0      0.000     0.000     0.000         2
+           1      0.000     0.000     0.000         2
+           2      0.000     0.000     0.000         4
+           3      0.000     0.000     0.000         3
+           4      0.000     0.000     0.000         3
+           5      0.800     1.000     0.889        52
+
+    accuracy                          0.788        66
+   macro avg      0.133     0.167     0.148        66
+weighted avg      0.630     0.788     0.700        66
+
+Confusion Matrix:
+        Pred 0  Pred 1  Pred 2  Pred 3  Pred 4  Pred 5
+True 0       0       0       0       0       0       2
+True 1       0       0       0       0       0       2
+True 2       1       0       0       0       0       3
+True 3       0       0       0       0       0       3
+True 4       0       0       0       0       0       3
+True 5       0       0       0       0       0      52
+
+=== Year 2014, Fold 2 ===
+              precision    recall  f1-score   support
+
+           0      0.000     0.000     0.000         2
+           1      0.000     0.000     0.000         3
+           2      0.000     0.000     0.000         4
+           3      0.000     0.000     0.000         3
+           4      0.000     0.000     0.000         3
+           5      0.769     0.980     0.862        51
+
+    accuracy                          0.758        66
+   macro avg      0.128     0.163     0.144        66
+weighted avg      0.594     0.758     0.666        66
+
+Confusion Matrix:
+        Pred 0  Pred 1  Pred 2  Pred 3  Pred 4  Pred 5
+True 0       0       0       0       0       0       2
+True 1       0       0       0       0       0       3
+True 2       0       0       0       0       0       4
+True 3       0       0       0       0       0       3
+True 4       0       0       0       0       0       3
+True 5       1       0       0       0       0      50
+
+=== Year 2014, Fold 3 ===
+              precision    recall  f1-score   support
+
+           0      0.000     0.000     0.000         2
+           1      0.000     0.000     0.000         2
+           2      0.000     0.000     0.000         3
+           3      0.000     0.000     0.000         4
+           4      0.000     0.000     0.000         3
+           5      0.797     1.000     0.887        51
+
+    accuracy                          0.785        65
+   macro avg      0.133     0.167     0.148        65
+weighted avg      0.625     0.785     0.696        65
+
+Confusion Matrix:
+        Pred 0  Pred 1  Pred 2  Pred 3  Pred 4  Pred 5
+True 0       0       0       0       0       0       2
+True 1       0       0       0       0       0       2
+True 2       0       0       0       0       0       3
+True 3       1       0       0       0       0       3
+True 4       0       0       0       0       0       3
+True 5       0       0       0       0       0      51
+
+=== Year 2014, Fold 4 ===
+              precision    recall  f1-score   support
+
+           0      0.500     0.333     0.400         3
+           1      0.000     0.000     0.000         2
+           2      0.000     0.000     0.000         3
+           3      0.000     0.000     0.000         3
+           4      0.000     0.000     0.000         3
+           5      0.810     1.000     0.895        51
+
+    accuracy                          0.800        65
+   macro avg      0.218     0.222     0.216        65
+weighted avg      0.658     0.800     0.720        65
+
+Confusion Matrix:
+        Pred 0  Pred 1  Pred 2  Pred 3  Pred 4  Pred 5
+True 0       1       0       0       0       0       2
+True 1       1       0       0       0       0       1
+True 2       0       0       0       0       0       3
+True 3       0       0       0       0       0       3
+True 4       0       0       0       0       0       3
+True 5       0       0       0       0       0      51
+
+=== Year 2014, Fold 5 ===
+              precision    recall  f1-score   support
+
+           0      0.500     0.500     0.500         2
+           1      0.000     0.000     0.000         2
+           2      0.000     0.000     0.000         4
+           3      0.000     0.000     0.000         3
+           4      0.000     0.000     0.000         3
+           5      0.810     1.000     0.895        51
+
+    accuracy                          0.800        65
+   macro avg      0.218     0.250     0.232        65
+weighted avg      0.651     0.800     0.717        65
+
+Confusion Matrix:
+        Pred 0  Pred 1  Pred 2  Pred 3  Pred 4  Pred 5
+True 0       1       0       0       0       0       1
+True 1       0       0       0       0       0       2
+True 2       0       0       0       0       0       4
+True 3       1       0       0       0       0       2
+True 4       0       0       0       0       0       3
+True 5       0       0       0       0       0      51
+
+=== Year 2015, Fold 1 ===
+              precision    recall  f1-score   support
+
+           0      0.000     0.000     0.000         4
+           1      0.000     0.000     0.000         2
+           2      0.000     0.000     0.000         2
+           3      0.000     0.000     0.000         2
+           4      0.000     0.000     0.000         6
+           5      0.781     1.000     0.877        57
+
+    accuracy                          0.781        73
+   macro avg      0.130     0.167     0.146        73
+weighted avg      0.610     0.781     0.685        73
+
+Confusion Matrix:
+        Pred 0  Pred 1  Pred 2  Pred 3  Pred 4  Pred 5
+True 0       0       0       0       0       0       4
+True 1       0       0       0       0       0       2
+True 2       0       0       0       0       0       2
+True 3       0       0       0       0       0       2
+True 4       0       0       0       0       0       6
+True 5       0       0       0       0       0      57
+
+=== Year 2015, Fold 2 ===
+              precision    recall  f1-score   support
+
+           0      0.000     0.000     0.000         3
+           1      0.000     0.000     0.000         2
+           2      0.000     0.000     0.000         2
+           3      0.000     0.000     0.000         2
+           4      0.000     0.000     0.000         6
+           5      0.792     1.000     0.884        57
+
+    accuracy                          0.792        72
+   macro avg      0.132     0.167     0.147        72
+weighted avg      0.627     0.792     0.700        72
+
+Confusion Matrix:
+        Pred 0  Pred 1  Pred 2  Pred 3  Pred 4  Pred 5
+True 0       0       0       0       0       0       3
+True 1       0       0       0       0       0       2
+True 2       0       0       0       0       0       2
+True 3       0       0       0       0       0       2
+True 4       0       0       0       0       0       6
+True 5       0       0       0       0       0      57
+
+=== Year 2015, Fold 3 ===
+              precision    recall  f1-score   support
+
+           0      0.000     0.000     0.000         3
+           1      0.000     0.000     0.000         2
+           2      0.000     0.000     0.000         2
+           3      0.000     0.000     0.000         2
+           4      0.000     0.000     0.000         6
+           5      0.792     1.000     0.884        57
+
+    accuracy                          0.792        72
+   macro avg      0.132     0.167     0.147        72
+weighted avg      0.627     0.792     0.700        72
+
+Confusion Matrix:
+        Pred 0  Pred 1  Pred 2  Pred 3  Pred 4  Pred 5
+True 0       0       0       0       0       0       3
+True 1       0       0       0       0       0       2
+True 2       0       0       0       0       0       2
+True 3       0       0       0       0       0       2
+True 4       0       0       0       0       0       6
+True 5       0       0       0       0       0      57
+
+=== Year 2015, Fold 4 ===
+              precision    recall  f1-score   support
+
+           0      0.000     0.000     0.000         3
+           1      0.000     0.000     0.000         3
+           2      0.000     0.000     0.000         2
+           3      0.000     0.000     0.000         2
+           4      0.000     0.000     0.000         5
+           5      0.792     1.000     0.884        57
+
+    accuracy                          0.792        72
+   macro avg      0.132     0.167     0.147        72
+weighted avg      0.627     0.792     0.700        72
+
+Confusion Matrix:
+        Pred 0  Pred 1  Pred 2  Pred 3  Pred 4  Pred 5
+True 0       0       0       0       0       0       3
+True 1       0       0       0       0       0       3
+True 2       0       0       0       0       0       2
+True 3       0       0       0       0       0       2
+True 4       0       0       0       0       0       5
+True 5       0       0       0       0       0      57
+
+=== Year 2015, Fold 5 ===
+              precision    recall  f1-score   support
+
+           0      0.000     0.000     0.000         4
+           1      0.000     0.000     0.000         2
+           2      0.000     0.000     0.000         2
+           3      0.000     0.000     0.000         2
+           4      0.000     0.000     0.000         6
+           5      0.778     1.000     0.875        56
+
+    accuracy                          0.778        72
+   macro avg      0.130     0.167     0.146        72
+weighted avg      0.605     0.778     0.681        72
+
+Confusion Matrix:
+        Pred 0  Pred 1  Pred 2  Pred 3  Pred 4  Pred 5
+True 0       0       0       0       0       0       4
+True 1       0       0       0       0       0       2
+True 2       0       0       0       0       0       2
+True 3       0       0       0       0       0       2
+True 4       0       0       0       0       0       6
+True 5       0       0       0       0       0      56
+
+=== Year 2016, Fold 1 ===
+              precision    recall  f1-score   support
+
+           0      0.200     0.500     0.286         2
+           1      0.000     0.000     0.000         3
+           2      0.000     0.000     0.000         2
+           3      0.000     0.000     0.000         3
+           4      0.000     0.000     0.000        11
+           5      0.770     0.983     0.864        58
+
+    accuracy                          0.734        79
+   macro avg      0.162     0.247     0.192        79
+weighted avg      0.571     0.734     0.641        79
+
+Confusion Matrix:
+        Pred 0  Pred 1  Pred 2  Pred 3  Pred 4  Pred 5
+True 0       1       0       0       0       0       1
+True 1       1       0       0       0       0       2
+True 2       0       0       0       0       0       2
+True 3       1       0       0       0       0       2
+True 4       1       0       0       0       0      10
+True 5       1       0       0       0       0      57
+
+=== Year 2016, Fold 2 ===
+              precision    recall  f1-score   support
+
+           0      0.000     0.000     0.000         2
+           1      0.000     0.000     0.000         2
+           2      0.000     0.000     0.000         2
+           3      0.000     0.000     0.000         3
+           4      0.000     0.000     0.000        11
+           5      0.740     0.983     0.844        58
+
+    accuracy                          0.731        78
+   macro avg      0.123     0.164     0.141        78
+weighted avg      0.550     0.731     0.628        78
+
+Confusion Matrix:
+        Pred 0  Pred 1  Pred 2  Pred 3  Pred 4  Pred 5
+True 0       0       0       0       0       0       2
+True 1       0       0       0       0       0       2
+True 2       0       0       0       0       0       2
+True 3       0       0       0       0       0       3
+True 4       0       0       0       0       0      11
+True 5       1       0       0       0       0      57
+
+=== Year 2016, Fold 3 ===
+              precision    recall  f1-score   support
+
+           0      0.000     0.000     0.000         2
+           1      0.000     0.000     0.000         2
+           2      0.000     0.000     0.000         3
+           3      0.000     0.000     0.000         3
+           4      0.000     0.000     0.000        10
+           5      0.740     0.983     0.844        58
+
+    accuracy                          0.731        78
+   macro avg      0.123     0.164     0.141        78
+weighted avg      0.550     0.731     0.628        78
+
+Confusion Matrix:
+        Pred 0  Pred 1  Pred 2  Pred 3  Pred 4  Pred 5
+True 0       0       0       0       0       0       2
+True 1       0       0       0       0       0       2
+True 2       0       0       0       0       0       3
+True 3       0       0       0       0       0       3
+True 4       0       0       0       0       0      10
+True 5       1       0       0       0       0      57
+
+=== Year 2016, Fold 4 ===
+              precision    recall  f1-score   support
+
+           0      0.000     0.000     0.000         3
+           1      0.000     0.000     0.000         2
+           2      0.000     0.000     0.000         2
+           3      0.000     0.000     0.000         3
+           4      0.000     0.000     0.000        10
+           5      0.744     1.000     0.853        58
+
+    accuracy                          0.744        78
+   macro avg      0.124     0.167     0.142        78
+weighted avg      0.553     0.744     0.634        78
+
+Confusion Matrix:
+        Pred 0  Pred 1  Pred 2  Pred 3  Pred 4  Pred 5
+True 0       0       0       0       0       0       3
+True 1       0       0       0       0       0       2
+True 2       0       0       0       0       0       2
+True 3       0       0       0       0       0       3
+True 4       0       0       0       0       0      10
+True 5       0       0       0       0       0      58
+
+=== Year 2016, Fold 5 ===
+              precision    recall  f1-score   support
+
+           0      0.000     0.000     0.000         3
+           1      0.000     0.000     0.000         2
+           2      0.000     0.000     0.000         2
+           3      0.000     0.000     0.000         3
+           4      0.000     0.000     0.000        11
+           5      0.731     1.000     0.844        57
+
+    accuracy                          0.731        78
+   macro avg      0.122     0.167     0.141        78
+weighted avg      0.534     0.731     0.617        78
+
+Confusion Matrix:
+        Pred 0  Pred 1  Pred 2  Pred 3  Pred 4  Pred 5
+True 0       0       0       0       0       0       3
+True 1       0       0       0       0       0       2
+True 2       0       0       0       0       0       2
+True 3       0       0       0       0       0       3
+True 4       0       0       0       0       0      11
+True 5       0       0       0       0       0      57
+
+=== Year 2017, Fold 1 ===
+              precision    recall  f1-score   support
+
+           0      0.000     0.000     0.000         2
+           1      0.000     0.000     0.000         2
+           2      0.000     0.000     0.000         4
+           3      0.000     0.000     0.000         3
+           4      0.000     0.000     0.000         5
+           5      0.803     1.000     0.891        57
+
+    accuracy                          0.781        73
+   macro avg      0.134     0.167     0.148        73
+weighted avg      0.627     0.781     0.695        73
+
+Confusion Matrix:
+        Pred 0  Pred 1  Pred 2  Pred 3  Pred 4  Pred 5
+True 0       0       0       0       0       0       2
+True 1       1       0       0       0       0       1
+True 2       1       0       0       0       0       3
+True 3       0       0       0       0       0       3
+True 4       0       0       0       0       0       5
+True 5       0       0       0       0       0      57
+
+=== Year 2017, Fold 2 ===
+              precision    recall  f1-score   support
+
+           0      0.000     0.000     0.000         2
+           1      0.000     0.000     0.000         2
+           2      0.000     0.000     0.000         3
+           3      0.000     0.000     0.000         3
+           4      0.000     0.000     0.000         5
+           5      0.803     1.000     0.891        57
+
+    accuracy                          0.792        72
+   macro avg      0.134     0.167     0.148        72
+weighted avg      0.636     0.792     0.705        72
+
+Confusion Matrix:
+        Pred 0  Pred 1  Pred 2  Pred 3  Pred 4  Pred 5
+True 0       0       0       0       0       0       2
+True 1       0       0       0       0       0       2
+True 2       0       0       0       0       0       3
+True 3       0       0       0       0       0       3
+True 4       1       0       0       0       0       4
+True 5       0       0       0       0       0      57
+
+=== Year 2017, Fold 3 ===
+              precision    recall  f1-score   support
+
+           0      0.500     0.500     0.500         2
+           1      0.000     0.000     0.000         3
+           2      0.000     0.000     0.000         3
+           3      0.000     0.000     0.000         3
+           4      0.000     0.000     0.000         5
+           5      0.800     1.000     0.889        56
+
+    accuracy                          0.792        72
+   macro avg      0.217     0.250     0.231        72
+weighted avg      0.636     0.792     0.705        72
+
+Confusion Matrix:
+        Pred 0  Pred 1  Pred 2  Pred 3  Pred 4  Pred 5
+True 0       1       0       0       0       0       1
+True 1       0       0       0       0       0       3
+True 2       0       0       0       0       0       3
+True 3       1       0       0       0       0       2
+True 4       0       0       0       0       0       5
+True 5       0       0       0       0       0      56
+
+=== Year 2017, Fold 4 ===
+              precision    recall  f1-score   support
+
+           0      0.000     0.000     0.000         2
+           1      0.000     0.000     0.000         2
+           2      0.000     0.000     0.000         3
+           3      0.000     0.000     0.000         4
+           4      0.000     0.000     0.000         5
+           5      0.778     1.000     0.875        56
+
+    accuracy                          0.778        72
+   macro avg      0.130     0.167     0.146        72
+weighted avg      0.605     0.778     0.681        72
+
+Confusion Matrix:
+        Pred 0  Pred 1  Pred 2  Pred 3  Pred 4  Pred 5
+True 0       0       0       0       0       0       2
+True 1       0       0       0       0       0       2
+True 2       0       0       0       0       0       3
+True 3       0       0       0       0       0       4
+True 4       0       0       0       0       0       5
+True 5       0       0       0       0       0      56
+
+=== Year 2017, Fold 5 ===
+              precision    recall  f1-score   support
+
+           0      0.000     0.000     0.000         2
+           1      0.000     0.000     0.000         2
+           2      0.000     0.000     0.000         3
+           3      0.000     0.000     0.000         4
+           4      0.000     0.000     0.000         5
+           5      0.778     1.000     0.875        56
+
+    accuracy                          0.778        72
+   macro avg      0.130     0.167     0.146        72
+weighted avg      0.605     0.778     0.681        72
+
+Confusion Matrix:
+        Pred 0  Pred 1  Pred 2  Pred 3  Pred 4  Pred 5
+True 0       0       0       0       0       0       2
+True 1       0       0       0       0       0       2
+True 2       0       0       0       0       0       3
+True 3       0       0       0       0       0       4
+True 4       0       0       0       0       0       5
+True 5       0       0       0       0       0      56
+
+=== Year 2018, Fold 1 ===
+              precision    recall  f1-score   support
+
+           0      0.000     0.000     0.000         2
+           1      0.000     0.000     0.000         3
+           2      0.000     0.000     0.000         4
+           3      0.000     0.000     0.000         3
+           4      0.000     0.000     0.000         3
+           5      0.795     0.983     0.879        59
+
+    accuracy                          0.784        74
+   macro avg      0.132     0.164     0.146        74
+weighted avg      0.633     0.784     0.701        74
+
+Confusion Matrix:
+        Pred 0  Pred 1  Pred 2  Pred 3  Pred 4  Pred 5
+True 0       0       0       0       0       0       2
+True 1       0       0       0       0       0       3
+True 2       0       0       0       0       0       4
+True 3       0       0       0       0       0       3
+True 4       0       0       0       0       0       3
+True 5       1       0       0       0       0      58
+
+=== Year 2018, Fold 2 ===
+              precision    recall  f1-score   support
+
+           0      0.000     0.000     0.000         2
+           1      0.000     0.000     0.000         2
+           2      0.000     0.000     0.000         5
+           3      0.000     0.000     0.000         3
+           4      0.000     0.000     0.000         3
+           5      0.795     0.983     0.879        59
+
+    accuracy                          0.784        74
+   macro avg      0.132     0.164     0.146        74
+weighted avg      0.633     0.784     0.701        74
+
+Confusion Matrix:
+        Pred 0  Pred 1  Pred 2  Pred 3  Pred 4  Pred 5
+True 0       0       0       0       0       0       2
+True 1       0       0       0       0       0       2
+True 2       0       0       0       0       0       5
+True 3       0       0       0       0       0       3
+True 4       0       0       0       0       0       3
+True 5       1       0       0       0       0      58
+
+=== Year 2018, Fold 3 ===
+              precision    recall  f1-score   support
+
+           0      0.000     0.000     0.000         3
+           1      0.000     0.000     0.000         2
+           2      0.000     0.000     0.000         4
+           3      0.000     0.000     0.000         3
+           4      0.000     0.000     0.000         3
+           5      0.797     1.000     0.887        59
+
+    accuracy                          0.797        74
+   macro avg      0.133     0.167     0.148        74
+weighted avg      0.636     0.797     0.707        74
+
+Confusion Matrix:
+        Pred 0  Pred 1  Pred 2  Pred 3  Pred 4  Pred 5
+True 0       0       0       0       0       0       3
+True 1       0       0       0       0       0       2
+True 2       0       0       0       0       0       4
+True 3       0       0       0       0       0       3
+True 4       0       0       0       0       0       3
+True 5       0       0       0       0       0      59
+
+=== Year 2018, Fold 4 ===
+              precision    recall  f1-score   support
+
+           0      0.000     0.000     0.000         3
+           1      0.000     0.000     0.000         3
+           2      0.000     0.000     0.000         4
+           3      0.000     0.000     0.000         3
+           4      0.000     0.000     0.000         3
+           5      0.784     1.000     0.879        58
+
+    accuracy                          0.784        74
+   macro avg      0.131     0.167     0.146        74
+weighted avg      0.614     0.784     0.689        74
+
+Confusion Matrix:
+        Pred 0  Pred 1  Pred 2  Pred 3  Pred 4  Pred 5
+True 0       0       0       0       0       0       3
+True 1       0       0       0       0       0       3
+True 2       0       0       0       0       0       4
+True 3       0       0       0       0       0       3
+True 4       0       0       0       0       0       3
+True 5       0       0       0       0       0      58
+
+=== Year 2018, Fold 5 ===
+              precision    recall  f1-score   support
+
+           0      0.000     0.000     0.000         2
+           1      0.000     0.000     0.000         3
+           2      0.000     0.000     0.000         4
+           3      0.000     0.000     0.000         3
+           4      0.000     0.000     0.000         3
+           5      0.795     1.000     0.885        58
+
+    accuracy                          0.795        73
+   macro avg      0.132     0.167     0.148        73
+weighted avg      0.631     0.795     0.704        73
+
+Confusion Matrix:
+        Pred 0  Pred 1  Pred 2  Pred 3  Pred 4  Pred 5
+True 0       0       0       0       0       0       2
+True 1       0       0       0       0       0       3
+True 2       0       0       0       0       0       4
+True 3       0       0       0       0       0       3
+True 4       0       0       0       0       0       3
+True 5       0       0       0       0       0      58
+
+=== Year 2019, Fold 1 ===
+              precision    recall  f1-score   support
+
+           0      0.000     0.000     0.000         2
+           1      0.000     0.000     0.000         2
+           2      0.000     0.000     0.000         3
+           3      0.000     0.000     0.000         3
+           4      0.000     0.000     0.000        12
+           5      0.734     1.000     0.847        58
+
+    accuracy                          0.725        80
+   macro avg      0.122     0.167     0.141        80
+weighted avg      0.532     0.725     0.614        80
+
+Confusion Matrix:
+        Pred 0  Pred 1  Pred 2  Pred 3  Pred 4  Pred 5
+True 0       0       0       0       0       0       2
+True 1       0       0       0       0       0       2
+True 2       1       0       0       0       0       2
+True 3       0       0       0       0       0       3
+True 4       0       0       0       0       0      12
+True 5       0       0       0       0       0      58
+
+=== Year 2019, Fold 2 ===
+              precision    recall  f1-score   support
+
+           0      0.333     0.500     0.400         2
+           1      0.000     0.000     0.000         2
+           2      0.000     0.000     0.000         3
+           3      0.000     0.000     0.000         3
+           4      0.000     0.000     0.000        13
+           5      0.727     0.982     0.836        57
+
+    accuracy                          0.713        80
+   macro avg      0.177     0.247     0.206        80
+weighted avg      0.527     0.713     0.606        80
+
+Confusion Matrix:
+        Pred 0  Pred 1  Pred 2  Pred 3  Pred 4  Pred 5
+True 0       1       0       0       0       0       1
+True 1       0       0       0       0       0       2
+True 2       0       0       0       0       0       3
+True 3       0       0       0       0       0       3
+True 4       1       0       0       0       0      12
+True 5       1       0       0       0       0      56
+
+=== Year 2019, Fold 3 ===
+              precision    recall  f1-score   support
+
+           0      0.000     0.000     0.000         2
+           1      0.000     0.000     0.000         2
+           2      0.000     0.000     0.000         3
+           3      0.000     0.000     0.000         3
+           4      0.000     0.000     0.000        13
+           5      0.713     1.000     0.832        57
+
+    accuracy                          0.713        80
+   macro avg      0.119     0.167     0.139        80
+weighted avg      0.508     0.713     0.593        80
+
+Confusion Matrix:
+        Pred 0  Pred 1  Pred 2  Pred 3  Pred 4  Pred 5
+True 0       0       0       0       0       0       2
+True 1       0       0       0       0       0       2
+True 2       0       0       0       0       0       3
+True 3       0       0       0       0       0       3
+True 4       0       0       0       0       0      13
+True 5       0       0       0       0       0      57
+
+=== Year 2019, Fold 4 ===
+              precision    recall  f1-score   support
+
+           0      0.000     0.000     0.000         2
+           1      0.000     0.000     0.000         3
+           2      0.000     0.000     0.000         2
+           3      0.000     0.000     0.000         2
+           4      0.000     0.000     0.000        13
+           5      0.727     0.982     0.836        57
+
+    accuracy                          0.709        79
+   macro avg      0.121     0.164     0.139        79
+weighted avg      0.525     0.709     0.603        79
+
+Confusion Matrix:
+        Pred 0  Pred 1  Pred 2  Pred 3  Pred 4  Pred 5
+True 0       0       0       0       0       0       2
+True 1       0       0       0       0       0       3
+True 2       1       0       0       0       0       1
+True 3       0       0       0       0       0       2
+True 4       0       0       0       0       0      13
+True 5       1       0       0       0       0      56
+
+=== Year 2019, Fold 5 ===
+              precision    recall  f1-score   support
+
+           0      0.000     0.000     0.000         2
+           1      0.000     0.000     0.000         2
+           2      0.000     0.000     0.000         3
+           3      0.000     0.000     0.000         3
+           4      0.000     0.000     0.000        12
+           5      0.718     0.982     0.830        57
+
+    accuracy                          0.709        79
+   macro avg      0.120     0.164     0.138        79
+weighted avg      0.518     0.709     0.599        79
+
+Confusion Matrix:
+        Pred 0  Pred 1  Pred 2  Pred 3  Pred 4  Pred 5
+True 0       0       0       0       0       0       2
+True 1       0       0       0       0       0       2
+True 2       0       0       0       0       0       3
+True 3       0       0       0       0       0       3
+True 4       0       0       0       0       0      12
+True 5       1       0       0       0       0      56
+
+=== Year 2020, Fold 1 ===
+              precision    recall  f1-score   support
+
+           0      0.000     0.000     0.000         2
+           1      0.000     0.000     0.000         4
+           2      0.000     0.000     0.000         3
+           3      0.000     0.000     0.000         3
+           4      0.000     0.000     0.000        12
+           5      0.688     1.000     0.815        53
+
+    accuracy                          0.688        77
+   macro avg      0.115     0.167     0.136        77
+weighted avg      0.474     0.688     0.561        77
+
+Confusion Matrix:
+        Pred 0  Pred 1  Pred 2  Pred 3  Pred 4  Pred 5
+True 0       0       0       0       0       0       2
+True 1       0       0       0       0       0       4
+True 2       0       0       0       0       0       3
+True 3       0       0       0       0       0       3
+True 4       0       0       0       0       0      12
+True 5       0       0       0       0       0      53
+
+=== Year 2020, Fold 2 ===
+              precision    recall  f1-score   support
+
+           0      0.000     0.000     0.000         2
+           1      0.000     0.000     0.000         4
+           2      0.000     0.000     0.000         3
+           3      0.000     0.000     0.000         3
+           4      0.000     0.000     0.000        12
+           5      0.684     0.981     0.806        53
+
+    accuracy                          0.675        77
+   macro avg      0.114     0.164     0.134        77
+weighted avg      0.471     0.675     0.555        77
+
+Confusion Matrix:
+        Pred 0  Pred 1  Pred 2  Pred 3  Pred 4  Pred 5
+True 0       0       0       0       0       0       2
+True 1       0       0       0       0       0       4
+True 2       0       0       0       0       0       3
+True 3       0       0       0       0       0       3
+True 4       0       0       0       0       0      12
+True 5       1       0       0       0       0      52
+
+=== Year 2020, Fold 3 ===
+              precision    recall  f1-score   support
+
+           0      0.250     0.500     0.333         2
+           1      0.000     0.000     0.000         4
+           2      0.000     0.000     0.000         2
+           3      0.000     0.000     0.000         3
+           4      0.000     0.000     0.000        13
+           5      0.694     0.962     0.806        52
+
+    accuracy                          0.671        76
+   macro avg      0.157     0.244     0.190        76
+weighted avg      0.482     0.671     0.561        76
+
+Confusion Matrix:
+        Pred 0  Pred 1  Pred 2  Pred 3  Pred 4  Pred 5
+True 0       1       0       0       0       0       1
+True 1       0       0       0       0       0       4
+True 2       0       0       0       0       0       2
+True 3       0       0       0       0       0       3
+True 4       1       0       0       0       0      12
+True 5       2       0       0       0       0      50
+
+=== Year 2020, Fold 4 ===
+              precision    recall  f1-score   support
+
+           0      0.000     0.000     0.000         2
+           1      0.000     0.000     0.000         4
+           2      0.000     0.000     0.000         2
+           3      0.000     0.000     0.000         3
+           4      0.000     0.000     0.000        13
+           5      0.684     1.000     0.813        52
+
+    accuracy                          0.684        76
+   macro avg      0.114     0.167     0.135        76
+weighted avg      0.468     0.684     0.556        76
+
+Confusion Matrix:
+        Pred 0  Pred 1  Pred 2  Pred 3  Pred 4  Pred 5
+True 0       0       0       0       0       0       2
+True 1       0       0       0       0       0       4
+True 2       0       0       0       0       0       2
+True 3       0       0       0       0       0       3
+True 4       0       0       0       0       0      13
+True 5       0       0       0       0       0      52
+
+=== Year 2020, Fold 5 ===
+              precision    recall  f1-score   support
+
+           0      0.000     0.000     0.000         2
+           1      0.000     0.000     0.000         3
+           2      0.000     0.000     0.000         3
+           3      0.000     0.000     0.000         3
+           4      0.000     0.000     0.000        13
+           5      0.676     0.923     0.780        52
+
+    accuracy                          0.632        76
+   macro avg      0.113     0.154     0.130        76
+weighted avg      0.463     0.632     0.534        76
+
+Confusion Matrix:
+        Pred 0  Pred 1  Pred 2  Pred 3  Pred 4  Pred 5
+True 0       0       0       0       0       0       2
+True 1       0       0       0       0       0       3
+True 2       0       0       0       0       0       3
+True 3       0       1       0       0       0       2
+True 4       0       0       0       0       0      13
+True 5       4       0       0       0       0      48
+

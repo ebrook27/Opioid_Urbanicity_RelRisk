@@ -1,0 +1,4681 @@
+Feature,Importance,county_class,Year,Fold
+Aged 17 or Younger,0.0943814,1,2010,1
+Aged 65 or Older,0.10320697,1,2010,1
+Below Poverty,0.043604724,1,2010,1
+Crowding,0.14860867,1,2010,1
+Group Quarters,0.06967314,1,2010,1
+Limited English Ability,0.1110364,1,2010,1
+Minority Status,0.06347369,1,2010,1
+Mobile Homes,0.03922235,1,2010,1
+Multi-Unit Structures,0.06468809,1,2010,1
+No High School Diploma,0.11830952,1,2010,1
+No Vehicle,0.055526014,1,2010,1
+Single-Parent Household,0.04417099,1,2010,1
+Unemployment,0.044098016,1,2010,1
+Aged 17 or Younger,0.081984885,1,2010,2
+Aged 65 or Older,0.03742472,1,2010,2
+Below Poverty,0.08225783,1,2010,2
+Crowding,0.11893595,1,2010,2
+Group Quarters,0.08244446,1,2010,2
+Limited English Ability,0.10414516,1,2010,2
+Minority Status,0.08601362,1,2010,2
+Mobile Homes,0.04408698,1,2010,2
+Multi-Unit Structures,0.10145576,1,2010,2
+No High School Diploma,0.08363271,1,2010,2
+No Vehicle,0.05940024,1,2010,2
+Single-Parent Household,0.06190506,1,2010,2
+Unemployment,0.056312628,1,2010,2
+Aged 17 or Younger,0.10869738,1,2010,3
+Aged 65 or Older,0.07774823,1,2010,3
+Below Poverty,0.050660998,1,2010,3
+Crowding,0.11624401,1,2010,3
+Group Quarters,0.07369775,1,2010,3
+Limited English Ability,0.07819868,1,2010,3
+Minority Status,0.075440206,1,2010,3
+Mobile Homes,0.059098147,1,2010,3
+Multi-Unit Structures,0.07527423,1,2010,3
+No High School Diploma,0.10129579,1,2010,3
+No Vehicle,0.07352221,1,2010,3
+Single-Parent Household,0.045381993,1,2010,3
+Unemployment,0.06474031,1,2010,3
+Aged 17 or Younger,0.0825778,1,2010,4
+Aged 65 or Older,0.0673343,1,2010,4
+Below Poverty,0.056250438,1,2010,4
+Crowding,0.12499356,1,2010,4
+Group Quarters,0.11184093,1,2010,4
+Limited English Ability,0.07620248,1,2010,4
+Minority Status,0.103525996,1,2010,4
+Mobile Homes,0.046321392,1,2010,4
+Multi-Unit Structures,0.076858565,1,2010,4
+No High School Diploma,0.079935655,1,2010,4
+No Vehicle,0.06958661,1,2010,4
+Single-Parent Household,0.058082275,1,2010,4
+Unemployment,0.046490032,1,2010,4
+Aged 17 or Younger,0.094196126,1,2010,5
+Aged 65 or Older,0.06956026,1,2010,5
+Below Poverty,0.059378196,1,2010,5
+Crowding,0.10203243,1,2010,5
+Group Quarters,0.11851583,1,2010,5
+Limited English Ability,0.1052425,1,2010,5
+Minority Status,0.07335633,1,2010,5
+Mobile Homes,0.053809885,1,2010,5
+Multi-Unit Structures,0.058601625,1,2010,5
+No High School Diploma,0.097654656,1,2010,5
+No Vehicle,0.06578078,1,2010,5
+Single-Parent Household,0.053893324,1,2010,5
+Unemployment,0.04797814,1,2010,5
+Aged 17 or Younger,0.08042616,1,2011,1
+Aged 65 or Older,0.15566868,1,2011,1
+Below Poverty,0.03984789,1,2011,1
+Crowding,0.14135727,1,2011,1
+Group Quarters,0.052503616,1,2011,1
+Limited English Ability,0.09358936,1,2011,1
+Minority Status,0.070980445,1,2011,1
+Mobile Homes,0.0349695,1,2011,1
+Multi-Unit Structures,0.07378063,1,2011,1
+No High School Diploma,0.107092574,1,2011,1
+No Vehicle,0.04492412,1,2011,1
+Single-Parent Household,0.045654397,1,2011,1
+Unemployment,0.0592053,1,2011,1
+Aged 17 or Younger,0.057358395,1,2011,2
+Aged 65 or Older,0.079116344,1,2011,2
+Below Poverty,0.080211625,1,2011,2
+Crowding,0.08120628,1,2011,2
+Group Quarters,0.07315473,1,2011,2
+Limited English Ability,0.12014858,1,2011,2
+Minority Status,0.07192355,1,2011,2
+Mobile Homes,0.039208863,1,2011,2
+Multi-Unit Structures,0.16433695,1,2011,2
+No High School Diploma,0.05638612,1,2011,2
+No Vehicle,0.068071395,1,2011,2
+Single-Parent Household,0.06880308,1,2011,2
+Unemployment,0.040074177,1,2011,2
+Aged 17 or Younger,0.052133165,1,2011,3
+Aged 65 or Older,0.11476867,1,2011,3
+Below Poverty,0.06923718,1,2011,3
+Crowding,0.102092564,1,2011,3
+Group Quarters,0.056282774,1,2011,3
+Limited English Ability,0.06292544,1,2011,3
+Minority Status,0.092188135,1,2011,3
+Mobile Homes,0.04317676,1,2011,3
+Multi-Unit Structures,0.10159074,1,2011,3
+No High School Diploma,0.09286583,1,2011,3
+No Vehicle,0.081455916,1,2011,3
+Single-Parent Household,0.050429396,1,2011,3
+Unemployment,0.08085342,1,2011,3
+Aged 17 or Younger,0.04621682,1,2011,4
+Aged 65 or Older,0.094504595,1,2011,4
+Below Poverty,0.057213392,1,2011,4
+Crowding,0.14562885,1,2011,4
+Group Quarters,0.09883026,1,2011,4
+Limited English Ability,0.098002754,1,2011,4
+Minority Status,0.07721032,1,2011,4
+Mobile Homes,0.026626768,1,2011,4
+Multi-Unit Structures,0.106723264,1,2011,4
+No High School Diploma,0.092723064,1,2011,4
+No Vehicle,0.049322885,1,2011,4
+Single-Parent Household,0.05349478,1,2011,4
+Unemployment,0.05350226,1,2011,4
+Aged 17 or Younger,0.06925767,1,2011,5
+Aged 65 or Older,0.08900744,1,2011,5
+Below Poverty,0.06404586,1,2011,5
+Crowding,0.11198693,1,2011,5
+Group Quarters,0.07917333,1,2011,5
+Limited English Ability,0.109229095,1,2011,5
+Minority Status,0.06490458,1,2011,5
+Mobile Homes,0.044221446,1,2011,5
+Multi-Unit Structures,0.06878391,1,2011,5
+No High School Diploma,0.09383454,1,2011,5
+No Vehicle,0.11221208,1,2011,5
+Single-Parent Household,0.044004,1,2011,5
+Unemployment,0.049339242,1,2011,5
+Aged 17 or Younger,0.08212734,1,2012,1
+Aged 65 or Older,0.112452246,1,2012,1
+Below Poverty,0.04991488,1,2012,1
+Crowding,0.10122116,1,2012,1
+Group Quarters,0.04518394,1,2012,1
+Limited English Ability,0.12886666,1,2012,1
+Minority Status,0.067833,1,2012,1
+Mobile Homes,0.032194342,1,2012,1
+Multi-Unit Structures,0.08636867,1,2012,1
+No High School Diploma,0.0754667,1,2012,1
+No Vehicle,0.056114353,1,2012,1
+Single-Parent Household,0.0878348,1,2012,1
+Unemployment,0.074421905,1,2012,1
+Aged 17 or Younger,0.06409679,1,2012,2
+Aged 65 or Older,0.07297271,1,2012,2
+Below Poverty,0.07619006,1,2012,2
+Crowding,0.112943426,1,2012,2
+Group Quarters,0.052805677,1,2012,2
+Limited English Ability,0.0865424,1,2012,2
+Minority Status,0.06668532,1,2012,2
+Mobile Homes,0.058924973,1,2012,2
+Multi-Unit Structures,0.13101372,1,2012,2
+No High School Diploma,0.08263408,1,2012,2
+No Vehicle,0.050813586,1,2012,2
+Single-Parent Household,0.0980705,1,2012,2
+Unemployment,0.046306726,1,2012,2
+Aged 17 or Younger,0.06526138,1,2012,3
+Aged 65 or Older,0.09817545,1,2012,3
+Below Poverty,0.05595002,1,2012,3
+Crowding,0.10409161,1,2012,3
+Group Quarters,0.062379174,1,2012,3
+Limited English Ability,0.072083205,1,2012,3
+Minority Status,0.0869052,1,2012,3
+Mobile Homes,0.032128673,1,2012,3
+Multi-Unit Structures,0.100305796,1,2012,3
+No High School Diploma,0.09095715,1,2012,3
+No Vehicle,0.06897679,1,2012,3
+Single-Parent Household,0.083252616,1,2012,3
+Unemployment,0.079532966,1,2012,3
+Aged 17 or Younger,0.034349814,1,2012,4
+Aged 65 or Older,0.06865024,1,2012,4
+Below Poverty,0.05950592,1,2012,4
+Crowding,0.1539006,1,2012,4
+Group Quarters,0.08740346,1,2012,4
+Limited English Ability,0.12850522,1,2012,4
+Minority Status,0.06452762,1,2012,4
+Mobile Homes,0.04222169,1,2012,4
+Multi-Unit Structures,0.08902814,1,2012,4
+No High School Diploma,0.06964144,1,2012,4
+No Vehicle,0.08484208,1,2012,4
+Single-Parent Household,0.07498378,1,2012,4
+Unemployment,0.042439915,1,2012,4
+Aged 17 or Younger,0.039921716,1,2012,5
+Aged 65 or Older,0.06307715,1,2012,5
+Below Poverty,0.075036936,1,2012,5
+Crowding,0.096697636,1,2012,5
+Group Quarters,0.0860801,1,2012,5
+Limited English Ability,0.14757586,1,2012,5
+Minority Status,0.067785494,1,2012,5
+Mobile Homes,0.04914096,1,2012,5
+Multi-Unit Structures,0.06522191,1,2012,5
+No High School Diploma,0.07973451,1,2012,5
+No Vehicle,0.07478069,1,2012,5
+Single-Parent Household,0.08453767,1,2012,5
+Unemployment,0.07040944,1,2012,5
+Aged 17 or Younger,0.055246975,1,2013,1
+Aged 65 or Older,0.088566996,1,2013,1
+Below Poverty,0.0640602,1,2013,1
+Crowding,0.12866008,1,2013,1
+Group Quarters,0.05985725,1,2013,1
+Limited English Ability,0.10884072,1,2013,1
+Minority Status,0.046680592,1,2013,1
+Mobile Homes,0.019864503,1,2013,1
+Multi-Unit Structures,0.04169209,1,2013,1
+No High School Diploma,0.06758117,1,2013,1
+No Vehicle,0.055130195,1,2013,1
+Single-Parent Household,0.16408643,1,2013,1
+Unemployment,0.09973277,1,2013,1
+Aged 17 or Younger,0.058939725,1,2013,2
+Aged 65 or Older,0.05326957,1,2013,2
+Below Poverty,0.103499144,1,2013,2
+Crowding,0.10368406,1,2013,2
+Group Quarters,0.04924794,1,2013,2
+Limited English Ability,0.092655405,1,2013,2
+Minority Status,0.059276957,1,2013,2
+Mobile Homes,0.063500725,1,2013,2
+Multi-Unit Structures,0.10197238,1,2013,2
+No High School Diploma,0.06479596,1,2013,2
+No Vehicle,0.051566925,1,2013,2
+Single-Parent Household,0.1518841,1,2013,2
+Unemployment,0.045707185,1,2013,2
+Aged 17 or Younger,0.05332666,1,2013,3
+Aged 65 or Older,0.08137653,1,2013,3
+Below Poverty,0.052515373,1,2013,3
+Crowding,0.12938133,1,2013,3
+Group Quarters,0.05012071,1,2013,3
+Limited English Ability,0.08216442,1,2013,3
+Minority Status,0.068553954,1,2013,3
+Mobile Homes,0.02247276,1,2013,3
+Multi-Unit Structures,0.051384382,1,2013,3
+No High School Diploma,0.08363853,1,2013,3
+No Vehicle,0.04846638,1,2013,3
+Single-Parent Household,0.16946806,1,2013,3
+Unemployment,0.10713087,1,2013,3
+Aged 17 or Younger,0.032881368,1,2013,4
+Aged 65 or Older,0.06272801,1,2013,4
+Below Poverty,0.063846156,1,2013,4
+Crowding,0.15679984,1,2013,4
+Group Quarters,0.085536286,1,2013,4
+Limited English Ability,0.08715383,1,2013,4
+Minority Status,0.062363837,1,2013,4
+Mobile Homes,0.027169492,1,2013,4
+Multi-Unit Structures,0.04708911,1,2013,4
+No High School Diploma,0.065587096,1,2013,4
+No Vehicle,0.09101957,1,2013,4
+Single-Parent Household,0.12006433,1,2013,4
+Unemployment,0.09776106,1,2013,4
+Aged 17 or Younger,0.028515784,1,2013,5
+Aged 65 or Older,0.067266874,1,2013,5
+Below Poverty,0.061087035,1,2013,5
+Crowding,0.08348288,1,2013,5
+Group Quarters,0.08538449,1,2013,5
+Limited English Ability,0.10236493,1,2013,5
+Minority Status,0.06337586,1,2013,5
+Mobile Homes,0.031988144,1,2013,5
+Multi-Unit Structures,0.049361337,1,2013,5
+No High School Diploma,0.05660796,1,2013,5
+No Vehicle,0.053851202,1,2013,5
+Single-Parent Household,0.20145376,1,2013,5
+Unemployment,0.11525972,1,2013,5
+Aged 17 or Younger,0.047446873,1,2014,1
+Aged 65 or Older,0.061457593,1,2014,1
+Below Poverty,0.05935204,1,2014,1
+Crowding,0.1398032,1,2014,1
+Group Quarters,0.06329256,1,2014,1
+Limited English Ability,0.14462751,1,2014,1
+Minority Status,0.03800221,1,2014,1
+Mobile Homes,0.017007459,1,2014,1
+Multi-Unit Structures,0.067462526,1,2014,1
+No High School Diploma,0.03551716,1,2014,1
+No Vehicle,0.1022409,1,2014,1
+Single-Parent Household,0.14471763,1,2014,1
+Unemployment,0.07907234,1,2014,1
+Aged 17 or Younger,0.056186203,1,2014,2
+Aged 65 or Older,0.050029103,1,2014,2
+Below Poverty,0.060313836,1,2014,2
+Crowding,0.16450752,1,2014,2
+Group Quarters,0.06643567,1,2014,2
+Limited English Ability,0.0973626,1,2014,2
+Minority Status,0.04782569,1,2014,2
+Mobile Homes,0.030202985,1,2014,2
+Multi-Unit Structures,0.09694522,1,2014,2
+No High School Diploma,0.046505373,1,2014,2
+No Vehicle,0.10997331,1,2014,2
+Single-Parent Household,0.1280992,1,2014,2
+Unemployment,0.045613274,1,2014,2
+Aged 17 or Younger,0.056867827,1,2014,3
+Aged 65 or Older,0.0829968,1,2014,3
+Below Poverty,0.0673857,1,2014,3
+Crowding,0.14063917,1,2014,3
+Group Quarters,0.08641234,1,2014,3
+Limited English Ability,0.07271946,1,2014,3
+Minority Status,0.059219167,1,2014,3
+Mobile Homes,0.029379243,1,2014,3
+Multi-Unit Structures,0.09445735,1,2014,3
+No High School Diploma,0.042428117,1,2014,3
+No Vehicle,0.0715195,1,2014,3
+Single-Parent Household,0.13164102,1,2014,3
+Unemployment,0.06433426,1,2014,3
+Aged 17 or Younger,0.031589873,1,2014,4
+Aged 65 or Older,0.054345507,1,2014,4
+Below Poverty,0.044975486,1,2014,4
+Crowding,0.20635526,1,2014,4
+Group Quarters,0.08947675,1,2014,4
+Limited English Ability,0.104714245,1,2014,4
+Minority Status,0.04177527,1,2014,4
+Mobile Homes,0.022956867,1,2014,4
+Multi-Unit Structures,0.048924748,1,2014,4
+No High School Diploma,0.039093994,1,2014,4
+No Vehicle,0.18958665,1,2014,4
+Single-Parent Household,0.08435404,1,2014,4
+Unemployment,0.041851293,1,2014,4
+Aged 17 or Younger,0.03241603,1,2014,5
+Aged 65 or Older,0.061331168,1,2014,5
+Below Poverty,0.04522103,1,2014,5
+Crowding,0.11782471,1,2014,5
+Group Quarters,0.110020414,1,2014,5
+Limited English Ability,0.20904371,1,2014,5
+Minority Status,0.051506814,1,2014,5
+Mobile Homes,0.031383574,1,2014,5
+Multi-Unit Structures,0.042846225,1,2014,5
+No High School Diploma,0.037382353,1,2014,5
+No Vehicle,0.06845091,1,2014,5
+Single-Parent Household,0.117448114,1,2014,5
+Unemployment,0.07512499,1,2014,5
+Aged 17 or Younger,0.06449712,1,2015,1
+Aged 65 or Older,0.034439024,1,2015,1
+Below Poverty,0.044713367,1,2015,1
+Crowding,0.10609737,1,2015,1
+Group Quarters,0.08229184,1,2015,1
+Limited English Ability,0.1520072,1,2015,1
+Minority Status,0.033105407,1,2015,1
+Mobile Homes,0.02828203,1,2015,1
+Multi-Unit Structures,0.029917253,1,2015,1
+No High School Diploma,0.052164283,1,2015,1
+No Vehicle,0.19611831,1,2015,1
+Single-Parent Household,0.08504653,1,2015,1
+Unemployment,0.09132035,1,2015,1
+Aged 17 or Younger,0.048921928,1,2015,2
+Aged 65 or Older,0.027911363,1,2015,2
+Below Poverty,0.07305815,1,2015,2
+Crowding,0.087786555,1,2015,2
+Group Quarters,0.10737144,1,2015,2
+Limited English Ability,0.22024535,1,2015,2
+Minority Status,0.01760174,1,2015,2
+Mobile Homes,0.027519831,1,2015,2
+Multi-Unit Structures,0.034308854,1,2015,2
+No High School Diploma,0.045503087,1,2015,2
+No Vehicle,0.1269596,1,2015,2
+Single-Parent Household,0.1406827,1,2015,2
+Unemployment,0.04212951,1,2015,2
+Aged 17 or Younger,0.07673342,1,2015,3
+Aged 65 or Older,0.055470083,1,2015,3
+Below Poverty,0.09087294,1,2015,3
+Crowding,0.1275121,1,2015,3
+Group Quarters,0.11377908,1,2015,3
+Limited English Ability,0.110376745,1,2015,3
+Minority Status,0.03245776,1,2015,3
+Mobile Homes,0.0152989095,1,2015,3
+Multi-Unit Structures,0.024432518,1,2015,3
+No High School Diploma,0.053471643,1,2015,3
+No Vehicle,0.09110499,1,2015,3
+Single-Parent Household,0.09475554,1,2015,3
+Unemployment,0.11373434,1,2015,3
+Aged 17 or Younger,0.052772325,1,2015,4
+Aged 65 or Older,0.019773666,1,2015,4
+Below Poverty,0.053931355,1,2015,4
+Crowding,0.111992076,1,2015,4
+Group Quarters,0.12347298,1,2015,4
+Limited English Ability,0.11056942,1,2015,4
+Minority Status,0.03651863,1,2015,4
+Mobile Homes,0.024069078,1,2015,4
+Multi-Unit Structures,0.032234427,1,2015,4
+No High School Diploma,0.049490638,1,2015,4
+No Vehicle,0.25471467,1,2015,4
+Single-Parent Household,0.046757746,1,2015,4
+Unemployment,0.083702974,1,2015,4
+Aged 17 or Younger,0.05594532,1,2015,5
+Aged 65 or Older,0.045202557,1,2015,5
+Below Poverty,0.044824906,1,2015,5
+Crowding,0.13216962,1,2015,5
+Group Quarters,0.17196456,1,2015,5
+Limited English Ability,0.13674793,1,2015,5
+Minority Status,0.02611505,1,2015,5
+Mobile Homes,0.026753182,1,2015,5
+Multi-Unit Structures,0.045105707,1,2015,5
+No High School Diploma,0.03197045,1,2015,5
+No Vehicle,0.10962928,1,2015,5
+Single-Parent Household,0.07052601,1,2015,5
+Unemployment,0.10304539,1,2015,5
+Aged 17 or Younger,0.04828363,1,2016,1
+Aged 65 or Older,0.024841603,1,2016,1
+Below Poverty,0.037490387,1,2016,1
+Crowding,0.11957344,1,2016,1
+Group Quarters,0.07593389,1,2016,1
+Limited English Ability,0.1399898,1,2016,1
+Minority Status,0.037381556,1,2016,1
+Mobile Homes,0.046492804,1,2016,1
+Multi-Unit Structures,0.035060987,1,2016,1
+No High School Diploma,0.038303636,1,2016,1
+No Vehicle,0.20378481,1,2016,1
+Single-Parent Household,0.08171003,1,2016,1
+Unemployment,0.11115344,1,2016,1
+Aged 17 or Younger,0.054616977,1,2016,2
+Aged 65 or Older,0.039801016,1,2016,2
+Below Poverty,0.06837849,1,2016,2
+Crowding,0.092925385,1,2016,2
+Group Quarters,0.09192443,1,2016,2
+Limited English Ability,0.16145663,1,2016,2
+Minority Status,0.030003661,1,2016,2
+Mobile Homes,0.039152376,1,2016,2
+Multi-Unit Structures,0.051045775,1,2016,2
+No High School Diploma,0.045173593,1,2016,2
+No Vehicle,0.11986029,1,2016,2
+Single-Parent Household,0.1326633,1,2016,2
+Unemployment,0.07299809,1,2016,2
+Aged 17 or Younger,0.06166691,1,2016,3
+Aged 65 or Older,0.040791556,1,2016,3
+Below Poverty,0.09568265,1,2016,3
+Crowding,0.13755055,1,2016,3
+Group Quarters,0.11423818,1,2016,3
+Limited English Ability,0.066415936,1,2016,3
+Minority Status,0.04327504,1,2016,3
+Mobile Homes,0.017392026,1,2016,3
+Multi-Unit Structures,0.036692582,1,2016,3
+No High School Diploma,0.046065748,1,2016,3
+No Vehicle,0.12888154,1,2016,3
+Single-Parent Household,0.09116467,1,2016,3
+Unemployment,0.12018249,1,2016,3
+Aged 17 or Younger,0.042215794,1,2016,4
+Aged 65 or Older,0.024549281,1,2016,4
+Below Poverty,0.06344319,1,2016,4
+Crowding,0.12437225,1,2016,4
+Group Quarters,0.09908221,1,2016,4
+Limited English Ability,0.083539866,1,2016,4
+Minority Status,0.041493136,1,2016,4
+Mobile Homes,0.023349162,1,2016,4
+Multi-Unit Structures,0.039882552,1,2016,4
+No High School Diploma,0.05529981,1,2016,4
+No Vehicle,0.26663843,1,2016,4
+Single-Parent Household,0.04872119,1,2016,4
+Unemployment,0.087413095,1,2016,4
+Aged 17 or Younger,0.013919065,1,2016,5
+Aged 65 or Older,0.027753497,1,2016,5
+Below Poverty,0.028400641,1,2016,5
+Crowding,0.15419924,1,2016,5
+Group Quarters,0.111141115,1,2016,5
+Limited English Ability,0.12764744,1,2016,5
+Minority Status,0.026349355,1,2016,5
+Mobile Homes,0.046773504,1,2016,5
+Multi-Unit Structures,0.058464207,1,2016,5
+No High School Diploma,0.023418268,1,2016,5
+No Vehicle,0.15494232,1,2016,5
+Single-Parent Household,0.092464186,1,2016,5
+Unemployment,0.13452712,1,2016,5
+Aged 17 or Younger,0.029919624,1,2017,1
+Aged 65 or Older,0.032292206,1,2017,1
+Below Poverty,0.123182476,1,2017,1
+Crowding,0.06545349,1,2017,1
+Group Quarters,0.1074833,1,2017,1
+Limited English Ability,0.13691317,1,2017,1
+Minority Status,0.04000125,1,2017,1
+Mobile Homes,0.036131997,1,2017,1
+Multi-Unit Structures,0.018602101,1,2017,1
+No High School Diploma,0.028203176,1,2017,1
+No Vehicle,0.16402349,1,2017,1
+Single-Parent Household,0.07100156,1,2017,1
+Unemployment,0.1467922,1,2017,1
+Aged 17 or Younger,0.022763891,1,2017,2
+Aged 65 or Older,0.020683372,1,2017,2
+Below Poverty,0.112330355,1,2017,2
+Crowding,0.058030717,1,2017,2
+Group Quarters,0.11354329,1,2017,2
+Limited English Ability,0.13378514,1,2017,2
+Minority Status,0.027914757,1,2017,2
+Mobile Homes,0.044465803,1,2017,2
+Multi-Unit Structures,0.034729138,1,2017,2
+No High School Diploma,0.021274522,1,2017,2
+No Vehicle,0.08666951,1,2017,2
+Single-Parent Household,0.24017152,1,2017,2
+Unemployment,0.08363796,1,2017,2
+Aged 17 or Younger,0.057348724,1,2017,3
+Aged 65 or Older,0.04608772,1,2017,3
+Below Poverty,0.07699799,1,2017,3
+Crowding,0.11693923,1,2017,3
+Group Quarters,0.124649435,1,2017,3
+Limited English Ability,0.046854835,1,2017,3
+Minority Status,0.04698707,1,2017,3
+Mobile Homes,0.02266724,1,2017,3
+Multi-Unit Structures,0.04866648,1,2017,3
+No High School Diploma,0.03477736,1,2017,3
+No Vehicle,0.07100211,1,2017,3
+Single-Parent Household,0.089842945,1,2017,3
+Unemployment,0.21717893,1,2017,3
+Aged 17 or Younger,0.027218355,1,2017,4
+Aged 65 or Older,0.020808622,1,2017,4
+Below Poverty,0.12317656,1,2017,4
+Crowding,0.075167544,1,2017,4
+Group Quarters,0.15491253,1,2017,4
+Limited English Ability,0.08130505,1,2017,4
+Minority Status,0.04973752,1,2017,4
+Mobile Homes,0.028218305,1,2017,4
+Multi-Unit Structures,0.025929824,1,2017,4
+No High School Diploma,0.024850542,1,2017,4
+No Vehicle,0.21391289,1,2017,4
+Single-Parent Household,0.04591881,1,2017,4
+Unemployment,0.12884343,1,2017,4
+Aged 17 or Younger,0.01840408,1,2017,5
+Aged 65 or Older,0.029259467,1,2017,5
+Below Poverty,0.06781534,1,2017,5
+Crowding,0.11678288,1,2017,5
+Group Quarters,0.17363895,1,2017,5
+Limited English Ability,0.095757596,1,2017,5
+Minority Status,0.04184501,1,2017,5
+Mobile Homes,0.03394881,1,2017,5
+Multi-Unit Structures,0.028520709,1,2017,5
+No High School Diploma,0.023188211,1,2017,5
+No Vehicle,0.07507157,1,2017,5
+Single-Parent Household,0.088639505,1,2017,5
+Unemployment,0.20712784,1,2017,5
+Aged 17 or Younger,0.04587282,1,2018,1
+Aged 65 or Older,0.034146443,1,2018,1
+Below Poverty,0.13363518,1,2018,1
+Crowding,0.07858128,1,2018,1
+Group Quarters,0.12738998,1,2018,1
+Limited English Ability,0.09865719,1,2018,1
+Minority Status,0.040961493,1,2018,1
+Mobile Homes,0.034245916,1,2018,1
+Multi-Unit Structures,0.02275267,1,2018,1
+No High School Diploma,0.031794388,1,2018,1
+No Vehicle,0.17150362,1,2018,1
+Single-Parent Household,0.058250375,1,2018,1
+Unemployment,0.1222087,1,2018,1
+Aged 17 or Younger,0.045969434,1,2018,2
+Aged 65 or Older,0.032853357,1,2018,2
+Below Poverty,0.08282787,1,2018,2
+Crowding,0.054412127,1,2018,2
+Group Quarters,0.11137334,1,2018,2
+Limited English Ability,0.098530985,1,2018,2
+Minority Status,0.041596103,1,2018,2
+Mobile Homes,0.06889505,1,2018,2
+Multi-Unit Structures,0.03446309,1,2018,2
+No High School Diploma,0.028275,1,2018,2
+No Vehicle,0.11968594,1,2018,2
+Single-Parent Household,0.18800381,1,2018,2
+Unemployment,0.09311391,1,2018,2
+Aged 17 or Younger,0.1133697,1,2018,3
+Aged 65 or Older,0.057124518,1,2018,3
+Below Poverty,0.10074122,1,2018,3
+Crowding,0.1021149,1,2018,3
+Group Quarters,0.120574474,1,2018,3
+Limited English Ability,0.045420356,1,2018,3
+Minority Status,0.051448543,1,2018,3
+Mobile Homes,0.019505817,1,2018,3
+Multi-Unit Structures,0.040872447,1,2018,3
+No High School Diploma,0.053464793,1,2018,3
+No Vehicle,0.077518865,1,2018,3
+Single-Parent Household,0.046203516,1,2018,3
+Unemployment,0.17164083,1,2018,3
+Aged 17 or Younger,0.05076294,1,2018,4
+Aged 65 or Older,0.022917744,1,2018,4
+Below Poverty,0.11126312,1,2018,4
+Crowding,0.08651929,1,2018,4
+Group Quarters,0.1658059,1,2018,4
+Limited English Ability,0.075621344,1,2018,4
+Minority Status,0.05137666,1,2018,4
+Mobile Homes,0.03525162,1,2018,4
+Multi-Unit Structures,0.030385103,1,2018,4
+No High School Diploma,0.042870466,1,2018,4
+No Vehicle,0.1915025,1,2018,4
+Single-Parent Household,0.039188832,1,2018,4
+Unemployment,0.0965344,1,2018,4
+Aged 17 or Younger,0.039231922,1,2018,5
+Aged 65 or Older,0.032944538,1,2018,5
+Below Poverty,0.05385236,1,2018,5
+Crowding,0.10316383,1,2018,5
+Group Quarters,0.21729808,1,2018,5
+Limited English Ability,0.07001098,1,2018,5
+Minority Status,0.03349612,1,2018,5
+Mobile Homes,0.050314013,1,2018,5
+Multi-Unit Structures,0.03078181,1,2018,5
+No High School Diploma,0.031045105,1,2018,5
+No Vehicle,0.07349656,1,2018,5
+Single-Parent Household,0.1140709,1,2018,5
+Unemployment,0.15029377,1,2018,5
+Aged 17 or Younger,0.046241116,1,2019,1
+Aged 65 or Older,0.035877775,1,2019,1
+Below Poverty,0.15340972,1,2019,1
+Crowding,0.10423167,1,2019,1
+Group Quarters,0.15437183,1,2019,1
+Limited English Ability,0.07206562,1,2019,1
+Minority Status,0.03966578,1,2019,1
+Mobile Homes,0.03446402,1,2019,1
+Multi-Unit Structures,0.02382813,1,2019,1
+No High School Diploma,0.061408594,1,2019,1
+No Vehicle,0.122826576,1,2019,1
+Single-Parent Household,0.06847255,1,2019,1
+Unemployment,0.08313665,1,2019,1
+Aged 17 or Younger,0.042981494,1,2019,2
+Aged 65 or Older,0.030742995,1,2019,2
+Below Poverty,0.13224588,1,2019,2
+Crowding,0.09931617,1,2019,2
+Group Quarters,0.13725898,1,2019,2
+Limited English Ability,0.11872209,1,2019,2
+Minority Status,0.043563817,1,2019,2
+Mobile Homes,0.052060325,1,2019,2
+Multi-Unit Structures,0.039449483,1,2019,2
+No High School Diploma,0.034020692,1,2019,2
+No Vehicle,0.09851857,1,2019,2
+Single-Parent Household,0.11166109,1,2019,2
+Unemployment,0.059458558,1,2019,2
+Aged 17 or Younger,0.10319076,1,2019,3
+Aged 65 or Older,0.053554095,1,2019,3
+Below Poverty,0.11225676,1,2019,3
+Crowding,0.10438401,1,2019,3
+Group Quarters,0.14625987,1,2019,3
+Limited English Ability,0.05711378,1,2019,3
+Minority Status,0.061860606,1,2019,3
+Mobile Homes,0.02603373,1,2019,3
+Multi-Unit Structures,0.03661176,1,2019,3
+No High School Diploma,0.060913306,1,2019,3
+No Vehicle,0.07897185,1,2019,3
+Single-Parent Household,0.08093892,1,2019,3
+Unemployment,0.0779105,1,2019,3
+Aged 17 or Younger,0.064819805,1,2019,4
+Aged 65 or Older,0.03329962,1,2019,4
+Below Poverty,0.12254101,1,2019,4
+Crowding,0.12468736,1,2019,4
+Group Quarters,0.18195195,1,2019,4
+Limited English Ability,0.07209818,1,2019,4
+Minority Status,0.043634564,1,2019,4
+Mobile Homes,0.03747031,1,2019,4
+Multi-Unit Structures,0.031678967,1,2019,4
+No High School Diploma,0.07337325,1,2019,4
+No Vehicle,0.1479582,1,2019,4
+Single-Parent Household,0.02917119,1,2019,4
+Unemployment,0.03731569,1,2019,4
+Aged 17 or Younger,0.04797751,1,2019,5
+Aged 65 or Older,0.030733516,1,2019,5
+Below Poverty,0.08108483,1,2019,5
+Crowding,0.101170056,1,2019,5
+Group Quarters,0.26764402,1,2019,5
+Limited English Ability,0.07123259,1,2019,5
+Minority Status,0.06609398,1,2019,5
+Mobile Homes,0.041971166,1,2019,5
+Multi-Unit Structures,0.023075093,1,2019,5
+No High School Diploma,0.042869527,1,2019,5
+No Vehicle,0.058848068,1,2019,5
+Single-Parent Household,0.11377419,1,2019,5
+Unemployment,0.053525414,1,2019,5
+Aged 17 or Younger,0.07813266,1,2020,1
+Aged 65 or Older,0.03770029,1,2020,1
+Below Poverty,0.16011222,1,2020,1
+Crowding,0.09072234,1,2020,1
+Group Quarters,0.18241787,1,2020,1
+Limited English Ability,0.08121618,1,2020,1
+Minority Status,0.04020857,1,2020,1
+Mobile Homes,0.043158453,1,2020,1
+Multi-Unit Structures,0.03184951,1,2020,1
+No High School Diploma,0.042959124,1,2020,1
+No Vehicle,0.09352346,1,2020,1
+Single-Parent Household,0.08724074,1,2020,1
+Unemployment,0.030758526,1,2020,1
+Aged 17 or Younger,0.058883563,1,2020,2
+Aged 65 or Older,0.025815707,1,2020,2
+Below Poverty,0.15284216,1,2020,2
+Crowding,0.12852475,1,2020,2
+Group Quarters,0.14074762,1,2020,2
+Limited English Ability,0.057690237,1,2020,2
+Minority Status,0.047565777,1,2020,2
+Mobile Homes,0.051979747,1,2020,2
+Multi-Unit Structures,0.038018048,1,2020,2
+No High School Diploma,0.03430545,1,2020,2
+No Vehicle,0.091134876,1,2020,2
+Single-Parent Household,0.12717071,1,2020,2
+Unemployment,0.04532136,1,2020,2
+Aged 17 or Younger,0.119447835,1,2020,3
+Aged 65 or Older,0.04678321,1,2020,3
+Below Poverty,0.1545754,1,2020,3
+Crowding,0.09178968,1,2020,3
+Group Quarters,0.12965631,1,2020,3
+Limited English Ability,0.06778193,1,2020,3
+Minority Status,0.047115423,1,2020,3
+Mobile Homes,0.031337105,1,2020,3
+Multi-Unit Structures,0.03768204,1,2020,3
+No High School Diploma,0.05638478,1,2020,3
+No Vehicle,0.10356453,1,2020,3
+Single-Parent Household,0.063579455,1,2020,3
+Unemployment,0.050302282,1,2020,3
+Aged 17 or Younger,0.07309087,1,2020,4
+Aged 65 or Older,0.024994316,1,2020,4
+Below Poverty,0.12180184,1,2020,4
+Crowding,0.102773875,1,2020,4
+Group Quarters,0.16352716,1,2020,4
+Limited English Ability,0.071251705,1,2020,4
+Minority Status,0.048596565,1,2020,4
+Mobile Homes,0.04926417,1,2020,4
+Multi-Unit Structures,0.044228695,1,2020,4
+No High School Diploma,0.050206903,1,2020,4
+No Vehicle,0.1257566,1,2020,4
+Single-Parent Household,0.09411149,1,2020,4
+Unemployment,0.030395862,1,2020,4
+Aged 17 or Younger,0.07000153,1,2020,5
+Aged 65 or Older,0.03278094,1,2020,5
+Below Poverty,0.114497416,1,2020,5
+Crowding,0.06760564,1,2020,5
+Group Quarters,0.27222884,1,2020,5
+Limited English Ability,0.07399077,1,2020,5
+Minority Status,0.06469788,1,2020,5
+Mobile Homes,0.034609012,1,2020,5
+Multi-Unit Structures,0.027024671,1,2020,5
+No High School Diploma,0.042623375,1,2020,5
+No Vehicle,0.054664593,1,2020,5
+Single-Parent Household,0.10404502,1,2020,5
+Unemployment,0.041230265,1,2020,5
+Aged 17 or Younger,0.06924471,1,2021,1
+Aged 65 or Older,0.054697797,1,2021,1
+Below Poverty,0.1934476,1,2021,1
+Crowding,0.09813631,1,2021,1
+Group Quarters,0.16757424,1,2021,1
+Limited English Ability,0.07438399,1,2021,1
+Minority Status,0.045471184,1,2021,1
+Mobile Homes,0.049100004,1,2021,1
+Multi-Unit Structures,0.019911198,1,2021,1
+No High School Diploma,0.044086732,1,2021,1
+No Vehicle,0.061028503,1,2021,1
+Single-Parent Household,0.093401894,1,2021,1
+Unemployment,0.029515754,1,2021,1
+Aged 17 or Younger,0.03746735,1,2021,2
+Aged 65 or Older,0.03201788,1,2021,2
+Below Poverty,0.15211299,1,2021,2
+Crowding,0.12762958,1,2021,2
+Group Quarters,0.13876967,1,2021,2
+Limited English Ability,0.062715545,1,2021,2
+Minority Status,0.044182066,1,2021,2
+Mobile Homes,0.032862324,1,2021,2
+Multi-Unit Structures,0.02649579,1,2021,2
+No High School Diploma,0.025448246,1,2021,2
+No Vehicle,0.13475174,1,2021,2
+Single-Parent Household,0.14116052,1,2021,2
+Unemployment,0.04438635,1,2021,2
+Aged 17 or Younger,0.111187704,1,2021,3
+Aged 65 or Older,0.07713356,1,2021,3
+Below Poverty,0.20330387,1,2021,3
+Crowding,0.07831458,1,2021,3
+Group Quarters,0.13807228,1,2021,3
+Limited English Ability,0.06399013,1,2021,3
+Minority Status,0.048059598,1,2021,3
+Mobile Homes,0.02362871,1,2021,3
+Multi-Unit Structures,0.04723565,1,2021,3
+No High School Diploma,0.042533003,1,2021,3
+No Vehicle,0.07591774,1,2021,3
+Single-Parent Household,0.06090584,1,2021,3
+Unemployment,0.029717343,1,2021,3
+Aged 17 or Younger,0.07047902,1,2021,4
+Aged 65 or Older,0.036894638,1,2021,4
+Below Poverty,0.13767858,1,2021,4
+Crowding,0.07741752,1,2021,4
+Group Quarters,0.15833269,1,2021,4
+Limited English Ability,0.07449648,1,2021,4
+Minority Status,0.052724186,1,2021,4
+Mobile Homes,0.052905433,1,2021,4
+Multi-Unit Structures,0.025953023,1,2021,4
+No High School Diploma,0.04505413,1,2021,4
+No Vehicle,0.09095637,1,2021,4
+Single-Parent Household,0.13939916,1,2021,4
+Unemployment,0.03770875,1,2021,4
+Aged 17 or Younger,0.053417508,1,2021,5
+Aged 65 or Older,0.057636466,1,2021,5
+Below Poverty,0.15716681,1,2021,5
+Crowding,0.07421135,1,2021,5
+Group Quarters,0.22678949,1,2021,5
+Limited English Ability,0.08371748,1,2021,5
+Minority Status,0.043238983,1,2021,5
+Mobile Homes,0.03574715,1,2021,5
+Multi-Unit Structures,0.031650465,1,2021,5
+No High School Diploma,0.05867131,1,2021,5
+No Vehicle,0.0423477,1,2021,5
+Single-Parent Household,0.092411555,1,2021,5
+Unemployment,0.042993795,1,2021,5
+Aged 17 or Younger,0.060447805,2,2010,1
+Aged 65 or Older,0.06578287,2,2010,1
+Below Poverty,0.061332297,2,2010,1
+Crowding,0.09624442,2,2010,1
+Group Quarters,0.06450285,2,2010,1
+Limited English Ability,0.05993597,2,2010,1
+Minority Status,0.12624565,2,2010,1
+Mobile Homes,0.057689227,2,2010,1
+Multi-Unit Structures,0.07356962,2,2010,1
+No High School Diploma,0.07198949,2,2010,1
+No Vehicle,0.11576567,2,2010,1
+Single-Parent Household,0.073092304,2,2010,1
+Unemployment,0.07340185,2,2010,1
+Aged 17 or Younger,0.06927273,2,2010,2
+Aged 65 or Older,0.06095249,2,2010,2
+Below Poverty,0.051317886,2,2010,2
+Crowding,0.08657243,2,2010,2
+Group Quarters,0.0531343,2,2010,2
+Limited English Ability,0.059280064,2,2010,2
+Minority Status,0.14286162,2,2010,2
+Mobile Homes,0.057671964,2,2010,2
+Multi-Unit Structures,0.09263667,2,2010,2
+No High School Diploma,0.090382405,2,2010,2
+No Vehicle,0.08883979,2,2010,2
+Single-Parent Household,0.08754087,2,2010,2
+Unemployment,0.059536744,2,2010,2
+Aged 17 or Younger,0.06346723,2,2010,3
+Aged 65 or Older,0.06809323,2,2010,3
+Below Poverty,0.07384427,2,2010,3
+Crowding,0.06645778,2,2010,3
+Group Quarters,0.062664084,2,2010,3
+Limited English Ability,0.061235923,2,2010,3
+Minority Status,0.13823076,2,2010,3
+Mobile Homes,0.062925786,2,2010,3
+Multi-Unit Structures,0.06970397,2,2010,3
+No High School Diploma,0.07306861,2,2010,3
+No Vehicle,0.088455535,2,2010,3
+Single-Parent Household,0.08393644,2,2010,3
+Unemployment,0.08791643,2,2010,3
+Aged 17 or Younger,0.070337854,2,2010,4
+Aged 65 or Older,0.06224222,2,2010,4
+Below Poverty,0.056258738,2,2010,4
+Crowding,0.10044599,2,2010,4
+Group Quarters,0.063720256,2,2010,4
+Limited English Ability,0.059254333,2,2010,4
+Minority Status,0.11599882,2,2010,4
+Mobile Homes,0.055989165,2,2010,4
+Multi-Unit Structures,0.078623205,2,2010,4
+No High School Diploma,0.07851559,2,2010,4
+No Vehicle,0.093008146,2,2010,4
+Single-Parent Household,0.088457264,2,2010,4
+Unemployment,0.077148415,2,2010,4
+Aged 17 or Younger,0.06610866,2,2010,5
+Aged 65 or Older,0.067356594,2,2010,5
+Below Poverty,0.048127756,2,2010,5
+Crowding,0.072240636,2,2010,5
+Group Quarters,0.058655925,2,2010,5
+Limited English Ability,0.06924384,2,2010,5
+Minority Status,0.121641494,2,2010,5
+Mobile Homes,0.056240074,2,2010,5
+Multi-Unit Structures,0.08480097,2,2010,5
+No High School Diploma,0.0857535,2,2010,5
+No Vehicle,0.09704914,2,2010,5
+Single-Parent Household,0.08918627,2,2010,5
+Unemployment,0.08359523,2,2010,5
+Aged 17 or Younger,0.059945017,2,2011,1
+Aged 65 or Older,0.07968553,2,2011,1
+Below Poverty,0.078710295,2,2011,1
+Crowding,0.05429861,2,2011,1
+Group Quarters,0.057091516,2,2011,1
+Limited English Ability,0.06575238,2,2011,1
+Minority Status,0.14930652,2,2011,1
+Mobile Homes,0.049797326,2,2011,1
+Multi-Unit Structures,0.07580804,2,2011,1
+No High School Diploma,0.06487615,2,2011,1
+No Vehicle,0.11272098,2,2011,1
+Single-Parent Household,0.0929646,2,2011,1
+Unemployment,0.059043046,2,2011,1
+Aged 17 or Younger,0.062025778,2,2011,2
+Aged 65 or Older,0.076164715,2,2011,2
+Below Poverty,0.07538351,2,2011,2
+Crowding,0.06014297,2,2011,2
+Group Quarters,0.057760194,2,2011,2
+Limited English Ability,0.06891678,2,2011,2
+Minority Status,0.15541632,2,2011,2
+Mobile Homes,0.045381494,2,2011,2
+Multi-Unit Structures,0.0771227,2,2011,2
+No High School Diploma,0.07052648,2,2011,2
+No Vehicle,0.08052981,2,2011,2
+Single-Parent Household,0.12187039,2,2011,2
+Unemployment,0.048758812,2,2011,2
+Aged 17 or Younger,0.060698282,2,2011,3
+Aged 65 or Older,0.06664083,2,2011,3
+Below Poverty,0.080351904,2,2011,3
+Crowding,0.05777612,2,2011,3
+Group Quarters,0.06086905,2,2011,3
+Limited English Ability,0.06105116,2,2011,3
+Minority Status,0.14193341,2,2011,3
+Mobile Homes,0.060589783,2,2011,3
+Multi-Unit Structures,0.073827505,2,2011,3
+No High School Diploma,0.077659935,2,2011,3
+No Vehicle,0.07226351,2,2011,3
+Single-Parent Household,0.11903256,2,2011,3
+Unemployment,0.067305945,2,2011,3
+Aged 17 or Younger,0.054391168,2,2011,4
+Aged 65 or Older,0.08331233,2,2011,4
+Below Poverty,0.06790641,2,2011,4
+Crowding,0.065320715,2,2011,4
+Group Quarters,0.054982774,2,2011,4
+Limited English Ability,0.06443148,2,2011,4
+Minority Status,0.13595219,2,2011,4
+Mobile Homes,0.051961515,2,2011,4
+Multi-Unit Structures,0.08542707,2,2011,4
+No High School Diploma,0.079073325,2,2011,4
+No Vehicle,0.0793215,2,2011,4
+Single-Parent Household,0.11033802,2,2011,4
+Unemployment,0.06758149,2,2011,4
+Aged 17 or Younger,0.047716636,2,2011,5
+Aged 65 or Older,0.070276126,2,2011,5
+Below Poverty,0.06437644,2,2011,5
+Crowding,0.06085583,2,2011,5
+Group Quarters,0.0574739,2,2011,5
+Limited English Ability,0.06104554,2,2011,5
+Minority Status,0.14539436,2,2011,5
+Mobile Homes,0.06206343,2,2011,5
+Multi-Unit Structures,0.082955845,2,2011,5
+No High School Diploma,0.064153716,2,2011,5
+No Vehicle,0.092927024,2,2011,5
+Single-Parent Household,0.13330981,2,2011,5
+Unemployment,0.05745139,2,2011,5
+Aged 17 or Younger,0.07173931,2,2012,1
+Aged 65 or Older,0.060252924,2,2012,1
+Below Poverty,0.068801075,2,2012,1
+Crowding,0.07416714,2,2012,1
+Group Quarters,0.065038174,2,2012,1
+Limited English Ability,0.061783466,2,2012,1
+Minority Status,0.15298964,2,2012,1
+Mobile Homes,0.051776163,2,2012,1
+Multi-Unit Structures,0.07814796,2,2012,1
+No High School Diploma,0.08812264,2,2012,1
+No Vehicle,0.08146961,2,2012,1
+Single-Parent Household,0.066416875,2,2012,1
+Unemployment,0.07929497,2,2012,1
+Aged 17 or Younger,0.07059457,2,2012,2
+Aged 65 or Older,0.062153824,2,2012,2
+Below Poverty,0.06733726,2,2012,2
+Crowding,0.06546313,2,2012,2
+Group Quarters,0.054590695,2,2012,2
+Limited English Ability,0.07352085,2,2012,2
+Minority Status,0.15544122,2,2012,2
+Mobile Homes,0.056476433,2,2012,2
+Multi-Unit Structures,0.09335706,2,2012,2
+No High School Diploma,0.099768884,2,2012,2
+No Vehicle,0.06878697,2,2012,2
+Single-Parent Household,0.07364271,2,2012,2
+Unemployment,0.05886639,2,2012,2
+Aged 17 or Younger,0.073081106,2,2012,3
+Aged 65 or Older,0.05150169,2,2012,3
+Below Poverty,0.09596844,2,2012,3
+Crowding,0.058567647,2,2012,3
+Group Quarters,0.069518775,2,2012,3
+Limited English Ability,0.060826026,2,2012,3
+Minority Status,0.14111796,2,2012,3
+Mobile Homes,0.044999592,2,2012,3
+Multi-Unit Structures,0.080824755,2,2012,3
+No High School Diploma,0.091083735,2,2012,3
+No Vehicle,0.07365422,2,2012,3
+Single-Parent Household,0.06840983,2,2012,3
+Unemployment,0.0904462,2,2012,3
+Aged 17 or Younger,0.06335744,2,2012,4
+Aged 65 or Older,0.061137293,2,2012,4
+Below Poverty,0.063916616,2,2012,4
+Crowding,0.06459907,2,2012,4
+Group Quarters,0.064520046,2,2012,4
+Limited English Ability,0.06827424,2,2012,4
+Minority Status,0.13852027,2,2012,4
+Mobile Homes,0.057024762,2,2012,4
+Multi-Unit Structures,0.09872184,2,2012,4
+No High School Diploma,0.09400213,2,2012,4
+No Vehicle,0.06787038,2,2012,4
+Single-Parent Household,0.07346546,2,2012,4
+Unemployment,0.08459042,2,2012,4
+Aged 17 or Younger,0.07202153,2,2012,5
+Aged 65 or Older,0.05858762,2,2012,5
+Below Poverty,0.054375,2,2012,5
+Crowding,0.06914776,2,2012,5
+Group Quarters,0.06230198,2,2012,5
+Limited English Ability,0.07232657,2,2012,5
+Minority Status,0.14297427,2,2012,5
+Mobile Homes,0.053761624,2,2012,5
+Multi-Unit Structures,0.09238166,2,2012,5
+No High School Diploma,0.084174514,2,2012,5
+No Vehicle,0.06600776,2,2012,5
+Single-Parent Household,0.092847474,2,2012,5
+Unemployment,0.07909225,2,2012,5
+Aged 17 or Younger,0.052645896,2,2013,1
+Aged 65 or Older,0.07077368,2,2013,1
+Below Poverty,0.06568227,2,2013,1
+Crowding,0.05998508,2,2013,1
+Group Quarters,0.043181203,2,2013,1
+Limited English Ability,0.06513648,2,2013,1
+Minority Status,0.19673027,2,2013,1
+Mobile Homes,0.04325882,2,2013,1
+Multi-Unit Structures,0.0795595,2,2013,1
+No High School Diploma,0.09099788,2,2013,1
+No Vehicle,0.07853957,2,2013,1
+Single-Parent Household,0.060915973,2,2013,1
+Unemployment,0.092593454,2,2013,1
+Aged 17 or Younger,0.05386687,2,2013,2
+Aged 65 or Older,0.07458033,2,2013,2
+Below Poverty,0.050809555,2,2013,2
+Crowding,0.06130348,2,2013,2
+Group Quarters,0.057355277,2,2013,2
+Limited English Ability,0.069735505,2,2013,2
+Minority Status,0.18466417,2,2013,2
+Mobile Homes,0.04519319,2,2013,2
+Multi-Unit Structures,0.07856978,2,2013,2
+No High School Diploma,0.0988853,2,2013,2
+No Vehicle,0.07181949,2,2013,2
+Single-Parent Household,0.07171368,2,2013,2
+Unemployment,0.08150331,2,2013,2
+Aged 17 or Younger,0.058251813,2,2013,3
+Aged 65 or Older,0.07147538,2,2013,3
+Below Poverty,0.062310103,2,2013,3
+Crowding,0.06535446,2,2013,3
+Group Quarters,0.0549503,2,2013,3
+Limited English Ability,0.06372639,2,2013,3
+Minority Status,0.17750958,2,2013,3
+Mobile Homes,0.05022961,2,2013,3
+Multi-Unit Structures,0.07123634,2,2013,3
+No High School Diploma,0.09106219,2,2013,3
+No Vehicle,0.074056394,2,2013,3
+Single-Parent Household,0.05948667,2,2013,3
+Unemployment,0.1003507,2,2013,3
+Aged 17 or Younger,0.051938016,2,2013,4
+Aged 65 or Older,0.074826315,2,2013,4
+Below Poverty,0.058219314,2,2013,4
+Crowding,0.06516943,2,2013,4
+Group Quarters,0.050636474,2,2013,4
+Limited English Ability,0.070768885,2,2013,4
+Minority Status,0.17341666,2,2013,4
+Mobile Homes,0.049174663,2,2013,4
+Multi-Unit Structures,0.06973645,2,2013,4
+No High School Diploma,0.10372809,2,2013,4
+No Vehicle,0.07382469,2,2013,4
+Single-Parent Household,0.07382803,2,2013,4
+Unemployment,0.08473304,2,2013,4
+Aged 17 or Younger,0.04975499,2,2013,5
+Aged 65 or Older,0.07894878,2,2013,5
+Below Poverty,0.054593455,2,2013,5
+Crowding,0.06880888,2,2013,5
+Group Quarters,0.04698731,2,2013,5
+Limited English Ability,0.06311095,2,2013,5
+Minority Status,0.17379469,2,2013,5
+Mobile Homes,0.06773742,2,2013,5
+Multi-Unit Structures,0.091150284,2,2013,5
+No High School Diploma,0.08506821,2,2013,5
+No Vehicle,0.08578343,2,2013,5
+Single-Parent Household,0.06270216,2,2013,5
+Unemployment,0.071559474,2,2013,5
+Aged 17 or Younger,0.068773225,2,2014,1
+Aged 65 or Older,0.06614654,2,2014,1
+Below Poverty,0.07897609,2,2014,1
+Crowding,0.06066546,2,2014,1
+Group Quarters,0.045594938,2,2014,1
+Limited English Ability,0.07511659,2,2014,1
+Minority Status,0.15117648,2,2014,1
+Mobile Homes,0.052380677,2,2014,1
+Multi-Unit Structures,0.070949964,2,2014,1
+No High School Diploma,0.10131855,2,2014,1
+No Vehicle,0.109909266,2,2014,1
+Single-Parent Household,0.052560985,2,2014,1
+Unemployment,0.06643125,2,2014,1
+Aged 17 or Younger,0.060789865,2,2014,2
+Aged 65 or Older,0.07022485,2,2014,2
+Below Poverty,0.056968927,2,2014,2
+Crowding,0.06787442,2,2014,2
+Group Quarters,0.05545659,2,2014,2
+Limited English Ability,0.08272817,2,2014,2
+Minority Status,0.15704583,2,2014,2
+Mobile Homes,0.057331458,2,2014,2
+Multi-Unit Structures,0.06759986,2,2014,2
+No High School Diploma,0.098403715,2,2014,2
+No Vehicle,0.08514651,2,2014,2
+Single-Parent Household,0.06198926,2,2014,2
+Unemployment,0.07844058,2,2014,2
+Aged 17 or Younger,0.05690375,2,2014,3
+Aged 65 or Older,0.069368675,2,2014,3
+Below Poverty,0.07350585,2,2014,3
+Crowding,0.07184629,2,2014,3
+Group Quarters,0.05185416,2,2014,3
+Limited English Ability,0.06562763,2,2014,3
+Minority Status,0.13015856,2,2014,3
+Mobile Homes,0.050454035,2,2014,3
+Multi-Unit Structures,0.08324772,2,2014,3
+No High School Diploma,0.094164155,2,2014,3
+No Vehicle,0.102520384,2,2014,3
+Single-Parent Household,0.055071898,2,2014,3
+Unemployment,0.09527701,2,2014,3
+Aged 17 or Younger,0.047093574,2,2014,4
+Aged 65 or Older,0.07601218,2,2014,4
+Below Poverty,0.062299404,2,2014,4
+Crowding,0.064854346,2,2014,4
+Group Quarters,0.049414873,2,2014,4
+Limited English Ability,0.08063197,2,2014,4
+Minority Status,0.15568314,2,2014,4
+Mobile Homes,0.048499566,2,2014,4
+Multi-Unit Structures,0.087748915,2,2014,4
+No High School Diploma,0.10822002,2,2014,4
+No Vehicle,0.08676598,2,2014,4
+Single-Parent Household,0.052593246,2,2014,4
+Unemployment,0.08018277,2,2014,4
+Aged 17 or Younger,0.056203984,2,2014,5
+Aged 65 or Older,0.07662524,2,2014,5
+Below Poverty,0.048327703,2,2014,5
+Crowding,0.06880625,2,2014,5
+Group Quarters,0.04556585,2,2014,5
+Limited English Ability,0.07021467,2,2014,5
+Minority Status,0.14543112,2,2014,5
+Mobile Homes,0.050116908,2,2014,5
+Multi-Unit Structures,0.1119877,2,2014,5
+No High School Diploma,0.088903986,2,2014,5
+No Vehicle,0.10373181,2,2014,5
+Single-Parent Household,0.05628144,2,2014,5
+Unemployment,0.0778034,2,2014,5
+Aged 17 or Younger,0.05654074,2,2015,1
+Aged 65 or Older,0.06315519,2,2015,1
+Below Poverty,0.061734907,2,2015,1
+Crowding,0.08094008,2,2015,1
+Group Quarters,0.04743965,2,2015,1
+Limited English Ability,0.06021283,2,2015,1
+Minority Status,0.1594636,2,2015,1
+Mobile Homes,0.060887717,2,2015,1
+Multi-Unit Structures,0.072615266,2,2015,1
+No High School Diploma,0.108211175,2,2015,1
+No Vehicle,0.11713347,2,2015,1
+Single-Parent Household,0.059911825,2,2015,1
+Unemployment,0.05175352,2,2015,1
+Aged 17 or Younger,0.056888096,2,2015,2
+Aged 65 or Older,0.06560616,2,2015,2
+Below Poverty,0.0577743,2,2015,2
+Crowding,0.09038704,2,2015,2
+Group Quarters,0.051436618,2,2015,2
+Limited English Ability,0.06323899,2,2015,2
+Minority Status,0.13824621,2,2015,2
+Mobile Homes,0.06647178,2,2015,2
+Multi-Unit Structures,0.06734733,2,2015,2
+No High School Diploma,0.09936058,2,2015,2
+No Vehicle,0.12820147,2,2015,2
+Single-Parent Household,0.062348727,2,2015,2
+Unemployment,0.052692752,2,2015,2
+Aged 17 or Younger,0.054857604,2,2015,3
+Aged 65 or Older,0.073043056,2,2015,3
+Below Poverty,0.050132178,2,2015,3
+Crowding,0.09370215,2,2015,3
+Group Quarters,0.04826806,2,2015,3
+Limited English Ability,0.066092156,2,2015,3
+Minority Status,0.14922598,2,2015,3
+Mobile Homes,0.050012287,2,2015,3
+Multi-Unit Structures,0.0645822,2,2015,3
+No High School Diploma,0.09101078,2,2015,3
+No Vehicle,0.15446359,2,2015,3
+Single-Parent Household,0.053803757,2,2015,3
+Unemployment,0.050806254,2,2015,3
+Aged 17 or Younger,0.048867654,2,2015,4
+Aged 65 or Older,0.060578357,2,2015,4
+Below Poverty,0.06806771,2,2015,4
+Crowding,0.07789172,2,2015,4
+Group Quarters,0.05103473,2,2015,4
+Limited English Ability,0.0663665,2,2015,4
+Minority Status,0.16653354,2,2015,4
+Mobile Homes,0.055594582,2,2015,4
+Multi-Unit Structures,0.068470284,2,2015,4
+No High School Diploma,0.108723275,2,2015,4
+No Vehicle,0.112928346,2,2015,4
+Single-Parent Household,0.058948234,2,2015,4
+Unemployment,0.05599511,2,2015,4
+Aged 17 or Younger,0.0599529,2,2015,5
+Aged 65 or Older,0.068628065,2,2015,5
+Below Poverty,0.06142643,2,2015,5
+Crowding,0.07650483,2,2015,5
+Group Quarters,0.04754012,2,2015,5
+Limited English Ability,0.06719046,2,2015,5
+Minority Status,0.1481297,2,2015,5
+Mobile Homes,0.07604934,2,2015,5
+Multi-Unit Structures,0.07028974,2,2015,5
+No High School Diploma,0.10140599,2,2015,5
+No Vehicle,0.11376298,2,2015,5
+Single-Parent Household,0.057708155,2,2015,5
+Unemployment,0.05141119,2,2015,5
+Aged 17 or Younger,0.046378665,2,2016,1
+Aged 65 or Older,0.08563475,2,2016,1
+Below Poverty,0.050490044,2,2016,1
+Crowding,0.06912554,2,2016,1
+Group Quarters,0.062777184,2,2016,1
+Limited English Ability,0.06603268,2,2016,1
+Minority Status,0.13928325,2,2016,1
+Mobile Homes,0.05873384,2,2016,1
+Multi-Unit Structures,0.08012681,2,2016,1
+No High School Diploma,0.058084473,2,2016,1
+No Vehicle,0.13910891,2,2016,1
+Single-Parent Household,0.053245757,2,2016,1
+Unemployment,0.09097801,2,2016,1
+Aged 17 or Younger,0.07501629,2,2016,2
+Aged 65 or Older,0.068856664,2,2016,2
+Below Poverty,0.047701493,2,2016,2
+Crowding,0.07676046,2,2016,2
+Group Quarters,0.06401121,2,2016,2
+Limited English Ability,0.07275453,2,2016,2
+Minority Status,0.13665688,2,2016,2
+Mobile Homes,0.05543761,2,2016,2
+Multi-Unit Structures,0.07754705,2,2016,2
+No High School Diploma,0.060762648,2,2016,2
+No Vehicle,0.10050349,2,2016,2
+Single-Parent Household,0.06655358,2,2016,2
+Unemployment,0.09743812,2,2016,2
+Aged 17 or Younger,0.05355821,2,2016,3
+Aged 65 or Older,0.07716496,2,2016,3
+Below Poverty,0.05152697,2,2016,3
+Crowding,0.09177741,2,2016,3
+Group Quarters,0.06123159,2,2016,3
+Limited English Ability,0.05824581,2,2016,3
+Minority Status,0.13781959,2,2016,3
+Mobile Homes,0.04930817,2,2016,3
+Multi-Unit Structures,0.08088465,2,2016,3
+No High School Diploma,0.056259673,2,2016,3
+No Vehicle,0.12632053,2,2016,3
+Single-Parent Household,0.060045324,2,2016,3
+Unemployment,0.09585708,2,2016,3
+Aged 17 or Younger,0.05196882,2,2016,4
+Aged 65 or Older,0.075141706,2,2016,4
+Below Poverty,0.052189,2,2016,4
+Crowding,0.083216265,2,2016,4
+Group Quarters,0.05633269,2,2016,4
+Limited English Ability,0.051405575,2,2016,4
+Minority Status,0.15402335,2,2016,4
+Mobile Homes,0.058757797,2,2016,4
+Multi-Unit Structures,0.074362956,2,2016,4
+No High School Diploma,0.06025702,2,2016,4
+No Vehicle,0.09859769,2,2016,4
+Single-Parent Household,0.0606096,2,2016,4
+Unemployment,0.12313757,2,2016,4
+Aged 17 or Younger,0.06285057,2,2016,5
+Aged 65 or Older,0.06813026,2,2016,5
+Below Poverty,0.046483655,2,2016,5
+Crowding,0.08677467,2,2016,5
+Group Quarters,0.06223434,2,2016,5
+Limited English Ability,0.06245078,2,2016,5
+Minority Status,0.13858087,2,2016,5
+Mobile Homes,0.06578714,2,2016,5
+Multi-Unit Structures,0.07043649,2,2016,5
+No High School Diploma,0.07385652,2,2016,5
+No Vehicle,0.11295136,2,2016,5
+Single-Parent Household,0.06310988,2,2016,5
+Unemployment,0.08635342,2,2016,5
+Aged 17 or Younger,0.09305062,2,2017,1
+Aged 65 or Older,0.08138312,2,2017,1
+Below Poverty,0.051240344,2,2017,1
+Crowding,0.11247843,2,2017,1
+Group Quarters,0.047141545,2,2017,1
+Limited English Ability,0.062017966,2,2017,1
+Minority Status,0.08738285,2,2017,1
+Mobile Homes,0.06343947,2,2017,1
+Multi-Unit Structures,0.08432398,2,2017,1
+No High School Diploma,0.087447144,2,2017,1
+No Vehicle,0.09677575,2,2017,1
+Single-Parent Household,0.0725299,2,2017,1
+Unemployment,0.060788967,2,2017,1
+Aged 17 or Younger,0.11006126,2,2017,2
+Aged 65 or Older,0.065828145,2,2017,2
+Below Poverty,0.04845753,2,2017,2
+Crowding,0.10256707,2,2017,2
+Group Quarters,0.054260805,2,2017,2
+Limited English Ability,0.07197135,2,2017,2
+Minority Status,0.084414124,2,2017,2
+Mobile Homes,0.062597215,2,2017,2
+Multi-Unit Structures,0.07999545,2,2017,2
+No High School Diploma,0.09364217,2,2017,2
+No Vehicle,0.08135237,2,2017,2
+Single-Parent Household,0.08462128,2,2017,2
+Unemployment,0.06023129,2,2017,2
+Aged 17 or Younger,0.07606309,2,2017,3
+Aged 65 or Older,0.07953062,2,2017,3
+Below Poverty,0.054914102,2,2017,3
+Crowding,0.091916114,2,2017,3
+Group Quarters,0.05247117,2,2017,3
+Limited English Ability,0.072812416,2,2017,3
+Minority Status,0.09519781,2,2017,3
+Mobile Homes,0.06361238,2,2017,3
+Multi-Unit Structures,0.08510917,2,2017,3
+No High School Diploma,0.07939209,2,2017,3
+No Vehicle,0.11133052,2,2017,3
+Single-Parent Household,0.06652144,2,2017,3
+Unemployment,0.07112905,2,2017,3
+Aged 17 or Younger,0.0892879,2,2017,4
+Aged 65 or Older,0.075566486,2,2017,4
+Below Poverty,0.05364252,2,2017,4
+Crowding,0.09772304,2,2017,4
+Group Quarters,0.046901476,2,2017,4
+Limited English Ability,0.071133465,2,2017,4
+Minority Status,0.101966515,2,2017,4
+Mobile Homes,0.05359349,2,2017,4
+Multi-Unit Structures,0.100416906,2,2017,4
+No High School Diploma,0.08503074,2,2017,4
+No Vehicle,0.08713968,2,2017,4
+Single-Parent Household,0.079055116,2,2017,4
+Unemployment,0.058542706,2,2017,4
+Aged 17 or Younger,0.116684645,2,2017,5
+Aged 65 or Older,0.070966706,2,2017,5
+Below Poverty,0.055261638,2,2017,5
+Crowding,0.11827412,2,2017,5
+Group Quarters,0.04834787,2,2017,5
+Limited English Ability,0.06118121,2,2017,5
+Minority Status,0.082603306,2,2017,5
+Mobile Homes,0.058163814,2,2017,5
+Multi-Unit Structures,0.08243333,2,2017,5
+No High School Diploma,0.09241959,2,2017,5
+No Vehicle,0.06684524,2,2017,5
+Single-Parent Household,0.07587913,2,2017,5
+Unemployment,0.07093946,2,2017,5
+Aged 17 or Younger,0.07893981,2,2018,1
+Aged 65 or Older,0.0935843,2,2018,1
+Below Poverty,0.049502257,2,2018,1
+Crowding,0.105563365,2,2018,1
+Group Quarters,0.053740162,2,2018,1
+Limited English Ability,0.05946065,2,2018,1
+Minority Status,0.08389432,2,2018,1
+Mobile Homes,0.06602959,2,2018,1
+Multi-Unit Structures,0.07800354,2,2018,1
+No High School Diploma,0.08294383,2,2018,1
+No Vehicle,0.09107776,2,2018,1
+Single-Parent Household,0.095209114,2,2018,1
+Unemployment,0.062051356,2,2018,1
+Aged 17 or Younger,0.1087325,2,2018,2
+Aged 65 or Older,0.08401738,2,2018,2
+Below Poverty,0.05633037,2,2018,2
+Crowding,0.081533164,2,2018,2
+Group Quarters,0.05072434,2,2018,2
+Limited English Ability,0.062157467,2,2018,2
+Minority Status,0.08014338,2,2018,2
+Mobile Homes,0.07823745,2,2018,2
+Multi-Unit Structures,0.08103335,2,2018,2
+No High School Diploma,0.078298256,2,2018,2
+No Vehicle,0.08926067,2,2018,2
+Single-Parent Household,0.09582069,2,2018,2
+Unemployment,0.05371096,2,2018,2
+Aged 17 or Younger,0.058707666,2,2018,3
+Aged 65 or Older,0.10056169,2,2018,3
+Below Poverty,0.055015918,2,2018,3
+Crowding,0.084786735,2,2018,3
+Group Quarters,0.057965606,2,2018,3
+Limited English Ability,0.059257828,2,2018,3
+Minority Status,0.094366185,2,2018,3
+Mobile Homes,0.063263476,2,2018,3
+Multi-Unit Structures,0.0749071,2,2018,3
+No High School Diploma,0.079057366,2,2018,3
+No Vehicle,0.12773678,2,2018,3
+Single-Parent Household,0.0829718,2,2018,3
+Unemployment,0.061401766,2,2018,3
+Aged 17 or Younger,0.08005002,2,2018,4
+Aged 65 or Older,0.097080134,2,2018,4
+Below Poverty,0.053316373,2,2018,4
+Crowding,0.09831781,2,2018,4
+Group Quarters,0.05117218,2,2018,4
+Limited English Ability,0.067151606,2,2018,4
+Minority Status,0.089984275,2,2018,4
+Mobile Homes,0.06379657,2,2018,4
+Multi-Unit Structures,0.067349374,2,2018,4
+No High School Diploma,0.085286655,2,2018,4
+No Vehicle,0.10158805,2,2018,4
+Single-Parent Household,0.08484529,2,2018,4
+Unemployment,0.06006167,2,2018,4
+Aged 17 or Younger,0.078058645,2,2018,5
+Aged 65 or Older,0.08355786,2,2018,5
+Below Poverty,0.053311683,2,2018,5
+Crowding,0.11995,2,2018,5
+Group Quarters,0.057451542,2,2018,5
+Limited English Ability,0.060570817,2,2018,5
+Minority Status,0.08431572,2,2018,5
+Mobile Homes,0.064458884,2,2018,5
+Multi-Unit Structures,0.06559364,2,2018,5
+No High School Diploma,0.074972,2,2018,5
+No Vehicle,0.109541625,2,2018,5
+Single-Parent Household,0.08875603,2,2018,5
+Unemployment,0.05946157,2,2018,5
+Aged 17 or Younger,0.09627485,2,2019,1
+Aged 65 or Older,0.077153556,2,2019,1
+Below Poverty,0.08208305,2,2019,1
+Crowding,0.08633121,2,2019,1
+Group Quarters,0.043377236,2,2019,1
+Limited English Ability,0.08740862,2,2019,1
+Minority Status,0.088126905,2,2019,1
+Mobile Homes,0.06369074,2,2019,1
+Multi-Unit Structures,0.049374204,2,2019,1
+No High School Diploma,0.09667408,2,2019,1
+No Vehicle,0.05392393,2,2019,1
+Single-Parent Household,0.088520944,2,2019,1
+Unemployment,0.08706061,2,2019,1
+Aged 17 or Younger,0.10933366,2,2019,2
+Aged 65 or Older,0.07857346,2,2019,2
+Below Poverty,0.06753143,2,2019,2
+Crowding,0.08322698,2,2019,2
+Group Quarters,0.046193082,2,2019,2
+Limited English Ability,0.09748666,2,2019,2
+Minority Status,0.08324026,2,2019,2
+Mobile Homes,0.061701976,2,2019,2
+Multi-Unit Structures,0.060406074,2,2019,2
+No High School Diploma,0.085234664,2,2019,2
+No Vehicle,0.05857503,2,2019,2
+Single-Parent Household,0.098586224,2,2019,2
+Unemployment,0.0699105,2,2019,2
+Aged 17 or Younger,0.062671326,2,2019,3
+Aged 65 or Older,0.09400025,2,2019,3
+Below Poverty,0.08778914,2,2019,3
+Crowding,0.11331256,2,2019,3
+Group Quarters,0.05290843,2,2019,3
+Limited English Ability,0.07392836,2,2019,3
+Minority Status,0.07999516,2,2019,3
+Mobile Homes,0.059836615,2,2019,3
+Multi-Unit Structures,0.054582752,2,2019,3
+No High School Diploma,0.068777926,2,2019,3
+No Vehicle,0.0641887,2,2019,3
+Single-Parent Household,0.110817716,2,2019,3
+Unemployment,0.07719107,2,2019,3
+Aged 17 or Younger,0.07264414,2,2019,4
+Aged 65 or Older,0.08500535,2,2019,4
+Below Poverty,0.07665555,2,2019,4
+Crowding,0.09533043,2,2019,4
+Group Quarters,0.043231834,2,2019,4
+Limited English Ability,0.103248544,2,2019,4
+Minority Status,0.08799401,2,2019,4
+Mobile Homes,0.06267025,2,2019,4
+Multi-Unit Structures,0.04693053,2,2019,4
+No High School Diploma,0.10161421,2,2019,4
+No Vehicle,0.059023067,2,2019,4
+Single-Parent Household,0.08892756,2,2019,4
+Unemployment,0.07672452,2,2019,4
+Aged 17 or Younger,0.093770966,2,2019,5
+Aged 65 or Older,0.07355862,2,2019,5
+Below Poverty,0.07691233,2,2019,5
+Crowding,0.09400388,2,2019,5
+Group Quarters,0.045955107,2,2019,5
+Limited English Ability,0.09095027,2,2019,5
+Minority Status,0.10503226,2,2019,5
+Mobile Homes,0.050377134,2,2019,5
+Multi-Unit Structures,0.053192165,2,2019,5
+No High School Diploma,0.09279951,2,2019,5
+No Vehicle,0.056767575,2,2019,5
+Single-Parent Household,0.093962654,2,2019,5
+Unemployment,0.072717555,2,2019,5
+Aged 17 or Younger,0.053454746,2,2020,1
+Aged 65 or Older,0.07556495,2,2020,1
+Below Poverty,0.13625212,2,2020,1
+Crowding,0.10157856,2,2020,1
+Group Quarters,0.044624582,2,2020,1
+Limited English Ability,0.10338982,2,2020,1
+Minority Status,0.08935311,2,2020,1
+Mobile Homes,0.06969484,2,2020,1
+Multi-Unit Structures,0.070557915,2,2020,1
+No High School Diploma,0.09138321,2,2020,1
+No Vehicle,0.04870735,2,2020,1
+Single-Parent Household,0.06718931,2,2020,1
+Unemployment,0.048249476,2,2020,1
+Aged 17 or Younger,0.071755126,2,2020,2
+Aged 65 or Older,0.06597138,2,2020,2
+Below Poverty,0.11231823,2,2020,2
+Crowding,0.09333319,2,2020,2
+Group Quarters,0.05379208,2,2020,2
+Limited English Ability,0.111416265,2,2020,2
+Minority Status,0.06989257,2,2020,2
+Mobile Homes,0.061838485,2,2020,2
+Multi-Unit Structures,0.070053324,2,2020,2
+No High School Diploma,0.07668399,2,2020,2
+No Vehicle,0.07660419,2,2020,2
+Single-Parent Household,0.07564801,2,2020,2
+Unemployment,0.060693227,2,2020,2
+Aged 17 or Younger,0.05744358,2,2020,3
+Aged 65 or Older,0.074931435,2,2020,3
+Below Poverty,0.123065814,2,2020,3
+Crowding,0.08392359,2,2020,3
+Group Quarters,0.0533243,2,2020,3
+Limited English Ability,0.08662194,2,2020,3
+Minority Status,0.083458394,2,2020,3
+Mobile Homes,0.06781223,2,2020,3
+Multi-Unit Structures,0.07119548,2,2020,3
+No High School Diploma,0.07245384,2,2020,3
+No Vehicle,0.0833334,2,2020,3
+Single-Parent Household,0.08268807,2,2020,3
+Unemployment,0.05974796,2,2020,3
+Aged 17 or Younger,0.052576955,2,2020,4
+Aged 65 or Older,0.060066205,2,2020,4
+Below Poverty,0.11295673,2,2020,4
+Crowding,0.09232118,2,2020,4
+Group Quarters,0.052730825,2,2020,4
+Limited English Ability,0.111338794,2,2020,4
+Minority Status,0.07628236,2,2020,4
+Mobile Homes,0.06751556,2,2020,4
+Multi-Unit Structures,0.075696975,2,2020,4
+No High School Diploma,0.10881263,2,2020,4
+No Vehicle,0.0639252,2,2020,4
+Single-Parent Household,0.065138526,2,2020,4
+Unemployment,0.060638092,2,2020,4
+Aged 17 or Younger,0.07889842,2,2020,5
+Aged 65 or Older,0.059757717,2,2020,5
+Below Poverty,0.0984067,2,2020,5
+Crowding,0.07174302,2,2020,5
+Group Quarters,0.05332892,2,2020,5
+Limited English Ability,0.103183165,2,2020,5
+Minority Status,0.103790574,2,2020,5
+Mobile Homes,0.08963884,2,2020,5
+Multi-Unit Structures,0.060989156,2,2020,5
+No High School Diploma,0.10216866,2,2020,5
+No Vehicle,0.06123871,2,2020,5
+Single-Parent Household,0.060825314,2,2020,5
+Unemployment,0.05603081,2,2020,5
+Aged 17 or Younger,0.06739214,2,2021,1
+Aged 65 or Older,0.05106504,2,2021,1
+Below Poverty,0.17003308,2,2021,1
+Crowding,0.085677415,2,2021,1
+Group Quarters,0.049782768,2,2021,1
+Limited English Ability,0.11083584,2,2021,1
+Minority Status,0.08280001,2,2021,1
+Mobile Homes,0.048159275,2,2021,1
+Multi-Unit Structures,0.048417743,2,2021,1
+No High School Diploma,0.08999204,2,2021,1
+No Vehicle,0.059783116,2,2021,1
+Single-Parent Household,0.070339285,2,2021,1
+Unemployment,0.0657224,2,2021,1
+Aged 17 or Younger,0.054221552,2,2021,2
+Aged 65 or Older,0.06836196,2,2021,2
+Below Poverty,0.15725356,2,2021,2
+Crowding,0.08584455,2,2021,2
+Group Quarters,0.04465814,2,2021,2
+Limited English Ability,0.11323364,2,2021,2
+Minority Status,0.06939581,2,2021,2
+Mobile Homes,0.051632933,2,2021,2
+Multi-Unit Structures,0.054163016,2,2021,2
+No High School Diploma,0.08656757,2,2021,2
+No Vehicle,0.055468105,2,2021,2
+Single-Parent Household,0.08530543,2,2021,2
+Unemployment,0.07389377,2,2021,2
+Aged 17 or Younger,0.051552925,2,2021,3
+Aged 65 or Older,0.06921665,2,2021,3
+Below Poverty,0.18195114,2,2021,3
+Crowding,0.09886897,2,2021,3
+Group Quarters,0.05720878,2,2021,3
+Limited English Ability,0.071534276,2,2021,3
+Minority Status,0.07689927,2,2021,3
+Mobile Homes,0.05703774,2,2021,3
+Multi-Unit Structures,0.048858367,2,2021,3
+No High School Diploma,0.074729316,2,2021,3
+No Vehicle,0.05978574,2,2021,3
+Single-Parent Household,0.09521607,2,2021,3
+Unemployment,0.057140887,2,2021,3
+Aged 17 or Younger,0.056683093,2,2021,4
+Aged 65 or Older,0.06732822,2,2021,4
+Below Poverty,0.15804708,2,2021,4
+Crowding,0.09689526,2,2021,4
+Group Quarters,0.046652406,2,2021,4
+Limited English Ability,0.101355575,2,2021,4
+Minority Status,0.07095108,2,2021,4
+Mobile Homes,0.059206747,2,2021,4
+Multi-Unit Structures,0.050403167,2,2021,4
+No High School Diploma,0.08497121,2,2021,4
+No Vehicle,0.06238727,2,2021,4
+Single-Parent Household,0.078470536,2,2021,4
+Unemployment,0.066648394,2,2021,4
+Aged 17 or Younger,0.0777368,2,2021,5
+Aged 65 or Older,0.054948013,2,2021,5
+Below Poverty,0.1648862,2,2021,5
+Crowding,0.121216945,2,2021,5
+Group Quarters,0.0590689,2,2021,5
+Limited English Ability,0.09000992,2,2021,5
+Minority Status,0.06754303,2,2021,5
+Mobile Homes,0.058902446,2,2021,5
+Multi-Unit Structures,0.04740719,2,2021,5
+No High School Diploma,0.097201385,2,2021,5
+No Vehicle,0.05329053,2,2021,5
+Single-Parent Household,0.057876363,2,2021,5
+Unemployment,0.049912278,2,2021,5
+Aged 17 or Younger,0.06350036,3,2010,1
+Aged 65 or Older,0.054842442,3,2010,1
+Below Poverty,0.11503253,3,2010,1
+Crowding,0.0567123,3,2010,1
+Group Quarters,0.07140972,3,2010,1
+Limited English Ability,0.06923736,3,2010,1
+Minority Status,0.11085668,3,2010,1
+Mobile Homes,0.06721771,3,2010,1
+Multi-Unit Structures,0.06457288,3,2010,1
+No High School Diploma,0.07854355,3,2010,1
+No Vehicle,0.059847396,3,2010,1
+Single-Parent Household,0.05864674,3,2010,1
+Unemployment,0.1295803,3,2010,1
+Aged 17 or Younger,0.056904968,3,2010,2
+Aged 65 or Older,0.044377644,3,2010,2
+Below Poverty,0.09823326,3,2010,2
+Crowding,0.0515696,3,2010,2
+Group Quarters,0.06850139,3,2010,2
+Limited English Ability,0.061410513,3,2010,2
+Minority Status,0.14995772,3,2010,2
+Mobile Homes,0.07893903,3,2010,2
+Multi-Unit Structures,0.056305915,3,2010,2
+No High School Diploma,0.1076622,3,2010,2
+No Vehicle,0.059193477,3,2010,2
+Single-Parent Household,0.05912795,3,2010,2
+Unemployment,0.10781635,3,2010,2
+Aged 17 or Younger,0.052209318,3,2010,3
+Aged 65 or Older,0.05817992,3,2010,3
+Below Poverty,0.1097027,3,2010,3
+Crowding,0.052802697,3,2010,3
+Group Quarters,0.06055822,3,2010,3
+Limited English Ability,0.05123304,3,2010,3
+Minority Status,0.14321549,3,2010,3
+Mobile Homes,0.06779533,3,2010,3
+Multi-Unit Structures,0.073325396,3,2010,3
+No High School Diploma,0.09005119,3,2010,3
+No Vehicle,0.052659284,3,2010,3
+Single-Parent Household,0.068963915,3,2010,3
+Unemployment,0.11930355,3,2010,3
+Aged 17 or Younger,0.066628546,3,2010,4
+Aged 65 or Older,0.057396818,3,2010,4
+Below Poverty,0.10527311,3,2010,4
+Crowding,0.055269916,3,2010,4
+Group Quarters,0.05963566,3,2010,4
+Limited English Ability,0.066589154,3,2010,4
+Minority Status,0.13360175,3,2010,4
+Mobile Homes,0.06453646,3,2010,4
+Multi-Unit Structures,0.053994626,3,2010,4
+No High School Diploma,0.09280664,3,2010,4
+No Vehicle,0.0521759,3,2010,4
+Single-Parent Household,0.06289369,3,2010,4
+Unemployment,0.1291976,3,2010,4
+Aged 17 or Younger,0.07230643,3,2010,5
+Aged 65 or Older,0.05029317,3,2010,5
+Below Poverty,0.10602429,3,2010,5
+Crowding,0.052228127,3,2010,5
+Group Quarters,0.05569816,3,2010,5
+Limited English Ability,0.06483221,3,2010,5
+Minority Status,0.15391088,3,2010,5
+Mobile Homes,0.061090395,3,2010,5
+Multi-Unit Structures,0.070740625,3,2010,5
+No High School Diploma,0.08313606,3,2010,5
+No Vehicle,0.043758582,3,2010,5
+Single-Parent Household,0.055156253,3,2010,5
+Unemployment,0.13082479,3,2010,5
+Aged 17 or Younger,0.06314437,3,2011,1
+Aged 65 or Older,0.06024339,3,2011,1
+Below Poverty,0.09038732,3,2011,1
+Crowding,0.07103387,3,2011,1
+Group Quarters,0.06367708,3,2011,1
+Limited English Ability,0.06808192,3,2011,1
+Minority Status,0.1136338,3,2011,1
+Mobile Homes,0.06795006,3,2011,1
+Multi-Unit Structures,0.06339475,3,2011,1
+No High School Diploma,0.07828867,3,2011,1
+No Vehicle,0.06722911,3,2011,1
+Single-Parent Household,0.07538451,3,2011,1
+Unemployment,0.11755116,3,2011,1
+Aged 17 or Younger,0.060838614,3,2011,2
+Aged 65 or Older,0.052619286,3,2011,2
+Below Poverty,0.08778878,3,2011,2
+Crowding,0.060072593,3,2011,2
+Group Quarters,0.071219206,3,2011,2
+Limited English Ability,0.059349757,3,2011,2
+Minority Status,0.13458003,3,2011,2
+Mobile Homes,0.06607564,3,2011,2
+Multi-Unit Structures,0.06510098,3,2011,2
+No High School Diploma,0.085344344,3,2011,2
+No Vehicle,0.07693065,3,2011,2
+Single-Parent Household,0.07030469,3,2011,2
+Unemployment,0.10977544,3,2011,2
+Aged 17 or Younger,0.060715575,3,2011,3
+Aged 65 or Older,0.05262828,3,2011,3
+Below Poverty,0.090666406,3,2011,3
+Crowding,0.07153882,3,2011,3
+Group Quarters,0.064104736,3,2011,3
+Limited English Ability,0.062217776,3,2011,3
+Minority Status,0.13211486,3,2011,3
+Mobile Homes,0.06649708,3,2011,3
+Multi-Unit Structures,0.06485131,3,2011,3
+No High School Diploma,0.08947329,3,2011,3
+No Vehicle,0.059819747,3,2011,3
+Single-Parent Household,0.06616058,3,2011,3
+Unemployment,0.11921156,3,2011,3
+Aged 17 or Younger,0.06700661,3,2011,4
+Aged 65 or Older,0.04907414,3,2011,4
+Below Poverty,0.08804057,3,2011,4
+Crowding,0.0721786,3,2011,4
+Group Quarters,0.063427374,3,2011,4
+Limited English Ability,0.053940713,3,2011,4
+Minority Status,0.124620914,3,2011,4
+Mobile Homes,0.0699017,3,2011,4
+Multi-Unit Structures,0.06632924,3,2011,4
+No High School Diploma,0.09063442,3,2011,4
+No Vehicle,0.05844493,3,2011,4
+Single-Parent Household,0.080649376,3,2011,4
+Unemployment,0.11575147,3,2011,4
+Aged 17 or Younger,0.058651898,3,2011,5
+Aged 65 or Older,0.06184666,3,2011,5
+Below Poverty,0.08451052,3,2011,5
+Crowding,0.059814036,3,2011,5
+Group Quarters,0.058838114,3,2011,5
+Limited English Ability,0.05521975,3,2011,5
+Minority Status,0.13312474,3,2011,5
+Mobile Homes,0.064895995,3,2011,5
+Multi-Unit Structures,0.08342765,3,2011,5
+No High School Diploma,0.086810686,3,2011,5
+No Vehicle,0.053319544,3,2011,5
+Single-Parent Household,0.06665223,3,2011,5
+Unemployment,0.13288818,3,2011,5
+Aged 17 or Younger,0.059951287,3,2012,1
+Aged 65 or Older,0.05509888,3,2012,1
+Below Poverty,0.083571166,3,2012,1
+Crowding,0.06743265,3,2012,1
+Group Quarters,0.07236541,3,2012,1
+Limited English Ability,0.06372531,3,2012,1
+Minority Status,0.11668171,3,2012,1
+Mobile Homes,0.06269458,3,2012,1
+Multi-Unit Structures,0.07035351,3,2012,1
+No High School Diploma,0.086603075,3,2012,1
+No Vehicle,0.0798666,3,2012,1
+Single-Parent Household,0.07241383,3,2012,1
+Unemployment,0.109242134,3,2012,1
+Aged 17 or Younger,0.08213354,3,2012,2
+Aged 65 or Older,0.05220352,3,2012,2
+Below Poverty,0.0816932,3,2012,2
+Crowding,0.058882937,3,2012,2
+Group Quarters,0.07289035,3,2012,2
+Limited English Ability,0.06352838,3,2012,2
+Minority Status,0.13053353,3,2012,2
+Mobile Homes,0.057936184,3,2012,2
+Multi-Unit Structures,0.067949004,3,2012,2
+No High School Diploma,0.10470974,3,2012,2
+No Vehicle,0.06251262,3,2012,2
+Single-Parent Household,0.0740169,3,2012,2
+Unemployment,0.0910102,3,2012,2
+Aged 17 or Younger,0.062060874,3,2012,3
+Aged 65 or Older,0.05021363,3,2012,3
+Below Poverty,0.09160743,3,2012,3
+Crowding,0.06508608,3,2012,3
+Group Quarters,0.07284426,3,2012,3
+Limited English Ability,0.057922896,3,2012,3
+Minority Status,0.120750226,3,2012,3
+Mobile Homes,0.056405947,3,2012,3
+Multi-Unit Structures,0.06779074,3,2012,3
+No High School Diploma,0.10070278,3,2012,3
+No Vehicle,0.06813731,3,2012,3
+Single-Parent Household,0.084612034,3,2012,3
+Unemployment,0.1018658,3,2012,3
+Aged 17 or Younger,0.068941586,3,2012,4
+Aged 65 or Older,0.051792618,3,2012,4
+Below Poverty,0.09248608,3,2012,4
+Crowding,0.053294923,3,2012,4
+Group Quarters,0.06384159,3,2012,4
+Limited English Ability,0.06797352,3,2012,4
+Minority Status,0.12287868,3,2012,4
+Mobile Homes,0.06584048,3,2012,4
+Multi-Unit Structures,0.07168925,3,2012,4
+No High School Diploma,0.109315135,3,2012,4
+No Vehicle,0.063651815,3,2012,4
+Single-Parent Household,0.07749662,3,2012,4
+Unemployment,0.09079775,3,2012,4
+Aged 17 or Younger,0.06928059,3,2012,5
+Aged 65 or Older,0.05123284,3,2012,5
+Below Poverty,0.09613094,3,2012,5
+Crowding,0.058198433,3,2012,5
+Group Quarters,0.05668135,3,2012,5
+Limited English Ability,0.06524819,3,2012,5
+Minority Status,0.12956284,3,2012,5
+Mobile Homes,0.055215888,3,2012,5
+Multi-Unit Structures,0.08382211,3,2012,5
+No High School Diploma,0.08162122,3,2012,5
+No Vehicle,0.061159674,3,2012,5
+Single-Parent Household,0.069708034,3,2012,5
+Unemployment,0.12213793,3,2012,5
+Aged 17 or Younger,0.059212755,3,2013,1
+Aged 65 or Older,0.054041576,3,2013,1
+Below Poverty,0.094873264,3,2013,1
+Crowding,0.061948378,3,2013,1
+Group Quarters,0.05643101,3,2013,1
+Limited English Ability,0.06197247,3,2013,1
+Minority Status,0.11703757,3,2013,1
+Mobile Homes,0.06671756,3,2013,1
+Multi-Unit Structures,0.068778336,3,2013,1
+No High School Diploma,0.102115914,3,2013,1
+No Vehicle,0.08063357,3,2013,1
+Single-Parent Household,0.08155007,3,2013,1
+Unemployment,0.09468755,3,2013,1
+Aged 17 or Younger,0.07211381,3,2013,2
+Aged 65 or Older,0.053226087,3,2013,2
+Below Poverty,0.09720533,3,2013,2
+Crowding,0.056519035,3,2013,2
+Group Quarters,0.062487796,3,2013,2
+Limited English Ability,0.061924323,3,2013,2
+Minority Status,0.13611132,3,2013,2
+Mobile Homes,0.061058246,3,2013,2
+Multi-Unit Structures,0.067758515,3,2013,2
+No High School Diploma,0.101723045,3,2013,2
+No Vehicle,0.08545578,3,2013,2
+Single-Parent Household,0.063385785,3,2013,2
+Unemployment,0.08103085,3,2013,2
+Aged 17 or Younger,0.0581837,3,2013,3
+Aged 65 or Older,0.048962895,3,2013,3
+Below Poverty,0.105675,3,2013,3
+Crowding,0.05702617,3,2013,3
+Group Quarters,0.054256186,3,2013,3
+Limited English Ability,0.06042967,3,2013,3
+Minority Status,0.13543375,3,2013,3
+Mobile Homes,0.058172673,3,2013,3
+Multi-Unit Structures,0.06784237,3,2013,3
+No High School Diploma,0.09788861,3,2013,3
+No Vehicle,0.089774214,3,2013,3
+Single-Parent Household,0.061939426,3,2013,3
+Unemployment,0.104415394,3,2013,3
+Aged 17 or Younger,0.06973512,3,2013,4
+Aged 65 or Older,0.055984028,3,2013,4
+Below Poverty,0.10266459,3,2013,4
+Crowding,0.080051936,3,2013,4
+Group Quarters,0.050712354,3,2013,4
+Limited English Ability,0.06750119,3,2013,4
+Minority Status,0.13001147,3,2013,4
+Mobile Homes,0.056744635,3,2013,4
+Multi-Unit Structures,0.05819461,3,2013,4
+No High School Diploma,0.096156806,3,2013,4
+No Vehicle,0.077747375,3,2013,4
+Single-Parent Household,0.061654307,3,2013,4
+Unemployment,0.09284155,3,2013,4
+Aged 17 or Younger,0.05985128,3,2013,5
+Aged 65 or Older,0.049275063,3,2013,5
+Below Poverty,0.100242555,3,2013,5
+Crowding,0.06536148,3,2013,5
+Group Quarters,0.046819888,3,2013,5
+Limited English Ability,0.06534004,3,2013,5
+Minority Status,0.12623627,3,2013,5
+Mobile Homes,0.058575857,3,2013,5
+Multi-Unit Structures,0.08234699,3,2013,5
+No High School Diploma,0.113097705,3,2013,5
+No Vehicle,0.07432625,3,2013,5
+Single-Parent Household,0.058419842,3,2013,5
+Unemployment,0.100106835,3,2013,5
+Aged 17 or Younger,0.073713765,3,2014,1
+Aged 65 or Older,0.071244664,3,2014,1
+Below Poverty,0.099827066,3,2014,1
+Crowding,0.06362795,3,2014,1
+Group Quarters,0.06642407,3,2014,1
+Limited English Ability,0.06085915,3,2014,1
+Minority Status,0.116764225,3,2014,1
+Mobile Homes,0.062234074,3,2014,1
+Multi-Unit Structures,0.05214564,3,2014,1
+No High School Diploma,0.07515497,3,2014,1
+No Vehicle,0.09186438,3,2014,1
+Single-Parent Household,0.06813784,3,2014,1
+Unemployment,0.09800216,3,2014,1
+Aged 17 or Younger,0.08824487,3,2014,2
+Aged 65 or Older,0.053016722,3,2014,2
+Below Poverty,0.07790983,3,2014,2
+Crowding,0.06489923,3,2014,2
+Group Quarters,0.06144067,3,2014,2
+Limited English Ability,0.06898001,3,2014,2
+Minority Status,0.12724648,3,2014,2
+Mobile Homes,0.07686915,3,2014,2
+Multi-Unit Structures,0.06548937,3,2014,2
+No High School Diploma,0.08222105,3,2014,2
+No Vehicle,0.072908565,3,2014,2
+Single-Parent Household,0.078986585,3,2014,2
+Unemployment,0.0817874,3,2014,2
+Aged 17 or Younger,0.08471522,3,2014,3
+Aged 65 or Older,0.06564841,3,2014,3
+Below Poverty,0.11016513,3,2014,3
+Crowding,0.056540214,3,2014,3
+Group Quarters,0.052478854,3,2014,3
+Limited English Ability,0.060881563,3,2014,3
+Minority Status,0.12556565,3,2014,3
+Mobile Homes,0.05727835,3,2014,3
+Multi-Unit Structures,0.06253302,3,2014,3
+No High School Diploma,0.08286362,3,2014,3
+No Vehicle,0.076384336,3,2014,3
+Single-Parent Household,0.06173873,3,2014,3
+Unemployment,0.10320696,3,2014,3
+Aged 17 or Younger,0.08689969,3,2014,4
+Aged 65 or Older,0.06447022,3,2014,4
+Below Poverty,0.11010934,3,2014,4
+Crowding,0.07103859,3,2014,4
+Group Quarters,0.050870396,3,2014,4
+Limited English Ability,0.058039792,3,2014,4
+Minority Status,0.10787727,3,2014,4
+Mobile Homes,0.068983234,3,2014,4
+Multi-Unit Structures,0.059856158,3,2014,4
+No High School Diploma,0.08216173,3,2014,4
+No Vehicle,0.08161618,3,2014,4
+Single-Parent Household,0.06441171,3,2014,4
+Unemployment,0.0936656,3,2014,4
+Aged 17 or Younger,0.08586342,3,2014,5
+Aged 65 or Older,0.05378771,3,2014,5
+Below Poverty,0.10342362,3,2014,5
+Crowding,0.0743534,3,2014,5
+Group Quarters,0.048527505,3,2014,5
+Limited English Ability,0.060885563,3,2014,5
+Minority Status,0.13142386,3,2014,5
+Mobile Homes,0.060630996,3,2014,5
+Multi-Unit Structures,0.062158868,3,2014,5
+No High School Diploma,0.08449005,3,2014,5
+No Vehicle,0.07385181,3,2014,5
+Single-Parent Household,0.0532122,3,2014,5
+Unemployment,0.10739104,3,2014,5
+Aged 17 or Younger,0.09312117,3,2015,1
+Aged 65 or Older,0.05644738,3,2015,1
+Below Poverty,0.07202375,3,2015,1
+Crowding,0.07168168,3,2015,1
+Group Quarters,0.07693691,3,2015,1
+Limited English Ability,0.04390674,3,2015,1
+Minority Status,0.1204383,3,2015,1
+Mobile Homes,0.054460097,3,2015,1
+Multi-Unit Structures,0.06274297,3,2015,1
+No High School Diploma,0.081185795,3,2015,1
+No Vehicle,0.10860019,3,2015,1
+Single-Parent Household,0.07635125,3,2015,1
+Unemployment,0.08210381,3,2015,1
+Aged 17 or Younger,0.11452263,3,2015,2
+Aged 65 or Older,0.050031126,3,2015,2
+Below Poverty,0.07033037,3,2015,2
+Crowding,0.07053557,3,2015,2
+Group Quarters,0.06982921,3,2015,2
+Limited English Ability,0.06202057,3,2015,2
+Minority Status,0.12858532,3,2015,2
+Mobile Homes,0.054858085,3,2015,2
+Multi-Unit Structures,0.057922047,3,2015,2
+No High School Diploma,0.084704265,3,2015,2
+No Vehicle,0.085280076,3,2015,2
+Single-Parent Household,0.062725395,3,2015,2
+Unemployment,0.08865531,3,2015,2
+Aged 17 or Younger,0.08006772,3,2015,3
+Aged 65 or Older,0.047580983,3,2015,3
+Below Poverty,0.09541689,3,2015,3
+Crowding,0.069669075,3,2015,3
+Group Quarters,0.07210633,3,2015,3
+Limited English Ability,0.04432853,3,2015,3
+Minority Status,0.12537777,3,2015,3
+Mobile Homes,0.051409993,3,2015,3
+Multi-Unit Structures,0.057701353,3,2015,3
+No High School Diploma,0.07522097,3,2015,3
+No Vehicle,0.116945095,3,2015,3
+Single-Parent Household,0.06647979,3,2015,3
+Unemployment,0.09769556,3,2015,3
+Aged 17 or Younger,0.09368676,3,2015,4
+Aged 65 or Older,0.048693378,3,2015,4
+Below Poverty,0.09512088,3,2015,4
+Crowding,0.06260605,3,2015,4
+Group Quarters,0.07116916,3,2015,4
+Limited English Ability,0.048776977,3,2015,4
+Minority Status,0.13311692,3,2015,4
+Mobile Homes,0.05971036,3,2015,4
+Multi-Unit Structures,0.048887264,3,2015,4
+No High School Diploma,0.08832153,3,2015,4
+No Vehicle,0.09957807,3,2015,4
+Single-Parent Household,0.059954274,3,2015,4
+Unemployment,0.090378396,3,2015,4
+Aged 17 or Younger,0.08072875,3,2015,5
+Aged 65 or Older,0.051236294,3,2015,5
+Below Poverty,0.0916582,3,2015,5
+Crowding,0.07960352,3,2015,5
+Group Quarters,0.06412403,3,2015,5
+Limited English Ability,0.045284066,3,2015,5
+Minority Status,0.1303181,3,2015,5
+Mobile Homes,0.04710656,3,2015,5
+Multi-Unit Structures,0.06311552,3,2015,5
+No High School Diploma,0.081399634,3,2015,5
+No Vehicle,0.10015681,3,2015,5
+Single-Parent Household,0.059841454,3,2015,5
+Unemployment,0.1054271,3,2015,5
+Aged 17 or Younger,0.09512446,3,2016,1
+Aged 65 or Older,0.059803452,3,2016,1
+Below Poverty,0.070902415,3,2016,1
+Crowding,0.07070457,3,2016,1
+Group Quarters,0.05860683,3,2016,1
+Limited English Ability,0.050930325,3,2016,1
+Minority Status,0.1083064,3,2016,1
+Mobile Homes,0.06097909,3,2016,1
+Multi-Unit Structures,0.069732256,3,2016,1
+No High School Diploma,0.07899345,3,2016,1
+No Vehicle,0.11695761,3,2016,1
+Single-Parent Household,0.07683883,3,2016,1
+Unemployment,0.08212026,3,2016,1
+Aged 17 or Younger,0.08741435,3,2016,2
+Aged 65 or Older,0.057164207,3,2016,2
+Below Poverty,0.06719641,3,2016,2
+Crowding,0.075164,3,2016,2
+Group Quarters,0.083892174,3,2016,2
+Limited English Ability,0.054916732,3,2016,2
+Minority Status,0.13064712,3,2016,2
+Mobile Homes,0.06168805,3,2016,2
+Multi-Unit Structures,0.050521128,3,2016,2
+No High School Diploma,0.08057013,3,2016,2
+No Vehicle,0.11402163,3,2016,2
+Single-Parent Household,0.069505446,3,2016,2
+Unemployment,0.06729868,3,2016,2
+Aged 17 or Younger,0.07060999,3,2016,3
+Aged 65 or Older,0.05079926,3,2016,3
+Below Poverty,0.09033144,3,2016,3
+Crowding,0.07961899,3,2016,3
+Group Quarters,0.0538397,3,2016,3
+Limited English Ability,0.04754996,3,2016,3
+Minority Status,0.15137337,3,2016,3
+Mobile Homes,0.062747665,3,2016,3
+Multi-Unit Structures,0.04392179,3,2016,3
+No High School Diploma,0.06789004,3,2016,3
+No Vehicle,0.11748688,3,2016,3
+Single-Parent Household,0.0718752,3,2016,3
+Unemployment,0.09195579,3,2016,3
+Aged 17 or Younger,0.08370964,3,2016,4
+Aged 65 or Older,0.05698099,3,2016,4
+Below Poverty,0.09405845,3,2016,4
+Crowding,0.08089708,3,2016,4
+Group Quarters,0.058267932,3,2016,4
+Limited English Ability,0.06021341,3,2016,4
+Minority Status,0.13510224,3,2016,4
+Mobile Homes,0.052441604,3,2016,4
+Multi-Unit Structures,0.04343215,3,2016,4
+No High School Diploma,0.08441424,3,2016,4
+No Vehicle,0.10304804,3,2016,4
+Single-Parent Household,0.059882782,3,2016,4
+Unemployment,0.08755156,3,2016,4
+Aged 17 or Younger,0.0729355,3,2016,5
+Aged 65 or Older,0.050444156,3,2016,5
+Below Poverty,0.10425674,3,2016,5
+Crowding,0.08860644,3,2016,5
+Group Quarters,0.054994393,3,2016,5
+Limited English Ability,0.047525275,3,2016,5
+Minority Status,0.1425761,3,2016,5
+Mobile Homes,0.056366682,3,2016,5
+Multi-Unit Structures,0.048360422,3,2016,5
+No High School Diploma,0.07520431,3,2016,5
+No Vehicle,0.10165018,3,2016,5
+Single-Parent Household,0.05257585,3,2016,5
+Unemployment,0.10450405,3,2016,5
+Aged 17 or Younger,0.107740104,3,2017,1
+Aged 65 or Older,0.054285176,3,2017,1
+Below Poverty,0.06912247,3,2017,1
+Crowding,0.09662701,3,2017,1
+Group Quarters,0.06520159,3,2017,1
+Limited English Ability,0.055482555,3,2017,1
+Minority Status,0.094842575,3,2017,1
+Mobile Homes,0.06944618,3,2017,1
+Multi-Unit Structures,0.0506363,3,2017,1
+No High School Diploma,0.07519123,3,2017,1
+No Vehicle,0.113260336,3,2017,1
+Single-Parent Household,0.07382122,3,2017,1
+Unemployment,0.07434315,3,2017,1
+Aged 17 or Younger,0.09153536,3,2017,2
+Aged 65 or Older,0.051922828,3,2017,2
+Below Poverty,0.07082376,3,2017,2
+Crowding,0.08536193,3,2017,2
+Group Quarters,0.06507192,3,2017,2
+Limited English Ability,0.054059874,3,2017,2
+Minority Status,0.10965951,3,2017,2
+Mobile Homes,0.064642735,3,2017,2
+Multi-Unit Structures,0.06611181,3,2017,2
+No High School Diploma,0.083479255,3,2017,2
+No Vehicle,0.09085727,3,2017,2
+Single-Parent Household,0.06735787,3,2017,2
+Unemployment,0.099115945,3,2017,2
+Aged 17 or Younger,0.07154998,3,2017,3
+Aged 65 or Older,0.051678117,3,2017,3
+Below Poverty,0.09089911,3,2017,3
+Crowding,0.087263204,3,2017,3
+Group Quarters,0.059441846,3,2017,3
+Limited English Ability,0.045166943,3,2017,3
+Minority Status,0.11293277,3,2017,3
+Mobile Homes,0.06802241,3,2017,3
+Multi-Unit Structures,0.053081546,3,2017,3
+No High School Diploma,0.07410879,3,2017,3
+No Vehicle,0.112345874,3,2017,3
+Single-Parent Household,0.06740386,3,2017,3
+Unemployment,0.10610554,3,2017,3
+Aged 17 or Younger,0.09692323,3,2017,4
+Aged 65 or Older,0.048739266,3,2017,4
+Below Poverty,0.08406749,3,2017,4
+Crowding,0.07983014,3,2017,4
+Group Quarters,0.061916377,3,2017,4
+Limited English Ability,0.062242378,3,2017,4
+Minority Status,0.10660241,3,2017,4
+Mobile Homes,0.06877466,3,2017,4
+Multi-Unit Structures,0.050284643,3,2017,4
+No High School Diploma,0.08442063,3,2017,4
+No Vehicle,0.10004909,3,2017,4
+Single-Parent Household,0.06463285,3,2017,4
+Unemployment,0.091516875,3,2017,4
+Aged 17 or Younger,0.10116639,3,2017,5
+Aged 65 or Older,0.054823957,3,2017,5
+Below Poverty,0.087986164,3,2017,5
+Crowding,0.089272946,3,2017,5
+Group Quarters,0.050709628,3,2017,5
+Limited English Ability,0.05197606,3,2017,5
+Minority Status,0.10712211,3,2017,5
+Mobile Homes,0.063172415,3,2017,5
+Multi-Unit Structures,0.053688,3,2017,5
+No High School Diploma,0.074422024,3,2017,5
+No Vehicle,0.1121398,3,2017,5
+Single-Parent Household,0.05396157,3,2017,5
+Unemployment,0.09955888,3,2017,5
+Aged 17 or Younger,0.1063987,3,2018,1
+Aged 65 or Older,0.05596664,3,2018,1
+Below Poverty,0.07531996,3,2018,1
+Crowding,0.09767762,3,2018,1
+Group Quarters,0.060833436,3,2018,1
+Limited English Ability,0.058804937,3,2018,1
+Minority Status,0.09352817,3,2018,1
+Mobile Homes,0.06922336,3,2018,1
+Multi-Unit Structures,0.062633626,3,2018,1
+No High School Diploma,0.07331746,3,2018,1
+No Vehicle,0.09655831,3,2018,1
+Single-Parent Household,0.061283853,3,2018,1
+Unemployment,0.088454,3,2018,1
+Aged 17 or Younger,0.107312165,3,2018,2
+Aged 65 or Older,0.053969596,3,2018,2
+Below Poverty,0.059836965,3,2018,2
+Crowding,0.095255606,3,2018,2
+Group Quarters,0.061943445,3,2018,2
+Limited English Ability,0.05655269,3,2018,2
+Minority Status,0.108035944,3,2018,2
+Mobile Homes,0.07446991,3,2018,2
+Multi-Unit Structures,0.06065103,3,2018,2
+No High School Diploma,0.07742764,3,2018,2
+No Vehicle,0.07214011,3,2018,2
+Single-Parent Household,0.063580796,3,2018,2
+Unemployment,0.10882424,3,2018,2
+Aged 17 or Younger,0.07758453,3,2018,3
+Aged 65 or Older,0.0537153,3,2018,3
+Below Poverty,0.09254771,3,2018,3
+Crowding,0.0923698,3,2018,3
+Group Quarters,0.056922168,3,2018,3
+Limited English Ability,0.041859426,3,2018,3
+Minority Status,0.11408342,3,2018,3
+Mobile Homes,0.06918691,3,2018,3
+Multi-Unit Structures,0.05600628,3,2018,3
+No High School Diploma,0.08037418,3,2018,3
+No Vehicle,0.09666808,3,2018,3
+Single-Parent Household,0.06459452,3,2018,3
+Unemployment,0.10408761,3,2018,3
+Aged 17 or Younger,0.086675346,3,2018,4
+Aged 65 or Older,0.05352621,3,2018,4
+Below Poverty,0.09329226,3,2018,4
+Crowding,0.090775475,3,2018,4
+Group Quarters,0.056865416,3,2018,4
+Limited English Ability,0.05892138,3,2018,4
+Minority Status,0.11433401,3,2018,4
+Mobile Homes,0.07079444,3,2018,4
+Multi-Unit Structures,0.057250783,3,2018,4
+No High School Diploma,0.08209021,3,2018,4
+No Vehicle,0.080041505,3,2018,4
+Single-Parent Household,0.05500579,3,2018,4
+Unemployment,0.10042714,3,2018,4
+Aged 17 or Younger,0.10582645,3,2018,5
+Aged 65 or Older,0.057560105,3,2018,5
+Below Poverty,0.086445056,3,2018,5
+Crowding,0.07859848,3,2018,5
+Group Quarters,0.054150864,3,2018,5
+Limited English Ability,0.043399286,3,2018,5
+Minority Status,0.10720591,3,2018,5
+Mobile Homes,0.07150844,3,2018,5
+Multi-Unit Structures,0.05898262,3,2018,5
+No High School Diploma,0.068200275,3,2018,5
+No Vehicle,0.08660016,3,2018,5
+Single-Parent Household,0.06338334,3,2018,5
+Unemployment,0.11813904,3,2018,5
+Aged 17 or Younger,0.07538369,3,2019,1
+Aged 65 or Older,0.058089543,3,2019,1
+Below Poverty,0.083963014,3,2019,1
+Crowding,0.09979608,3,2019,1
+Group Quarters,0.061132506,3,2019,1
+Limited English Ability,0.05395742,3,2019,1
+Minority Status,0.1110059,3,2019,1
+Mobile Homes,0.058679562,3,2019,1
+Multi-Unit Structures,0.06223613,3,2019,1
+No High School Diploma,0.09863577,3,2019,1
+No Vehicle,0.09151773,3,2019,1
+Single-Parent Household,0.07249801,3,2019,1
+Unemployment,0.07310461,3,2019,1
+Aged 17 or Younger,0.09394976,3,2019,2
+Aged 65 or Older,0.04866386,3,2019,2
+Below Poverty,0.090631716,3,2019,2
+Crowding,0.09313097,3,2019,2
+Group Quarters,0.06420672,3,2019,2
+Limited English Ability,0.057194196,3,2019,2
+Minority Status,0.14346154,3,2019,2
+Mobile Homes,0.055722915,3,2019,2
+Multi-Unit Structures,0.05536046,3,2019,2
+No High School Diploma,0.08372865,3,2019,2
+No Vehicle,0.06435739,3,2019,2
+Single-Parent Household,0.06312165,3,2019,2
+Unemployment,0.08647019,3,2019,2
+Aged 17 or Younger,0.08506549,3,2019,3
+Aged 65 or Older,0.052699074,3,2019,3
+Below Poverty,0.08486889,3,2019,3
+Crowding,0.08666142,3,2019,3
+Group Quarters,0.06439206,3,2019,3
+Limited English Ability,0.04901109,3,2019,3
+Minority Status,0.16458242,3,2019,3
+Mobile Homes,0.058363385,3,2019,3
+Multi-Unit Structures,0.05558776,3,2019,3
+No High School Diploma,0.0695783,3,2019,3
+No Vehicle,0.08150891,3,2019,3
+Single-Parent Household,0.05913058,3,2019,3
+Unemployment,0.088550545,3,2019,3
+Aged 17 or Younger,0.07535437,3,2019,4
+Aged 65 or Older,0.04997682,3,2019,4
+Below Poverty,0.08441676,3,2019,4
+Crowding,0.08285353,3,2019,4
+Group Quarters,0.052103575,3,2019,4
+Limited English Ability,0.058108754,3,2019,4
+Minority Status,0.16117263,3,2019,4
+Mobile Homes,0.055694204,3,2019,4
+Multi-Unit Structures,0.05749734,3,2019,4
+No High School Diploma,0.09965296,3,2019,4
+No Vehicle,0.07239533,3,2019,4
+Single-Parent Household,0.0618234,3,2019,4
+Unemployment,0.08895033,3,2019,4
+Aged 17 or Younger,0.08367801,3,2019,5
+Aged 65 or Older,0.050431132,3,2019,5
+Below Poverty,0.086681634,3,2019,5
+Crowding,0.09373845,3,2019,5
+Group Quarters,0.04938272,3,2019,5
+Limited English Ability,0.044855252,3,2019,5
+Minority Status,0.15058616,3,2019,5
+Mobile Homes,0.059006978,3,2019,5
+Multi-Unit Structures,0.048451472,3,2019,5
+No High School Diploma,0.07890727,3,2019,5
+No Vehicle,0.07276516,3,2019,5
+Single-Parent Household,0.08011595,3,2019,5
+Unemployment,0.10139984,3,2019,5
+Aged 17 or Younger,0.09306941,3,2020,1
+Aged 65 or Older,0.05953672,3,2020,1
+Below Poverty,0.08573201,3,2020,1
+Crowding,0.09143626,3,2020,1
+Group Quarters,0.056681395,3,2020,1
+Limited English Ability,0.059534457,3,2020,1
+Minority Status,0.11051524,3,2020,1
+Mobile Homes,0.059491467,3,2020,1
+Multi-Unit Structures,0.06224952,3,2020,1
+No High School Diploma,0.103970446,3,2020,1
+No Vehicle,0.056146614,3,2020,1
+Single-Parent Household,0.057065815,3,2020,1
+Unemployment,0.10457062,3,2020,1
+Aged 17 or Younger,0.089081444,3,2020,2
+Aged 65 or Older,0.06178365,3,2020,2
+Below Poverty,0.06765309,3,2020,2
+Crowding,0.06174177,3,2020,2
+Group Quarters,0.06329497,3,2020,2
+Limited English Ability,0.069118254,3,2020,2
+Minority Status,0.14496101,3,2020,2
+Mobile Homes,0.062389527,3,2020,2
+Multi-Unit Structures,0.05305451,3,2020,2
+No High School Diploma,0.08717906,3,2020,2
+No Vehicle,0.05557069,3,2020,2
+Single-Parent Household,0.06666361,3,2020,2
+Unemployment,0.11750839,3,2020,2
+Aged 17 or Younger,0.09656076,3,2020,3
+Aged 65 or Older,0.058438897,3,2020,3
+Below Poverty,0.08314611,3,2020,3
+Crowding,0.072840475,3,2020,3
+Group Quarters,0.059718393,3,2020,3
+Limited English Ability,0.060499173,3,2020,3
+Minority Status,0.14429562,3,2020,3
+Mobile Homes,0.051123142,3,2020,3
+Multi-Unit Structures,0.054231655,3,2020,3
+No High School Diploma,0.081704035,3,2020,3
+No Vehicle,0.05531917,3,2020,3
+Single-Parent Household,0.06484215,3,2020,3
+Unemployment,0.11728043,3,2020,3
+Aged 17 or Younger,0.08577146,3,2020,4
+Aged 65 or Older,0.05635134,3,2020,4
+Below Poverty,0.07749893,3,2020,4
+Crowding,0.066573925,3,2020,4
+Group Quarters,0.056817543,3,2020,4
+Limited English Ability,0.063664556,3,2020,4
+Minority Status,0.15538654,3,2020,4
+Mobile Homes,0.053435445,3,2020,4
+Multi-Unit Structures,0.05096754,3,2020,4
+No High School Diploma,0.09873854,3,2020,4
+No Vehicle,0.057248317,3,2020,4
+Single-Parent Household,0.061143253,3,2020,4
+Unemployment,0.116402596,3,2020,4
+Aged 17 or Younger,0.09381345,3,2020,5
+Aged 65 or Older,0.053006355,3,2020,5
+Below Poverty,0.07898843,3,2020,5
+Crowding,0.08482296,3,2020,5
+Group Quarters,0.051769685,3,2020,5
+Limited English Ability,0.05961919,3,2020,5
+Minority Status,0.13984811,3,2020,5
+Mobile Homes,0.053983822,3,2020,5
+Multi-Unit Structures,0.053121015,3,2020,5
+No High School Diploma,0.09283868,3,2020,5
+No Vehicle,0.05196891,3,2020,5
+Single-Parent Household,0.069296874,3,2020,5
+Unemployment,0.11692256,3,2020,5
+Aged 17 or Younger,0.094464496,3,2021,1
+Aged 65 or Older,0.07060194,3,2021,1
+Below Poverty,0.10016918,3,2021,1
+Crowding,0.0721564,3,2021,1
+Group Quarters,0.05583317,3,2021,1
+Limited English Ability,0.06705846,3,2021,1
+Minority Status,0.08160687,3,2021,1
+Mobile Homes,0.06640883,3,2021,1
+Multi-Unit Structures,0.061851386,3,2021,1
+No High School Diploma,0.114103004,3,2021,1
+No Vehicle,0.06350716,3,2021,1
+Single-Parent Household,0.06227106,3,2021,1
+Unemployment,0.08996808,3,2021,1
+Aged 17 or Younger,0.09789093,3,2021,2
+Aged 65 or Older,0.059281662,3,2021,2
+Below Poverty,0.09528461,3,2021,2
+Crowding,0.060517237,3,2021,2
+Group Quarters,0.05719476,3,2021,2
+Limited English Ability,0.07590328,3,2021,2
+Minority Status,0.10361897,3,2021,2
+Mobile Homes,0.06435031,3,2021,2
+Multi-Unit Structures,0.0574232,3,2021,2
+No High School Diploma,0.11349103,3,2021,2
+No Vehicle,0.064167954,3,2021,2
+Single-Parent Household,0.07060953,3,2021,2
+Unemployment,0.08026654,3,2021,2
+Aged 17 or Younger,0.102704555,3,2021,3
+Aged 65 or Older,0.053297147,3,2021,3
+Below Poverty,0.100545995,3,2021,3
+Crowding,0.052050162,3,2021,3
+Group Quarters,0.058560785,3,2021,3
+Limited English Ability,0.05573628,3,2021,3
+Minority Status,0.10989769,3,2021,3
+Mobile Homes,0.065992646,3,2021,3
+Multi-Unit Structures,0.06135896,3,2021,3
+No High School Diploma,0.0997509,3,2021,3
+No Vehicle,0.069727354,3,2021,3
+Single-Parent Household,0.06906482,3,2021,3
+Unemployment,0.10131279,3,2021,3
+Aged 17 or Younger,0.095726535,3,2021,4
+Aged 65 or Older,0.069110915,3,2021,4
+Below Poverty,0.08750813,3,2021,4
+Crowding,0.060785554,3,2021,4
+Group Quarters,0.047140703,3,2021,4
+Limited English Ability,0.06217265,3,2021,4
+Minority Status,0.10749903,3,2021,4
+Mobile Homes,0.054569963,3,2021,4
+Multi-Unit Structures,0.06103665,3,2021,4
+No High School Diploma,0.14003034,3,2021,4
+No Vehicle,0.063002855,3,2021,4
+Single-Parent Household,0.06226129,3,2021,4
+Unemployment,0.08915534,3,2021,4
+Aged 17 or Younger,0.08993346,3,2021,5
+Aged 65 or Older,0.054049827,3,2021,5
+Below Poverty,0.102656946,3,2021,5
+Crowding,0.06860712,3,2021,5
+Group Quarters,0.05815526,3,2021,5
+Limited English Ability,0.058607638,3,2021,5
+Minority Status,0.11737643,3,2021,5
+Mobile Homes,0.056297675,3,2021,5
+Multi-Unit Structures,0.060476847,3,2021,5
+No High School Diploma,0.09491437,3,2021,5
+No Vehicle,0.07726623,3,2021,5
+Single-Parent Household,0.06742178,3,2021,5
+Unemployment,0.09423641,3,2021,5
+Aged 17 or Younger,0.05332808,4,2010,1
+Aged 65 or Older,0.042371973,4,2010,1
+Below Poverty,0.06271683,4,2010,1
+Crowding,0.10606795,4,2010,1
+Group Quarters,0.052241083,4,2010,1
+Limited English Ability,0.056643363,4,2010,1
+Minority Status,0.115731955,4,2010,1
+Mobile Homes,0.04748529,4,2010,1
+Multi-Unit Structures,0.05350421,4,2010,1
+No High School Diploma,0.064095125,4,2010,1
+No Vehicle,0.12925528,4,2010,1
+Single-Parent Household,0.11012135,4,2010,1
+Unemployment,0.1064374,4,2010,1
+Aged 17 or Younger,0.062617786,4,2010,2
+Aged 65 or Older,0.04524381,4,2010,2
+Below Poverty,0.05360204,4,2010,2
+Crowding,0.11813184,4,2010,2
+Group Quarters,0.04976693,4,2010,2
+Limited English Ability,0.056657024,4,2010,2
+Minority Status,0.11086324,4,2010,2
+Mobile Homes,0.051087115,4,2010,2
+Multi-Unit Structures,0.05821673,4,2010,2
+No High School Diploma,0.06881908,4,2010,2
+No Vehicle,0.14789554,4,2010,2
+Single-Parent Household,0.07127956,4,2010,2
+Unemployment,0.10581945,4,2010,2
+Aged 17 or Younger,0.051227026,4,2010,3
+Aged 65 or Older,0.051852822,4,2010,3
+Below Poverty,0.06917044,4,2010,3
+Crowding,0.059024207,4,2010,3
+Group Quarters,0.048346795,4,2010,3
+Limited English Ability,0.07186877,4,2010,3
+Minority Status,0.13336834,4,2010,3
+Mobile Homes,0.056938708,4,2010,3
+Multi-Unit Structures,0.054415643,4,2010,3
+No High School Diploma,0.10975286,4,2010,3
+No Vehicle,0.085413285,4,2010,3
+Single-Parent Household,0.08096965,4,2010,3
+Unemployment,0.1276515,4,2010,3
+Aged 17 or Younger,0.08711513,4,2010,4
+Aged 65 or Older,0.057228606,4,2010,4
+Below Poverty,0.05840907,4,2010,4
+Crowding,0.094650745,4,2010,4
+Group Quarters,0.048271175,4,2010,4
+Limited English Ability,0.05372512,4,2010,4
+Minority Status,0.10339456,4,2010,4
+Mobile Homes,0.059142947,4,2010,4
+Multi-Unit Structures,0.06973082,4,2010,4
+No High School Diploma,0.06617144,4,2010,4
+No Vehicle,0.09500905,4,2010,4
+Single-Parent Household,0.083163075,4,2010,4
+Unemployment,0.123988174,4,2010,4
+Aged 17 or Younger,0.057885207,4,2010,5
+Aged 65 or Older,0.044094395,4,2010,5
+Below Poverty,0.061835628,4,2010,5
+Crowding,0.09005986,4,2010,5
+Group Quarters,0.0497821,4,2010,5
+Limited English Ability,0.048749827,4,2010,5
+Minority Status,0.13945322,4,2010,5
+Mobile Homes,0.055135746,4,2010,5
+Multi-Unit Structures,0.06037516,4,2010,5
+No High School Diploma,0.06670207,4,2010,5
+No Vehicle,0.10401508,4,2010,5
+Single-Parent Household,0.092399284,4,2010,5
+Unemployment,0.1295124,4,2010,5
+Aged 17 or Younger,0.060722996,4,2011,1
+Aged 65 or Older,0.069085255,4,2011,1
+Below Poverty,0.06460323,4,2011,1
+Crowding,0.09475281,4,2011,1
+Group Quarters,0.06188058,4,2011,1
+Limited English Ability,0.07571875,4,2011,1
+Minority Status,0.07570265,4,2011,1
+Mobile Homes,0.053060587,4,2011,1
+Multi-Unit Structures,0.07124044,4,2011,1
+No High School Diploma,0.066996016,4,2011,1
+No Vehicle,0.09365115,4,2011,1
+Single-Parent Household,0.08008261,4,2011,1
+Unemployment,0.13250287,4,2011,1
+Aged 17 or Younger,0.06373475,4,2011,2
+Aged 65 or Older,0.07722499,4,2011,2
+Below Poverty,0.0524444,4,2011,2
+Crowding,0.07644438,4,2011,2
+Group Quarters,0.056056026,4,2011,2
+Limited English Ability,0.05174926,4,2011,2
+Minority Status,0.08785542,4,2011,2
+Mobile Homes,0.05512103,4,2011,2
+Multi-Unit Structures,0.07594835,4,2011,2
+No High School Diploma,0.06957061,4,2011,2
+No Vehicle,0.11690721,4,2011,2
+Single-Parent Household,0.083420955,4,2011,2
+Unemployment,0.13352267,4,2011,2
+Aged 17 or Younger,0.054104894,4,2011,3
+Aged 65 or Older,0.061060824,4,2011,3
+Below Poverty,0.0669924,4,2011,3
+Crowding,0.055396084,4,2011,3
+Group Quarters,0.0748949,4,2011,3
+Limited English Ability,0.07723735,4,2011,3
+Minority Status,0.077607736,4,2011,3
+Mobile Homes,0.053281702,4,2011,3
+Multi-Unit Structures,0.08758701,4,2011,3
+No High School Diploma,0.0579428,4,2011,3
+No Vehicle,0.10803661,4,2011,3
+Single-Parent Household,0.087620065,4,2011,3
+Unemployment,0.1382377,4,2011,3
+Aged 17 or Younger,0.07506062,4,2011,4
+Aged 65 or Older,0.08476889,4,2011,4
+Below Poverty,0.07064343,4,2011,4
+Crowding,0.064419486,4,2011,4
+Group Quarters,0.059278823,4,2011,4
+Limited English Ability,0.056957684,4,2011,4
+Minority Status,0.07300737,4,2011,4
+Mobile Homes,0.0531789,4,2011,4
+Multi-Unit Structures,0.07780565,4,2011,4
+No High School Diploma,0.068863094,4,2011,4
+No Vehicle,0.08142245,4,2011,4
+Single-Parent Household,0.090157434,4,2011,4
+Unemployment,0.14443627,4,2011,4
+Aged 17 or Younger,0.05448468,4,2011,5
+Aged 65 or Older,0.06178283,4,2011,5
+Below Poverty,0.059265777,4,2011,5
+Crowding,0.083171286,4,2011,5
+Group Quarters,0.0666578,4,2011,5
+Limited English Ability,0.062414803,4,2011,5
+Minority Status,0.10056212,4,2011,5
+Mobile Homes,0.055722624,4,2011,5
+Multi-Unit Structures,0.07918934,4,2011,5
+No High School Diploma,0.06306141,4,2011,5
+No Vehicle,0.10381439,4,2011,5
+Single-Parent Household,0.07099088,4,2011,5
+Unemployment,0.13888198,4,2011,5
+Aged 17 or Younger,0.058349527,4,2012,1
+Aged 65 or Older,0.059489068,4,2012,1
+Below Poverty,0.076282114,4,2012,1
+Crowding,0.09696845,4,2012,1
+Group Quarters,0.0688252,4,2012,1
+Limited English Ability,0.06738026,4,2012,1
+Minority Status,0.0957709,4,2012,1
+Mobile Homes,0.049228013,4,2012,1
+Multi-Unit Structures,0.08970836,4,2012,1
+No High School Diploma,0.054521024,4,2012,1
+No Vehicle,0.09138534,4,2012,1
+Single-Parent Household,0.06579331,4,2012,1
+Unemployment,0.12629837,4,2012,1
+Aged 17 or Younger,0.054515895,4,2012,2
+Aged 65 or Older,0.06527477,4,2012,2
+Below Poverty,0.057549883,4,2012,2
+Crowding,0.07612751,4,2012,2
+Group Quarters,0.063781075,4,2012,2
+Limited English Ability,0.058385868,4,2012,2
+Minority Status,0.104677655,4,2012,2
+Mobile Homes,0.059720404,4,2012,2
+Multi-Unit Structures,0.091326214,4,2012,2
+No High School Diploma,0.073183864,4,2012,2
+No Vehicle,0.10910252,4,2012,2
+Single-Parent Household,0.07670844,4,2012,2
+Unemployment,0.10964587,4,2012,2
+Aged 17 or Younger,0.05402662,4,2012,3
+Aged 65 or Older,0.066532746,4,2012,3
+Below Poverty,0.073450424,4,2012,3
+Crowding,0.08578521,4,2012,3
+Group Quarters,0.0800044,4,2012,3
+Limited English Ability,0.056523204,4,2012,3
+Minority Status,0.091903225,4,2012,3
+Mobile Homes,0.052399598,4,2012,3
+Multi-Unit Structures,0.08103299,4,2012,3
+No High School Diploma,0.06311418,4,2012,3
+No Vehicle,0.09294283,4,2012,3
+Single-Parent Household,0.07739101,4,2012,3
+Unemployment,0.1248935,4,2012,3
+Aged 17 or Younger,0.059294358,4,2012,4
+Aged 65 or Older,0.06994702,4,2012,4
+Below Poverty,0.063871704,4,2012,4
+Crowding,0.08663415,4,2012,4
+Group Quarters,0.059363358,4,2012,4
+Limited English Ability,0.06245261,4,2012,4
+Minority Status,0.09489398,4,2012,4
+Mobile Homes,0.046171132,4,2012,4
+Multi-Unit Structures,0.0955683,4,2012,4
+No High School Diploma,0.07164117,4,2012,4
+No Vehicle,0.07210298,4,2012,4
+Single-Parent Household,0.06698526,4,2012,4
+Unemployment,0.15107407,4,2012,4
+Aged 17 or Younger,0.05558577,4,2012,5
+Aged 65 or Older,0.06750382,4,2012,5
+Below Poverty,0.07960004,4,2012,5
+Crowding,0.08714204,4,2012,5
+Group Quarters,0.084631756,4,2012,5
+Limited English Ability,0.06399099,4,2012,5
+Minority Status,0.089605816,4,2012,5
+Mobile Homes,0.054496344,4,2012,5
+Multi-Unit Structures,0.08733132,4,2012,5
+No High School Diploma,0.05910679,4,2012,5
+No Vehicle,0.072774544,4,2012,5
+Single-Parent Household,0.067338355,4,2012,5
+Unemployment,0.13089237,4,2012,5
+Aged 17 or Younger,0.058428004,4,2013,1
+Aged 65 or Older,0.057127483,4,2013,1
+Below Poverty,0.07581089,4,2013,1
+Crowding,0.07062323,4,2013,1
+Group Quarters,0.079378985,4,2013,1
+Limited English Ability,0.072563656,4,2013,1
+Minority Status,0.11368988,4,2013,1
+Mobile Homes,0.06332971,4,2013,1
+Multi-Unit Structures,0.07889454,4,2013,1
+No High School Diploma,0.066046916,4,2013,1
+No Vehicle,0.079002775,4,2013,1
+Single-Parent Household,0.061588254,4,2013,1
+Unemployment,0.12351566,4,2013,1
+Aged 17 or Younger,0.060100097,4,2013,2
+Aged 65 or Older,0.062179066,4,2013,2
+Below Poverty,0.058231387,4,2013,2
+Crowding,0.055631604,4,2013,2
+Group Quarters,0.061900083,4,2013,2
+Limited English Ability,0.074094325,4,2013,2
+Minority Status,0.12630062,4,2013,2
+Mobile Homes,0.065804906,4,2013,2
+Multi-Unit Structures,0.08556468,4,2013,2
+No High School Diploma,0.063142836,4,2013,2
+No Vehicle,0.107148044,4,2013,2
+Single-Parent Household,0.06637865,4,2013,2
+Unemployment,0.113523655,4,2013,2
+Aged 17 or Younger,0.06481584,4,2013,3
+Aged 65 or Older,0.06062175,4,2013,3
+Below Poverty,0.08279645,4,2013,3
+Crowding,0.057790592,4,2013,3
+Group Quarters,0.08180212,4,2013,3
+Limited English Ability,0.05831302,4,2013,3
+Minority Status,0.11836157,4,2013,3
+Mobile Homes,0.060373925,4,2013,3
+Multi-Unit Structures,0.07392811,4,2013,3
+No High School Diploma,0.061241273,4,2013,3
+No Vehicle,0.08174454,4,2013,3
+Single-Parent Household,0.05925498,4,2013,3
+Unemployment,0.13895589,4,2013,3
+Aged 17 or Younger,0.06530347,4,2013,4
+Aged 65 or Older,0.07180389,4,2013,4
+Below Poverty,0.08130711,4,2013,4
+Crowding,0.081513934,4,2013,4
+Group Quarters,0.06400787,4,2013,4
+Limited English Ability,0.057535402,4,2013,4
+Minority Status,0.0948713,4,2013,4
+Mobile Homes,0.056117553,4,2013,4
+Multi-Unit Structures,0.091382615,4,2013,4
+No High School Diploma,0.061692793,4,2013,4
+No Vehicle,0.08774389,4,2013,4
+Single-Parent Household,0.053645294,4,2013,4
+Unemployment,0.13307483,4,2013,4
+Aged 17 or Younger,0.057857353,4,2013,5
+Aged 65 or Older,0.050223168,4,2013,5
+Below Poverty,0.0682966,4,2013,5
+Crowding,0.07164892,4,2013,5
+Group Quarters,0.073742,4,2013,5
+Limited English Ability,0.060966384,4,2013,5
+Minority Status,0.1325741,4,2013,5
+Mobile Homes,0.05988804,4,2013,5
+Multi-Unit Structures,0.08002882,4,2013,5
+No High School Diploma,0.062173337,4,2013,5
+No Vehicle,0.08127947,4,2013,5
+Single-Parent Household,0.05731385,4,2013,5
+Unemployment,0.144008,4,2013,5
+Aged 17 or Younger,0.07207648,4,2014,1
+Aged 65 or Older,0.06734968,4,2014,1
+Below Poverty,0.06457027,4,2014,1
+Crowding,0.07169366,4,2014,1
+Group Quarters,0.054312542,4,2014,1
+Limited English Ability,0.06479866,4,2014,1
+Minority Status,0.1524741,4,2014,1
+Mobile Homes,0.050902426,4,2014,1
+Multi-Unit Structures,0.07174203,4,2014,1
+No High School Diploma,0.06692359,4,2014,1
+No Vehicle,0.08970599,4,2014,1
+Single-Parent Household,0.055809036,4,2014,1
+Unemployment,0.11764149,4,2014,1
+Aged 17 or Younger,0.071633354,4,2014,2
+Aged 65 or Older,0.078416124,4,2014,2
+Below Poverty,0.051291145,4,2014,2
+Crowding,0.06483102,4,2014,2
+Group Quarters,0.05457372,4,2014,2
+Limited English Ability,0.047316372,4,2014,2
+Minority Status,0.14851636,4,2014,2
+Mobile Homes,0.06729439,4,2014,2
+Multi-Unit Structures,0.062210627,4,2014,2
+No High School Diploma,0.0810535,4,2014,2
+No Vehicle,0.10619521,4,2014,2
+Single-Parent Household,0.05993836,4,2014,2
+Unemployment,0.106729746,4,2014,2
+Aged 17 or Younger,0.06435372,4,2014,3
+Aged 65 or Older,0.08045148,4,2014,3
+Below Poverty,0.05842918,4,2014,3
+Crowding,0.060590923,4,2014,3
+Group Quarters,0.07058514,4,2014,3
+Limited English Ability,0.05391528,4,2014,3
+Minority Status,0.13300864,4,2014,3
+Mobile Homes,0.04629222,4,2014,3
+Multi-Unit Structures,0.06363575,4,2014,3
+No High School Diploma,0.06926558,4,2014,3
+No Vehicle,0.105319984,4,2014,3
+Single-Parent Household,0.052771278,4,2014,3
+Unemployment,0.14138085,4,2014,3
+Aged 17 or Younger,0.072919846,4,2014,4
+Aged 65 or Older,0.07893819,4,2014,4
+Below Poverty,0.0520679,4,2014,4
+Crowding,0.09889024,4,2014,4
+Group Quarters,0.05715224,4,2014,4
+Limited English Ability,0.057106625,4,2014,4
+Minority Status,0.09644444,4,2014,4
+Mobile Homes,0.050521646,4,2014,4
+Multi-Unit Structures,0.07995852,4,2014,4
+No High School Diploma,0.07196013,4,2014,4
+No Vehicle,0.105201736,4,2014,4
+Single-Parent Household,0.05913879,4,2014,4
+Unemployment,0.11969971,4,2014,4
+Aged 17 or Younger,0.0632743,4,2014,5
+Aged 65 or Older,0.048697073,4,2014,5
+Below Poverty,0.055227306,4,2014,5
+Crowding,0.075077735,4,2014,5
+Group Quarters,0.046950404,4,2014,5
+Limited English Ability,0.05231603,4,2014,5
+Minority Status,0.16788419,4,2014,5
+Mobile Homes,0.080461234,4,2014,5
+Multi-Unit Structures,0.057032686,4,2014,5
+No High School Diploma,0.06793631,4,2014,5
+No Vehicle,0.10609018,4,2014,5
+Single-Parent Household,0.051180605,4,2014,5
+Unemployment,0.12787192,4,2014,5
+Aged 17 or Younger,0.09090416,4,2015,1
+Aged 65 or Older,0.0668726,4,2015,1
+Below Poverty,0.05743958,4,2015,1
+Crowding,0.06846941,4,2015,1
+Group Quarters,0.051380914,4,2015,1
+Limited English Ability,0.06654444,4,2015,1
+Minority Status,0.0949064,4,2015,1
+Mobile Homes,0.05747284,4,2015,1
+Multi-Unit Structures,0.07780144,4,2015,1
+No High School Diploma,0.05711549,4,2015,1
+No Vehicle,0.117060445,4,2015,1
+Single-Parent Household,0.06409535,4,2015,1
+Unemployment,0.1299369,4,2015,1
+Aged 17 or Younger,0.091478616,4,2015,2
+Aged 65 or Older,0.0769191,4,2015,2
+Below Poverty,0.045668542,4,2015,2
+Crowding,0.0706377,4,2015,2
+Group Quarters,0.04609234,4,2015,2
+Limited English Ability,0.07010317,4,2015,2
+Minority Status,0.12279084,4,2015,2
+Mobile Homes,0.042076033,4,2015,2
+Multi-Unit Structures,0.07673598,4,2015,2
+No High School Diploma,0.056335658,4,2015,2
+No Vehicle,0.14813973,4,2015,2
+Single-Parent Household,0.061110605,4,2015,2
+Unemployment,0.09191177,4,2015,2
+Aged 17 or Younger,0.07263508,4,2015,3
+Aged 65 or Older,0.05569984,4,2015,3
+Below Poverty,0.058398355,4,2015,3
+Crowding,0.067923136,4,2015,3
+Group Quarters,0.051657,4,2015,3
+Limited English Ability,0.09121885,4,2015,3
+Minority Status,0.121107824,4,2015,3
+Mobile Homes,0.050388463,4,2015,3
+Multi-Unit Structures,0.06858688,4,2015,3
+No High School Diploma,0.061883073,4,2015,3
+No Vehicle,0.13346463,4,2015,3
+Single-Parent Household,0.052982792,4,2015,3
+Unemployment,0.11405407,4,2015,3
+Aged 17 or Younger,0.11091773,4,2015,4
+Aged 65 or Older,0.053600125,4,2015,4
+Below Poverty,0.06726881,4,2015,4
+Crowding,0.08233549,4,2015,4
+Group Quarters,0.041914098,4,2015,4
+Limited English Ability,0.06274959,4,2015,4
+Minority Status,0.09909841,4,2015,4
+Mobile Homes,0.05603869,4,2015,4
+Multi-Unit Structures,0.06432762,4,2015,4
+No High School Diploma,0.067380995,4,2015,4
+No Vehicle,0.13690338,4,2015,4
+Single-Parent Household,0.058119368,4,2015,4
+Unemployment,0.099345714,4,2015,4
+Aged 17 or Younger,0.08294293,4,2015,5
+Aged 65 or Older,0.05244658,4,2015,5
+Below Poverty,0.05283801,4,2015,5
+Crowding,0.071515456,4,2015,5
+Group Quarters,0.04082921,4,2015,5
+Limited English Ability,0.061019037,4,2015,5
+Minority Status,0.12628813,4,2015,5
+Mobile Homes,0.04458111,4,2015,5
+Multi-Unit Structures,0.082693525,4,2015,5
+No High School Diploma,0.049547143,4,2015,5
+No Vehicle,0.13449863,4,2015,5
+Single-Parent Household,0.06696943,4,2015,5
+Unemployment,0.13383074,4,2015,5
+Aged 17 or Younger,0.07293568,4,2016,1
+Aged 65 or Older,0.06910474,4,2016,1
+Below Poverty,0.05951433,4,2016,1
+Crowding,0.06512602,4,2016,1
+Group Quarters,0.056773566,4,2016,1
+Limited English Ability,0.06795279,4,2016,1
+Minority Status,0.11809742,4,2016,1
+Mobile Homes,0.058008093,4,2016,1
+Multi-Unit Structures,0.076429665,4,2016,1
+No High School Diploma,0.06777725,4,2016,1
+No Vehicle,0.10997005,4,2016,1
+Single-Parent Household,0.06996812,4,2016,1
+Unemployment,0.108342275,4,2016,1
+Aged 17 or Younger,0.08743109,4,2016,2
+Aged 65 or Older,0.07778811,4,2016,2
+Below Poverty,0.054806083,4,2016,2
+Crowding,0.060519755,4,2016,2
+Group Quarters,0.06659304,4,2016,2
+Limited English Ability,0.05522279,4,2016,2
+Minority Status,0.11147625,4,2016,2
+Mobile Homes,0.05950727,4,2016,2
+Multi-Unit Structures,0.06751388,4,2016,2
+No High School Diploma,0.05996029,4,2016,2
+No Vehicle,0.122616656,4,2016,2
+Single-Parent Household,0.069252044,4,2016,2
+Unemployment,0.10731268,4,2016,2
+Aged 17 or Younger,0.07235973,4,2016,3
+Aged 65 or Older,0.065997615,4,2016,3
+Below Poverty,0.07003068,4,2016,3
+Crowding,0.06355123,4,2016,3
+Group Quarters,0.059984688,4,2016,3
+Limited English Ability,0.08311953,4,2016,3
+Minority Status,0.103910804,4,2016,3
+Mobile Homes,0.05379416,4,2016,3
+Multi-Unit Structures,0.062267408,4,2016,3
+No High School Diploma,0.059936475,4,2016,3
+No Vehicle,0.10707971,4,2016,3
+Single-Parent Household,0.06307342,4,2016,3
+Unemployment,0.13489465,4,2016,3
+Aged 17 or Younger,0.08598411,4,2016,4
+Aged 65 or Older,0.0711687,4,2016,4
+Below Poverty,0.06416474,4,2016,4
+Crowding,0.09460334,4,2016,4
+Group Quarters,0.06058065,4,2016,4
+Limited English Ability,0.06179114,4,2016,4
+Minority Status,0.08353567,4,2016,4
+Mobile Homes,0.055747665,4,2016,4
+Multi-Unit Structures,0.07542251,4,2016,4
+No High School Diploma,0.06625829,4,2016,4
+No Vehicle,0.12861454,4,2016,4
+Single-Parent Household,0.05838073,4,2016,4
+Unemployment,0.09374792,4,2016,4
+Aged 17 or Younger,0.07437434,4,2016,5
+Aged 65 or Older,0.0571668,4,2016,5
+Below Poverty,0.07544842,4,2016,5
+Crowding,0.06697147,4,2016,5
+Group Quarters,0.049453713,4,2016,5
+Limited English Ability,0.068206444,4,2016,5
+Minority Status,0.110085055,4,2016,5
+Mobile Homes,0.06204521,4,2016,5
+Multi-Unit Structures,0.07015218,4,2016,5
+No High School Diploma,0.061951652,4,2016,5
+No Vehicle,0.119448654,4,2016,5
+Single-Parent Household,0.060988028,4,2016,5
+Unemployment,0.12370803,4,2016,5
+Aged 17 or Younger,0.060034942,4,2017,1
+Aged 65 or Older,0.05922513,4,2017,1
+Below Poverty,0.07222461,4,2017,1
+Crowding,0.05905664,4,2017,1
+Group Quarters,0.055707842,4,2017,1
+Limited English Ability,0.05887389,4,2017,1
+Minority Status,0.12765887,4,2017,1
+Mobile Homes,0.06406709,4,2017,1
+Multi-Unit Structures,0.06498591,4,2017,1
+No High School Diploma,0.060919333,4,2017,1
+No Vehicle,0.13935706,4,2017,1
+Single-Parent Household,0.05933488,4,2017,1
+Unemployment,0.11855386,4,2017,1
+Aged 17 or Younger,0.06455122,4,2017,2
+Aged 65 or Older,0.07119432,4,2017,2
+Below Poverty,0.06760288,4,2017,2
+Crowding,0.054531403,4,2017,2
+Group Quarters,0.049507495,4,2017,2
+Limited English Ability,0.06429502,4,2017,2
+Minority Status,0.1458394,4,2017,2
+Mobile Homes,0.061264314,4,2017,2
+Multi-Unit Structures,0.06174671,4,2017,2
+No High School Diploma,0.07627083,4,2017,2
+No Vehicle,0.1279444,4,2017,2
+Single-Parent Household,0.05104809,4,2017,2
+Unemployment,0.10420402,4,2017,2
+Aged 17 or Younger,0.0684524,4,2017,3
+Aged 65 or Older,0.06771839,4,2017,3
+Below Poverty,0.066997066,4,2017,3
+Crowding,0.05796588,4,2017,3
+Group Quarters,0.054597728,4,2017,3
+Limited English Ability,0.07790442,4,2017,3
+Minority Status,0.13775621,4,2017,3
+Mobile Homes,0.07063343,4,2017,3
+Multi-Unit Structures,0.046945725,4,2017,3
+No High School Diploma,0.067932464,4,2017,3
+No Vehicle,0.12179506,4,2017,3
+Single-Parent Household,0.048710316,4,2017,3
+Unemployment,0.11259091,4,2017,3
+Aged 17 or Younger,0.08022853,4,2017,4
+Aged 65 or Older,0.08675496,4,2017,4
+Below Poverty,0.06797518,4,2017,4
+Crowding,0.0591727,4,2017,4
+Group Quarters,0.04746628,4,2017,4
+Limited English Ability,0.06562235,4,2017,4
+Minority Status,0.105634525,4,2017,4
+Mobile Homes,0.050046936,4,2017,4
+Multi-Unit Structures,0.076830894,4,2017,4
+No High School Diploma,0.06341155,4,2017,4
+No Vehicle,0.1384326,4,2017,4
+Single-Parent Household,0.05559894,4,2017,4
+Unemployment,0.102824606,4,2017,4
+Aged 17 or Younger,0.059967652,4,2017,5
+Aged 65 or Older,0.06171109,4,2017,5
+Below Poverty,0.0707223,4,2017,5
+Crowding,0.060245227,4,2017,5
+Group Quarters,0.049489833,4,2017,5
+Limited English Ability,0.06591828,4,2017,5
+Minority Status,0.13763282,4,2017,5
+Mobile Homes,0.06530642,4,2017,5
+Multi-Unit Structures,0.06425843,4,2017,5
+No High School Diploma,0.06611807,4,2017,5
+No Vehicle,0.13130923,4,2017,5
+Single-Parent Household,0.056452032,4,2017,5
+Unemployment,0.11086863,4,2017,5
+Aged 17 or Younger,0.05905983,4,2018,1
+Aged 65 or Older,0.063105606,4,2018,1
+Below Poverty,0.056757692,4,2018,1
+Crowding,0.06538616,4,2018,1
+Group Quarters,0.04681999,4,2018,1
+Limited English Ability,0.059247646,4,2018,1
+Minority Status,0.1348019,4,2018,1
+Mobile Homes,0.05447997,4,2018,1
+Multi-Unit Structures,0.07832193,4,2018,1
+No High School Diploma,0.05776105,4,2018,1
+No Vehicle,0.17702472,4,2018,1
+Single-Parent Household,0.053356722,4,2018,1
+Unemployment,0.093876734,4,2018,1
+Aged 17 or Younger,0.06385165,4,2018,2
+Aged 65 or Older,0.06944726,4,2018,2
+Below Poverty,0.08043078,4,2018,2
+Crowding,0.055850066,4,2018,2
+Group Quarters,0.053603943,4,2018,2
+Limited English Ability,0.05978822,4,2018,2
+Minority Status,0.1274656,4,2018,2
+Mobile Homes,0.049981087,4,2018,2
+Multi-Unit Structures,0.0740393,4,2018,2
+No High School Diploma,0.0766705,4,2018,2
+No Vehicle,0.15911907,4,2018,2
+Single-Parent Household,0.05660127,4,2018,2
+Unemployment,0.0731513,4,2018,2
+Aged 17 or Younger,0.061317828,4,2018,3
+Aged 65 or Older,0.065237395,4,2018,3
+Below Poverty,0.07572115,4,2018,3
+Crowding,0.07065307,4,2018,3
+Group Quarters,0.047403876,4,2018,3
+Limited English Ability,0.071246006,4,2018,3
+Minority Status,0.11944577,4,2018,3
+Mobile Homes,0.05952179,4,2018,3
+Multi-Unit Structures,0.066886425,4,2018,3
+No High School Diploma,0.079193145,4,2018,3
+No Vehicle,0.13476141,4,2018,3
+Single-Parent Household,0.05151973,4,2018,3
+Unemployment,0.097092465,4,2018,3
+Aged 17 or Younger,0.07126104,4,2018,4
+Aged 65 or Older,0.070302255,4,2018,4
+Below Poverty,0.06273972,4,2018,4
+Crowding,0.06113287,4,2018,4
+Group Quarters,0.04409748,4,2018,4
+Limited English Ability,0.066006936,4,2018,4
+Minority Status,0.13717704,4,2018,4
+Mobile Homes,0.058025114,4,2018,4
+Multi-Unit Structures,0.07178192,4,2018,4
+No High School Diploma,0.06862549,4,2018,4
+No Vehicle,0.14860322,4,2018,4
+Single-Parent Household,0.05698059,4,2018,4
+Unemployment,0.08326625,4,2018,4
+Aged 17 or Younger,0.06366416,4,2018,5
+Aged 65 or Older,0.06255763,4,2018,5
+Below Poverty,0.082628176,4,2018,5
+Crowding,0.05877857,4,2018,5
+Group Quarters,0.050150234,4,2018,5
+Limited English Ability,0.063869834,4,2018,5
+Minority Status,0.11899673,4,2018,5
+Mobile Homes,0.056764014,4,2018,5
+Multi-Unit Structures,0.06391374,4,2018,5
+No High School Diploma,0.06999473,4,2018,5
+No Vehicle,0.15541019,4,2018,5
+Single-Parent Household,0.05522015,4,2018,5
+Unemployment,0.09805185,4,2018,5
+Aged 17 or Younger,0.058040425,4,2019,1
+Aged 65 or Older,0.06674973,4,2019,1
+Below Poverty,0.073486835,4,2019,1
+Crowding,0.09017684,4,2019,1
+Group Quarters,0.049854558,4,2019,1
+Limited English Ability,0.06989524,4,2019,1
+Minority Status,0.12344596,4,2019,1
+Mobile Homes,0.04937569,4,2019,1
+Multi-Unit Structures,0.05331064,4,2019,1
+No High School Diploma,0.06542655,4,2019,1
+No Vehicle,0.15043537,4,2019,1
+Single-Parent Household,0.04955734,4,2019,1
+Unemployment,0.10024476,4,2019,1
+Aged 17 or Younger,0.075425506,4,2019,2
+Aged 65 or Older,0.07044668,4,2019,2
+Below Poverty,0.062280133,4,2019,2
+Crowding,0.07433013,4,2019,2
+Group Quarters,0.040842745,4,2019,2
+Limited English Ability,0.05488534,4,2019,2
+Minority Status,0.11767933,4,2019,2
+Mobile Homes,0.07029009,4,2019,2
+Multi-Unit Structures,0.060680065,4,2019,2
+No High School Diploma,0.07820484,4,2019,2
+No Vehicle,0.14565323,4,2019,2
+Single-Parent Household,0.05834707,4,2019,2
+Unemployment,0.090934806,4,2019,2
+Aged 17 or Younger,0.059836257,4,2019,3
+Aged 65 or Older,0.068236336,4,2019,3
+Below Poverty,0.06845161,4,2019,3
+Crowding,0.06932143,4,2019,3
+Group Quarters,0.058336716,4,2019,3
+Limited English Ability,0.07485334,4,2019,3
+Minority Status,0.13108417,4,2019,3
+Mobile Homes,0.05220733,4,2019,3
+Multi-Unit Structures,0.04825699,4,2019,3
+No High School Diploma,0.06704934,4,2019,3
+No Vehicle,0.14205658,4,2019,3
+Single-Parent Household,0.050560597,4,2019,3
+Unemployment,0.109749414,4,2019,3
+Aged 17 or Younger,0.10280529,4,2019,4
+Aged 65 or Older,0.07733868,4,2019,4
+Below Poverty,0.055326547,4,2019,4
+Crowding,0.07453227,4,2019,4
+Group Quarters,0.043395437,4,2019,4
+Limited English Ability,0.06032279,4,2019,4
+Minority Status,0.11442969,4,2019,4
+Mobile Homes,0.057909966,4,2019,4
+Multi-Unit Structures,0.055723347,4,2019,4
+No High School Diploma,0.06987761,4,2019,4
+No Vehicle,0.13577867,4,2019,4
+Single-Parent Household,0.05549867,4,2019,4
+Unemployment,0.09706104,4,2019,4
+Aged 17 or Younger,0.052555528,4,2019,5
+Aged 65 or Older,0.069526814,4,2019,5
+Below Poverty,0.06075137,4,2019,5
+Crowding,0.09112501,4,2019,5
+Group Quarters,0.04283834,4,2019,5
+Limited English Ability,0.06032766,4,2019,5
+Minority Status,0.122985624,4,2019,5
+Mobile Homes,0.07096345,4,2019,5
+Multi-Unit Structures,0.043611057,4,2019,5
+No High School Diploma,0.076184236,4,2019,5
+No Vehicle,0.1511095,4,2019,5
+Single-Parent Household,0.049595147,4,2019,5
+Unemployment,0.108426206,4,2019,5
+Aged 17 or Younger,0.062418077,4,2020,1
+Aged 65 or Older,0.07046938,4,2020,1
+Below Poverty,0.06832294,4,2020,1
+Crowding,0.06552473,4,2020,1
+Group Quarters,0.044757668,4,2020,1
+Limited English Ability,0.05938851,4,2020,1
+Minority Status,0.12861426,4,2020,1
+Mobile Homes,0.050268333,4,2020,1
+Multi-Unit Structures,0.057128444,4,2020,1
+No High School Diploma,0.077961154,4,2020,1
+No Vehicle,0.14019491,4,2020,1
+Single-Parent Household,0.05098211,4,2020,1
+Unemployment,0.12396954,4,2020,1
+Aged 17 or Younger,0.06634895,4,2020,2
+Aged 65 or Older,0.07457802,4,2020,2
+Below Poverty,0.066925384,4,2020,2
+Crowding,0.05308266,4,2020,2
+Group Quarters,0.046166737,4,2020,2
+Limited English Ability,0.062024485,4,2020,2
+Minority Status,0.130497,4,2020,2
+Mobile Homes,0.056911822,4,2020,2
+Multi-Unit Structures,0.05779849,4,2020,2
+No High School Diploma,0.07257535,4,2020,2
+No Vehicle,0.12818153,4,2020,2
+Single-Parent Household,0.04926249,4,2020,2
+Unemployment,0.13564707,4,2020,2
+Aged 17 or Younger,0.05879477,4,2020,3
+Aged 65 or Older,0.06527364,4,2020,3
+Below Poverty,0.067826144,4,2020,3
+Crowding,0.05693704,4,2020,3
+Group Quarters,0.04578566,4,2020,3
+Limited English Ability,0.070055135,4,2020,3
+Minority Status,0.12712796,4,2020,3
+Mobile Homes,0.057936367,4,2020,3
+Multi-Unit Structures,0.051085856,4,2020,3
+No High School Diploma,0.071855724,4,2020,3
+No Vehicle,0.11476897,4,2020,3
+Single-Parent Household,0.059693977,4,2020,3
+Unemployment,0.15285876,4,2020,3
+Aged 17 or Younger,0.08879077,4,2020,4
+Aged 65 or Older,0.06749858,4,2020,4
+Below Poverty,0.07565735,4,2020,4
+Crowding,0.059075493,4,2020,4
+Group Quarters,0.046965547,4,2020,4
+Limited English Ability,0.049680598,4,2020,4
+Minority Status,0.11066641,4,2020,4
+Mobile Homes,0.055287734,4,2020,4
+Multi-Unit Structures,0.05927278,4,2020,4
+No High School Diploma,0.072223224,4,2020,4
+No Vehicle,0.116686076,4,2020,4
+Single-Parent Household,0.055289786,4,2020,4
+Unemployment,0.14290567,4,2020,4
+Aged 17 or Younger,0.06377919,4,2020,5
+Aged 65 or Older,0.073851325,4,2020,5
+Below Poverty,0.068877995,4,2020,5
+Crowding,0.06542666,4,2020,5
+Group Quarters,0.04490524,4,2020,5
+Limited English Ability,0.050982393,4,2020,5
+Minority Status,0.13280183,4,2020,5
+Mobile Homes,0.06156307,4,2020,5
+Multi-Unit Structures,0.05292392,4,2020,5
+No High School Diploma,0.07963701,4,2020,5
+No Vehicle,0.12117092,4,2020,5
+Single-Parent Household,0.05388085,4,2020,5
+Unemployment,0.1301996,4,2020,5
+Aged 17 or Younger,0.067113504,4,2021,1
+Aged 65 or Older,0.06774833,4,2021,1
+Below Poverty,0.077788316,4,2021,1
+Crowding,0.05176348,4,2021,1
+Group Quarters,0.0425792,4,2021,1
+Limited English Ability,0.07094375,4,2021,1
+Minority Status,0.104336895,4,2021,1
+Mobile Homes,0.054094937,4,2021,1
+Multi-Unit Structures,0.052056983,4,2021,1
+No High School Diploma,0.075328365,4,2021,1
+No Vehicle,0.16444135,4,2021,1
+Single-Parent Household,0.059914067,4,2021,1
+Unemployment,0.111890934,4,2021,1
+Aged 17 or Younger,0.07139255,4,2021,2
+Aged 65 or Older,0.07398875,4,2021,2
+Below Poverty,0.06463446,4,2021,2
+Crowding,0.051815264,4,2021,2
+Group Quarters,0.04712885,4,2021,2
+Limited English Ability,0.07156984,4,2021,2
+Minority Status,0.117925435,4,2021,2
+Mobile Homes,0.059822235,4,2021,2
+Multi-Unit Structures,0.055051804,4,2021,2
+No High School Diploma,0.07072079,4,2021,2
+No Vehicle,0.1369057,4,2021,2
+Single-Parent Household,0.062871635,4,2021,2
+Unemployment,0.11617266,4,2021,2
+Aged 17 or Younger,0.060122333,4,2021,3
+Aged 65 or Older,0.059406873,4,2021,3
+Below Poverty,0.08250219,4,2021,3
+Crowding,0.04693893,4,2021,3
+Group Quarters,0.050762188,4,2021,3
+Limited English Ability,0.0736884,4,2021,3
+Minority Status,0.10717186,4,2021,3
+Mobile Homes,0.060829278,4,2021,3
+Multi-Unit Structures,0.061735753,4,2021,3
+No High School Diploma,0.07302158,4,2021,3
+No Vehicle,0.10910609,4,2021,3
+Single-Parent Household,0.06353495,4,2021,3
+Unemployment,0.15117957,4,2021,3
+Aged 17 or Younger,0.074074894,4,2021,4
+Aged 65 or Older,0.057278622,4,2021,4
+Below Poverty,0.0812851,4,2021,4
+Crowding,0.055966802,4,2021,4
+Group Quarters,0.04406086,4,2021,4
+Limited English Ability,0.064901374,4,2021,4
+Minority Status,0.11625257,4,2021,4
+Mobile Homes,0.05763342,4,2021,4
+Multi-Unit Structures,0.05962021,4,2021,4
+No High School Diploma,0.065873146,4,2021,4
+No Vehicle,0.11970757,4,2021,4
+Single-Parent Household,0.060463626,4,2021,4
+Unemployment,0.14288181,4,2021,4
+Aged 17 or Younger,0.06612569,4,2021,5
+Aged 65 or Older,0.06743278,4,2021,5
+Below Poverty,0.069569275,4,2021,5
+Crowding,0.05721186,4,2021,5
+Group Quarters,0.046133913,4,2021,5
+Limited English Ability,0.073830426,4,2021,5
+Minority Status,0.104434155,4,2021,5
+Mobile Homes,0.061942507,4,2021,5
+Multi-Unit Structures,0.05350321,4,2021,5
+No High School Diploma,0.075043246,4,2021,5
+No Vehicle,0.119411185,4,2021,5
+Single-Parent Household,0.06211393,4,2021,5
+Unemployment,0.14324778,4,2021,5
+Aged 17 or Younger,0.0630314,5,2010,1
+Aged 65 or Older,0.059588354,5,2010,1
+Below Poverty,0.0795152,5,2010,1
+Crowding,0.053146966,5,2010,1
+Group Quarters,0.061428938,5,2010,1
+Limited English Ability,0.055945095,5,2010,1
+Minority Status,0.1259454,5,2010,1
+Mobile Homes,0.08837211,5,2010,1
+Multi-Unit Structures,0.07256799,5,2010,1
+No High School Diploma,0.09149653,5,2010,1
+No Vehicle,0.07040805,5,2010,1
+Single-Parent Household,0.092118226,5,2010,1
+Unemployment,0.08643574,5,2010,1
+Aged 17 or Younger,0.06273447,5,2010,2
+Aged 65 or Older,0.04692911,5,2010,2
+Below Poverty,0.08116188,5,2010,2
+Crowding,0.061104447,5,2010,2
+Group Quarters,0.052304927,5,2010,2
+Limited English Ability,0.055476107,5,2010,2
+Minority Status,0.11424818,5,2010,2
+Mobile Homes,0.1329144,5,2010,2
+Multi-Unit Structures,0.05805104,5,2010,2
+No High School Diploma,0.09642212,5,2010,2
+No Vehicle,0.064782955,5,2010,2
+Single-Parent Household,0.06977281,5,2010,2
+Unemployment,0.104097545,5,2010,2
+Aged 17 or Younger,0.06574023,5,2010,3
+Aged 65 or Older,0.063654564,5,2010,3
+Below Poverty,0.081968084,5,2010,3
+Crowding,0.05784261,5,2010,3
+Group Quarters,0.056053624,5,2010,3
+Limited English Ability,0.060538452,5,2010,3
+Minority Status,0.12367998,5,2010,3
+Mobile Homes,0.11007972,5,2010,3
+Multi-Unit Structures,0.05566266,5,2010,3
+No High School Diploma,0.09752304,5,2010,3
+No Vehicle,0.062436685,5,2010,3
+Single-Parent Household,0.08275713,5,2010,3
+Unemployment,0.08206321,5,2010,3
+Aged 17 or Younger,0.06868759,5,2010,4
+Aged 65 or Older,0.05695267,5,2010,4
+Below Poverty,0.07749415,5,2010,4
+Crowding,0.054760445,5,2010,4
+Group Quarters,0.052673608,5,2010,4
+Limited English Ability,0.06191535,5,2010,4
+Minority Status,0.11293988,5,2010,4
+Mobile Homes,0.11236398,5,2010,4
+Multi-Unit Structures,0.059451435,5,2010,4
+No High School Diploma,0.08270853,5,2010,4
+No Vehicle,0.08129017,5,2010,4
+Single-Parent Household,0.08946523,5,2010,4
+Unemployment,0.08929695,5,2010,4
+Aged 17 or Younger,0.06926341,5,2010,5
+Aged 65 or Older,0.056290336,5,2010,5
+Below Poverty,0.07010515,5,2010,5
+Crowding,0.05621547,5,2010,5
+Group Quarters,0.05716211,5,2010,5
+Limited English Ability,0.061940625,5,2010,5
+Minority Status,0.11612059,5,2010,5
+Mobile Homes,0.11457323,5,2010,5
+Multi-Unit Structures,0.064340495,5,2010,5
+No High School Diploma,0.08639563,5,2010,5
+No Vehicle,0.0736228,5,2010,5
+Single-Parent Household,0.08233953,5,2010,5
+Unemployment,0.09163066,5,2010,5
+Aged 17 or Younger,0.065430604,5,2011,1
+Aged 65 or Older,0.06378553,5,2011,1
+Below Poverty,0.07829987,5,2011,1
+Crowding,0.055297866,5,2011,1
+Group Quarters,0.045937054,5,2011,1
+Limited English Ability,0.057560347,5,2011,1
+Minority Status,0.13342024,5,2011,1
+Mobile Homes,0.08180475,5,2011,1
+Multi-Unit Structures,0.060619116,5,2011,1
+No High School Diploma,0.09945851,5,2011,1
+No Vehicle,0.0736217,5,2011,1
+Single-Parent Household,0.08407631,5,2011,1
+Unemployment,0.10068812,5,2011,1
+Aged 17 or Younger,0.056613576,5,2011,2
+Aged 65 or Older,0.062521055,5,2011,2
+Below Poverty,0.08693276,5,2011,2
+Crowding,0.053969037,5,2011,2
+Group Quarters,0.053747267,5,2011,2
+Limited English Ability,0.070951015,5,2011,2
+Minority Status,0.109102346,5,2011,2
+Mobile Homes,0.109500386,5,2011,2
+Multi-Unit Structures,0.06341656,5,2011,2
+No High School Diploma,0.086154915,5,2011,2
+No Vehicle,0.06912824,5,2011,2
+Single-Parent Household,0.07353627,5,2011,2
+Unemployment,0.104426585,5,2011,2
+Aged 17 or Younger,0.066090114,5,2011,3
+Aged 65 or Older,0.05857174,5,2011,3
+Below Poverty,0.06496548,5,2011,3
+Crowding,0.056577075,5,2011,3
+Group Quarters,0.053412676,5,2011,3
+Limited English Ability,0.066548094,5,2011,3
+Minority Status,0.11317243,5,2011,3
+Mobile Homes,0.0965466,5,2011,3
+Multi-Unit Structures,0.0656469,5,2011,3
+No High School Diploma,0.09056167,5,2011,3
+No Vehicle,0.0778781,5,2011,3
+Single-Parent Household,0.09475796,5,2011,3
+Unemployment,0.095271185,5,2011,3
+Aged 17 or Younger,0.06341756,5,2011,4
+Aged 65 or Older,0.06569066,5,2011,4
+Below Poverty,0.07676466,5,2011,4
+Crowding,0.05526972,5,2011,4
+Group Quarters,0.04978081,5,2011,4
+Limited English Ability,0.06265699,5,2011,4
+Minority Status,0.11741077,5,2011,4
+Mobile Homes,0.08251624,5,2011,4
+Multi-Unit Structures,0.06418401,5,2011,4
+No High School Diploma,0.092355706,5,2011,4
+No Vehicle,0.078967504,5,2011,4
+Single-Parent Household,0.085108265,5,2011,4
+Unemployment,0.10587717,5,2011,4
+Aged 17 or Younger,0.06942102,5,2011,5
+Aged 65 or Older,0.058830928,5,2011,5
+Below Poverty,0.08255397,5,2011,5
+Crowding,0.05886355,5,2011,5
+Group Quarters,0.05219224,5,2011,5
+Limited English Ability,0.055652104,5,2011,5
+Minority Status,0.13195446,5,2011,5
+Mobile Homes,0.075136766,5,2011,5
+Multi-Unit Structures,0.06450491,5,2011,5
+No High School Diploma,0.095056124,5,2011,5
+No Vehicle,0.0784028,5,2011,5
+Single-Parent Household,0.07546515,5,2011,5
+Unemployment,0.10196597,5,2011,5
+Aged 17 or Younger,0.06442149,5,2012,1
+Aged 65 or Older,0.06577954,5,2012,1
+Below Poverty,0.06428453,5,2012,1
+Crowding,0.05419362,5,2012,1
+Group Quarters,0.054740105,5,2012,1
+Limited English Ability,0.06517643,5,2012,1
+Minority Status,0.09484226,5,2012,1
+Mobile Homes,0.06830708,5,2012,1
+Multi-Unit Structures,0.07968013,5,2012,1
+No High School Diploma,0.08643163,5,2012,1
+No Vehicle,0.06904876,5,2012,1
+Single-Parent Household,0.11494205,5,2012,1
+Unemployment,0.11815253,5,2012,1
+Aged 17 or Younger,0.05875936,5,2012,2
+Aged 65 or Older,0.069183245,5,2012,2
+Below Poverty,0.07768446,5,2012,2
+Crowding,0.05527579,5,2012,2
+Group Quarters,0.058280654,5,2012,2
+Limited English Ability,0.06530713,5,2012,2
+Minority Status,0.09791406,5,2012,2
+Mobile Homes,0.0769189,5,2012,2
+Multi-Unit Structures,0.08077379,5,2012,2
+No High School Diploma,0.098646775,5,2012,2
+No Vehicle,0.065679386,5,2012,2
+Single-Parent Household,0.086142495,5,2012,2
+Unemployment,0.10943403,5,2012,2
+Aged 17 or Younger,0.06243007,5,2012,3
+Aged 65 or Older,0.06773402,5,2012,3
+Below Poverty,0.07203459,5,2012,3
+Crowding,0.056440696,5,2012,3
+Group Quarters,0.05821768,5,2012,3
+Limited English Ability,0.06287463,5,2012,3
+Minority Status,0.10013401,5,2012,3
+Mobile Homes,0.0704715,5,2012,3
+Multi-Unit Structures,0.075196505,5,2012,3
+No High School Diploma,0.09243022,5,2012,3
+No Vehicle,0.07680726,5,2012,3
+Single-Parent Household,0.10200165,5,2012,3
+Unemployment,0.10322712,5,2012,3
+Aged 17 or Younger,0.05725005,5,2012,4
+Aged 65 or Older,0.07329001,5,2012,4
+Below Poverty,0.073743895,5,2012,4
+Crowding,0.05044163,5,2012,4
+Group Quarters,0.060631804,5,2012,4
+Limited English Ability,0.07070705,5,2012,4
+Minority Status,0.09914064,5,2012,4
+Mobile Homes,0.05803338,5,2012,4
+Multi-Unit Structures,0.0800727,5,2012,4
+No High School Diploma,0.07912007,5,2012,4
+No Vehicle,0.070608616,5,2012,4
+Single-Parent Household,0.10455653,5,2012,4
+Unemployment,0.12240356,5,2012,4
+Aged 17 or Younger,0.06547822,5,2012,5
+Aged 65 or Older,0.069403805,5,2012,5
+Below Poverty,0.07014551,5,2012,5
+Crowding,0.052692953,5,2012,5
+Group Quarters,0.06374461,5,2012,5
+Limited English Ability,0.06499128,5,2012,5
+Minority Status,0.09933518,5,2012,5
+Mobile Homes,0.06229066,5,2012,5
+Multi-Unit Structures,0.08653514,5,2012,5
+No High School Diploma,0.07557616,5,2012,5
+No Vehicle,0.061021607,5,2012,5
+Single-Parent Household,0.1079297,5,2012,5
+Unemployment,0.12085522,5,2012,5
+Aged 17 or Younger,0.062987246,5,2013,1
+Aged 65 or Older,0.06036433,5,2013,1
+Below Poverty,0.08416197,5,2013,1
+Crowding,0.052880026,5,2013,1
+Group Quarters,0.056520227,5,2013,1
+Limited English Ability,0.06919013,5,2013,1
+Minority Status,0.11206158,5,2013,1
+Mobile Homes,0.07436396,5,2013,1
+Multi-Unit Structures,0.07067055,5,2013,1
+No High School Diploma,0.09881408,5,2013,1
+No Vehicle,0.055788804,5,2013,1
+Single-Parent Household,0.084626354,5,2013,1
+Unemployment,0.11757071,5,2013,1
+Aged 17 or Younger,0.05854954,5,2013,2
+Aged 65 or Older,0.06928118,5,2013,2
+Below Poverty,0.08009969,5,2013,2
+Crowding,0.05876483,5,2013,2
+Group Quarters,0.05826894,5,2013,2
+Limited English Ability,0.064194016,5,2013,2
+Minority Status,0.10969554,5,2013,2
+Mobile Homes,0.088478155,5,2013,2
+Multi-Unit Structures,0.07160874,5,2013,2
+No High School Diploma,0.09973531,5,2013,2
+No Vehicle,0.05918869,5,2013,2
+Single-Parent Household,0.071315385,5,2013,2
+Unemployment,0.11081999,5,2013,2
+Aged 17 or Younger,0.066650555,5,2013,3
+Aged 65 or Older,0.056226168,5,2013,3
+Below Poverty,0.078819476,5,2013,3
+Crowding,0.04921306,5,2013,3
+Group Quarters,0.06234076,5,2013,3
+Limited English Ability,0.07296386,5,2013,3
+Minority Status,0.1179285,5,2013,3
+Mobile Homes,0.077201776,5,2013,3
+Multi-Unit Structures,0.07078602,5,2013,3
+No High School Diploma,0.089011244,5,2013,3
+No Vehicle,0.061169546,5,2013,3
+Single-Parent Household,0.08384758,5,2013,3
+Unemployment,0.113841385,5,2013,3
+Aged 17 or Younger,0.062724814,5,2013,4
+Aged 65 or Older,0.06224304,5,2013,4
+Below Poverty,0.07573497,5,2013,4
+Crowding,0.052940894,5,2013,4
+Group Quarters,0.057574295,5,2013,4
+Limited English Ability,0.0709362,5,2013,4
+Minority Status,0.11595539,5,2013,4
+Mobile Homes,0.06183907,5,2013,4
+Multi-Unit Structures,0.07074377,5,2013,4
+No High School Diploma,0.09634539,5,2013,4
+No Vehicle,0.07069802,5,2013,4
+Single-Parent Household,0.08428208,5,2013,4
+Unemployment,0.117982045,5,2013,4
+Aged 17 or Younger,0.07483435,5,2013,5
+Aged 65 or Older,0.06981957,5,2013,5
+Below Poverty,0.077579886,5,2013,5
+Crowding,0.048923403,5,2013,5
+Group Quarters,0.059945673,5,2013,5
+Limited English Ability,0.066046454,5,2013,5
+Minority Status,0.11072615,5,2013,5
+Mobile Homes,0.058970056,5,2013,5
+Multi-Unit Structures,0.07383509,5,2013,5
+No High School Diploma,0.10197973,5,2013,5
+No Vehicle,0.06486256,5,2013,5
+Single-Parent Household,0.08045325,5,2013,5
+Unemployment,0.112023905,5,2013,5
+Aged 17 or Younger,0.06240305,5,2014,1
+Aged 65 or Older,0.056024726,5,2014,1
+Below Poverty,0.07025701,5,2014,1
+Crowding,0.04934147,5,2014,1
+Group Quarters,0.057731763,5,2014,1
+Limited English Ability,0.060774084,5,2014,1
+Minority Status,0.109951265,5,2014,1
+Mobile Homes,0.061561022,5,2014,1
+Multi-Unit Structures,0.072102614,5,2014,1
+No High School Diploma,0.08748712,5,2014,1
+No Vehicle,0.08500408,5,2014,1
+Single-Parent Household,0.08131426,5,2014,1
+Unemployment,0.14604755,5,2014,1
+Aged 17 or Younger,0.06497986,5,2014,2
+Aged 65 or Older,0.053603042,5,2014,2
+Below Poverty,0.07590151,5,2014,2
+Crowding,0.053628437,5,2014,2
+Group Quarters,0.056608748,5,2014,2
+Limited English Ability,0.05873277,5,2014,2
+Minority Status,0.09655386,5,2014,2
+Mobile Homes,0.08475612,5,2014,2
+Multi-Unit Structures,0.07221571,5,2014,2
+No High School Diploma,0.08245967,5,2014,2
+No Vehicle,0.08622187,5,2014,2
+Single-Parent Household,0.07504751,5,2014,2
+Unemployment,0.13929096,5,2014,2
+Aged 17 or Younger,0.05806594,5,2014,3
+Aged 65 or Older,0.056817397,5,2014,3
+Below Poverty,0.07359881,5,2014,3
+Crowding,0.05055738,5,2014,3
+Group Quarters,0.056851957,5,2014,3
+Limited English Ability,0.06543483,5,2014,3
+Minority Status,0.115132645,5,2014,3
+Mobile Homes,0.0643591,5,2014,3
+Multi-Unit Structures,0.06164665,5,2014,3
+No High School Diploma,0.07676413,5,2014,3
+No Vehicle,0.091310576,5,2014,3
+Single-Parent Household,0.08656797,5,2014,3
+Unemployment,0.14289258,5,2014,3
+Aged 17 or Younger,0.061688125,5,2014,4
+Aged 65 or Older,0.06312861,5,2014,4
+Below Poverty,0.07103632,5,2014,4
+Crowding,0.05453704,5,2014,4
+Group Quarters,0.055052478,5,2014,4
+Limited English Ability,0.059233207,5,2014,4
+Minority Status,0.10383015,5,2014,4
+Mobile Homes,0.054372188,5,2014,4
+Multi-Unit Structures,0.07691893,5,2014,4
+No High School Diploma,0.07215517,5,2014,4
+No Vehicle,0.099857084,5,2014,4
+Single-Parent Household,0.07790468,5,2014,4
+Unemployment,0.15028591,5,2014,4
+Aged 17 or Younger,0.07685095,5,2014,5
+Aged 65 or Older,0.06047046,5,2014,5
+Below Poverty,0.06634632,5,2014,5
+Crowding,0.056206603,5,2014,5
+Group Quarters,0.05909812,5,2014,5
+Limited English Ability,0.06298594,5,2014,5
+Minority Status,0.113201864,5,2014,5
+Mobile Homes,0.061322726,5,2014,5
+Multi-Unit Structures,0.08078875,5,2014,5
+No High School Diploma,0.08597624,5,2014,5
+No Vehicle,0.06348244,5,2014,5
+Single-Parent Household,0.07437242,5,2014,5
+Unemployment,0.13889721,5,2014,5
+Aged 17 or Younger,0.078730226,5,2015,1
+Aged 65 or Older,0.06419569,5,2015,1
+Below Poverty,0.06647396,5,2015,1
+Crowding,0.05879714,5,2015,1
+Group Quarters,0.05115904,5,2015,1
+Limited English Ability,0.071111284,5,2015,1
+Minority Status,0.116663404,5,2015,1
+Mobile Homes,0.06280585,5,2015,1
+Multi-Unit Structures,0.071952134,5,2015,1
+No High School Diploma,0.08262501,5,2015,1
+No Vehicle,0.07370359,5,2015,1
+Single-Parent Household,0.071986854,5,2015,1
+Unemployment,0.1297959,5,2015,1
+Aged 17 or Younger,0.08375442,5,2015,2
+Aged 65 or Older,0.06514583,5,2015,2
+Below Poverty,0.05970077,5,2015,2
+Crowding,0.06920767,5,2015,2
+Group Quarters,0.051257875,5,2015,2
+Limited English Ability,0.06321117,5,2015,2
+Minority Status,0.10208737,5,2015,2
+Mobile Homes,0.06889963,5,2015,2
+Multi-Unit Structures,0.0731116,5,2015,2
+No High School Diploma,0.089410655,5,2015,2
+No Vehicle,0.078065515,5,2015,2
+Single-Parent Household,0.06523257,5,2015,2
+Unemployment,0.13091493,5,2015,2
+Aged 17 or Younger,0.08760594,5,2015,3
+Aged 65 or Older,0.07024796,5,2015,3
+Below Poverty,0.06603708,5,2015,3
+Crowding,0.060370374,5,2015,3
+Group Quarters,0.04702111,5,2015,3
+Limited English Ability,0.06481148,5,2015,3
+Minority Status,0.1167177,5,2015,3
+Mobile Homes,0.06019125,5,2015,3
+Multi-Unit Structures,0.071745515,5,2015,3
+No High School Diploma,0.08870102,5,2015,3
+No Vehicle,0.074708015,5,2015,3
+Single-Parent Household,0.06764781,5,2015,3
+Unemployment,0.12419475,5,2015,3
+Aged 17 or Younger,0.08121399,5,2015,4
+Aged 65 or Older,0.07350899,5,2015,4
+Below Poverty,0.06286691,5,2015,4
+Crowding,0.059717987,5,2015,4
+Group Quarters,0.05729702,5,2015,4
+Limited English Ability,0.0714577,5,2015,4
+Minority Status,0.106374204,5,2015,4
+Mobile Homes,0.061696384,5,2015,4
+Multi-Unit Structures,0.06508951,5,2015,4
+No High School Diploma,0.08460315,5,2015,4
+No Vehicle,0.082632445,5,2015,4
+Single-Parent Household,0.066461265,5,2015,4
+Unemployment,0.12708052,5,2015,4
+Aged 17 or Younger,0.085633956,5,2015,5
+Aged 65 or Older,0.0697034,5,2015,5
+Below Poverty,0.06329932,5,2015,5
+Crowding,0.055530015,5,2015,5
+Group Quarters,0.051375944,5,2015,5
+Limited English Ability,0.068341546,5,2015,5
+Minority Status,0.122981966,5,2015,5
+Mobile Homes,0.05556905,5,2015,5
+Multi-Unit Structures,0.080457635,5,2015,5
+No High School Diploma,0.08862255,5,2015,5
+No Vehicle,0.06915076,5,2015,5
+Single-Parent Household,0.06690231,5,2015,5
+Unemployment,0.12243158,5,2015,5
+Aged 17 or Younger,0.06815506,5,2016,1
+Aged 65 or Older,0.06041312,5,2016,1
+Below Poverty,0.07516531,5,2016,1
+Crowding,0.071447946,5,2016,1
+Group Quarters,0.049800962,5,2016,1
+Limited English Ability,0.06842105,5,2016,1
+Minority Status,0.11183237,5,2016,1
+Mobile Homes,0.082287386,5,2016,1
+Multi-Unit Structures,0.0599728,5,2016,1
+No High School Diploma,0.104111195,5,2016,1
+No Vehicle,0.057123005,5,2016,1
+Single-Parent Household,0.08199801,5,2016,1
+Unemployment,0.10927183,5,2016,1
+Aged 17 or Younger,0.09186735,5,2016,2
+Aged 65 or Older,0.056559276,5,2016,2
+Below Poverty,0.06531225,5,2016,2
+Crowding,0.06701407,5,2016,2
+Group Quarters,0.056929603,5,2016,2
+Limited English Ability,0.058438938,5,2016,2
+Minority Status,0.11284836,5,2016,2
+Mobile Homes,0.07439332,5,2016,2
+Multi-Unit Structures,0.06272656,5,2016,2
+No High School Diploma,0.0939963,5,2016,2
+No Vehicle,0.07125949,5,2016,2
+Single-Parent Household,0.079829425,5,2016,2
+Unemployment,0.10882504,5,2016,2
+Aged 17 or Younger,0.082655184,5,2016,3
+Aged 65 or Older,0.06615177,5,2016,3
+Below Poverty,0.057342857,5,2016,3
+Crowding,0.07429548,5,2016,3
+Group Quarters,0.05719243,5,2016,3
+Limited English Ability,0.068622045,5,2016,3
+Minority Status,0.12102756,5,2016,3
+Mobile Homes,0.07369212,5,2016,3
+Multi-Unit Structures,0.061800193,5,2016,3
+No High School Diploma,0.087481745,5,2016,3
+No Vehicle,0.056644514,5,2016,3
+Single-Parent Household,0.081467405,5,2016,3
+Unemployment,0.111626804,5,2016,3
+Aged 17 or Younger,0.071423225,5,2016,4
+Aged 65 or Older,0.06823336,5,2016,4
+Below Poverty,0.06649272,5,2016,4
+Crowding,0.060160954,5,2016,4
+Group Quarters,0.059608478,5,2016,4
+Limited English Ability,0.057931982,5,2016,4
+Minority Status,0.10785568,5,2016,4
+Mobile Homes,0.06950808,5,2016,4
+Multi-Unit Structures,0.068440974,5,2016,4
+No High School Diploma,0.09046024,5,2016,4
+No Vehicle,0.061156977,5,2016,4
+Single-Parent Household,0.09600539,5,2016,4
+Unemployment,0.12272199,5,2016,4
+Aged 17 or Younger,0.072118364,5,2016,5
+Aged 65 or Older,0.062080067,5,2016,5
+Below Poverty,0.060149543,5,2016,5
+Crowding,0.05843886,5,2016,5
+Group Quarters,0.058140665,5,2016,5
+Limited English Ability,0.061543655,5,2016,5
+Minority Status,0.12619838,5,2016,5
+Mobile Homes,0.07669735,5,2016,5
+Multi-Unit Structures,0.060662955,5,2016,5
+No High School Diploma,0.1031965,5,2016,5
+No Vehicle,0.06767967,5,2016,5
+Single-Parent Household,0.0832345,5,2016,5
+Unemployment,0.109859504,5,2016,5
+Aged 17 or Younger,0.09670619,5,2017,1
+Aged 65 or Older,0.07108893,5,2017,1
+Below Poverty,0.06394209,5,2017,1
+Crowding,0.06988353,5,2017,1
+Group Quarters,0.05559064,5,2017,1
+Limited English Ability,0.06550475,5,2017,1
+Minority Status,0.096336596,5,2017,1
+Mobile Homes,0.0771349,5,2017,1
+Multi-Unit Structures,0.07966301,5,2017,1
+No High School Diploma,0.077235565,5,2017,1
+No Vehicle,0.06218898,5,2017,1
+Single-Parent Household,0.07524773,5,2017,1
+Unemployment,0.10947707,5,2017,1
+Aged 17 or Younger,0.10739149,5,2017,2
+Aged 65 or Older,0.07190505,5,2017,2
+Below Poverty,0.06199527,5,2017,2
+Crowding,0.065060295,5,2017,2
+Group Quarters,0.05362243,5,2017,2
+Limited English Ability,0.06901316,5,2017,2
+Minority Status,0.10172962,5,2017,2
+Mobile Homes,0.07460249,5,2017,2
+Multi-Unit Structures,0.07202672,5,2017,2
+No High School Diploma,0.067784056,5,2017,2
+No Vehicle,0.072145835,5,2017,2
+Single-Parent Household,0.06590232,5,2017,2
+Unemployment,0.11682121,5,2017,2
+Aged 17 or Younger,0.10693648,5,2017,3
+Aged 65 or Older,0.07696203,5,2017,3
+Below Poverty,0.06351232,5,2017,3
+Crowding,0.065205865,5,2017,3
+Group Quarters,0.061635993,5,2017,3
+Limited English Ability,0.07051156,5,2017,3
+Minority Status,0.09598719,5,2017,3
+Mobile Homes,0.0762203,5,2017,3
+Multi-Unit Structures,0.080414206,5,2017,3
+No High School Diploma,0.067095466,5,2017,3
+No Vehicle,0.055870283,5,2017,3
+Single-Parent Household,0.07627889,5,2017,3
+Unemployment,0.10336946,5,2017,3
+Aged 17 or Younger,0.106641516,5,2017,4
+Aged 65 or Older,0.0808255,5,2017,4
+Below Poverty,0.06569742,5,2017,4
+Crowding,0.058104,5,2017,4
+Group Quarters,0.05597143,5,2017,4
+Limited English Ability,0.06762574,5,2017,4
+Minority Status,0.09539148,5,2017,4
+Mobile Homes,0.0749957,5,2017,4
+Multi-Unit Structures,0.076394066,5,2017,4
+No High School Diploma,0.06427128,5,2017,4
+No Vehicle,0.060810804,5,2017,4
+Single-Parent Household,0.08676169,5,2017,4
+Unemployment,0.106509395,5,2017,4
+Aged 17 or Younger,0.0991058,5,2017,5
+Aged 65 or Older,0.077412255,5,2017,5
+Below Poverty,0.059596628,5,2017,5
+Crowding,0.06084132,5,2017,5
+Group Quarters,0.05729706,5,2017,5
+Limited English Ability,0.064722344,5,2017,5
+Minority Status,0.11006835,5,2017,5
+Mobile Homes,0.068801425,5,2017,5
+Multi-Unit Structures,0.0842389,5,2017,5
+No High School Diploma,0.074127264,5,2017,5
+No Vehicle,0.061910924,5,2017,5
+Single-Parent Household,0.07048041,5,2017,5
+Unemployment,0.11139726,5,2017,5
+Aged 17 or Younger,0.09096712,5,2018,1
+Aged 65 or Older,0.071416706,5,2018,1
+Below Poverty,0.05894861,5,2018,1
+Crowding,0.06849433,5,2018,1
+Group Quarters,0.0539145,5,2018,1
+Limited English Ability,0.0662524,5,2018,1
+Minority Status,0.09944172,5,2018,1
+Mobile Homes,0.08666665,5,2018,1
+Multi-Unit Structures,0.07103059,5,2018,1
+No High School Diploma,0.092572846,5,2018,1
+No Vehicle,0.069357485,5,2018,1
+Single-Parent Household,0.07191722,5,2018,1
+Unemployment,0.09901986,5,2018,1
+Aged 17 or Younger,0.087442175,5,2018,2
+Aged 65 or Older,0.06633648,5,2018,2
+Below Poverty,0.06518143,5,2018,2
+Crowding,0.05457525,5,2018,2
+Group Quarters,0.06347543,5,2018,2
+Limited English Ability,0.072438285,5,2018,2
+Minority Status,0.10122996,5,2018,2
+Mobile Homes,0.081192456,5,2018,2
+Multi-Unit Structures,0.07123406,5,2018,2
+No High School Diploma,0.0843342,5,2018,2
+No Vehicle,0.08010431,5,2018,2
+Single-Parent Household,0.06599924,5,2018,2
+Unemployment,0.10645674,5,2018,2
+Aged 17 or Younger,0.10681526,5,2018,3
+Aged 65 or Older,0.066409275,5,2018,3
+Below Poverty,0.06114754,5,2018,3
+Crowding,0.06522441,5,2018,3
+Group Quarters,0.055871308,5,2018,3
+Limited English Ability,0.0727813,5,2018,3
+Minority Status,0.09826533,5,2018,3
+Mobile Homes,0.0824097,5,2018,3
+Multi-Unit Structures,0.0874649,5,2018,3
+No High School Diploma,0.08297411,5,2018,3
+No Vehicle,0.05564016,5,2018,3
+Single-Parent Household,0.06915236,5,2018,3
+Unemployment,0.09584435,5,2018,3
+Aged 17 or Younger,0.08213406,5,2018,4
+Aged 65 or Older,0.07166053,5,2018,4
+Below Poverty,0.06925308,5,2018,4
+Crowding,0.058874927,5,2018,4
+Group Quarters,0.062179204,5,2018,4
+Limited English Ability,0.06957237,5,2018,4
+Minority Status,0.0914948,5,2018,4
+Mobile Homes,0.072476484,5,2018,4
+Multi-Unit Structures,0.07945683,5,2018,4
+No High School Diploma,0.08112363,5,2018,4
+No Vehicle,0.0666913,5,2018,4
+Single-Parent Household,0.087464914,5,2018,4
+Unemployment,0.10761781,5,2018,4
+Aged 17 or Younger,0.09806112,5,2018,5
+Aged 65 or Older,0.06229416,5,2018,5
+Below Poverty,0.057190023,5,2018,5
+Crowding,0.057863556,5,2018,5
+Group Quarters,0.060252223,5,2018,5
+Limited English Ability,0.0703008,5,2018,5
+Minority Status,0.10545404,5,2018,5
+Mobile Homes,0.066507086,5,2018,5
+Multi-Unit Structures,0.08306189,5,2018,5
+No High School Diploma,0.087780885,5,2018,5
+No Vehicle,0.06542997,5,2018,5
+Single-Parent Household,0.07859672,5,2018,5
+Unemployment,0.10720747,5,2018,5
+Aged 17 or Younger,0.07164416,5,2019,1
+Aged 65 or Older,0.07562951,5,2019,1
+Below Poverty,0.0735911,5,2019,1
+Crowding,0.09346763,5,2019,1
+Group Quarters,0.05296268,5,2019,1
+Limited English Ability,0.057689857,5,2019,1
+Minority Status,0.105912626,5,2019,1
+Mobile Homes,0.06927763,5,2019,1
+Multi-Unit Structures,0.06336309,5,2019,1
+No High School Diploma,0.10614479,5,2019,1
+No Vehicle,0.07120577,5,2019,1
+Single-Parent Household,0.056790255,5,2019,1
+Unemployment,0.10232093,5,2019,1
+Aged 17 or Younger,0.08015107,5,2019,2
+Aged 65 or Older,0.06646265,5,2019,2
+Below Poverty,0.07117953,5,2019,2
+Crowding,0.065333195,5,2019,2
+Group Quarters,0.059969977,5,2019,2
+Limited English Ability,0.062470302,5,2019,2
+Minority Status,0.11445059,5,2019,2
+Mobile Homes,0.06475408,5,2019,2
+Multi-Unit Structures,0.07358457,5,2019,2
+No High School Diploma,0.103908285,5,2019,2
+No Vehicle,0.061743695,5,2019,2
+Single-Parent Household,0.06155821,5,2019,2
+Unemployment,0.11443387,5,2019,2
+Aged 17 or Younger,0.081616424,5,2019,3
+Aged 65 or Older,0.06957394,5,2019,3
+Below Poverty,0.0713833,5,2019,3
+Crowding,0.07780239,5,2019,3
+Group Quarters,0.055724707,5,2019,3
+Limited English Ability,0.0682374,5,2019,3
+Minority Status,0.110322066,5,2019,3
+Mobile Homes,0.07332162,5,2019,3
+Multi-Unit Structures,0.06449842,5,2019,3
+No High School Diploma,0.08075832,5,2019,3
+No Vehicle,0.066097535,5,2019,3
+Single-Parent Household,0.06677427,5,2019,3
+Unemployment,0.11388963,5,2019,3
+Aged 17 or Younger,0.06352378,5,2019,4
+Aged 65 or Older,0.07265982,5,2019,4
+Below Poverty,0.07849101,5,2019,4
+Crowding,0.07647072,5,2019,4
+Group Quarters,0.051712763,5,2019,4
+Limited English Ability,0.060810544,5,2019,4
+Minority Status,0.10976027,5,2019,4
+Mobile Homes,0.06251676,5,2019,4
+Multi-Unit Structures,0.07542502,5,2019,4
+No High School Diploma,0.085949026,5,2019,4
+No Vehicle,0.06252349,5,2019,4
+Single-Parent Household,0.07854805,5,2019,4
+Unemployment,0.121608734,5,2019,4
+Aged 17 or Younger,0.07940989,5,2019,5
+Aged 65 or Older,0.06879247,5,2019,5
+Below Poverty,0.06303016,5,2019,5
+Crowding,0.06730243,5,2019,5
+Group Quarters,0.056362435,5,2019,5
+Limited English Ability,0.06128986,5,2019,5
+Minority Status,0.11786642,5,2019,5
+Mobile Homes,0.06338131,5,2019,5
+Multi-Unit Structures,0.07303701,5,2019,5
+No High School Diploma,0.09831389,5,2019,5
+No Vehicle,0.071508236,5,2019,5
+Single-Parent Household,0.06739696,5,2019,5
+Unemployment,0.11230896,5,2019,5
+Aged 17 or Younger,0.074729405,5,2020,1
+Aged 65 or Older,0.073715635,5,2020,1
+Below Poverty,0.08941428,5,2020,1
+Crowding,0.072240934,5,2020,1
+Group Quarters,0.062417887,5,2020,1
+Limited English Ability,0.071554266,5,2020,1
+Minority Status,0.10733209,5,2020,1
+Mobile Homes,0.079721674,5,2020,1
+Multi-Unit Structures,0.06283332,5,2020,1
+No High School Diploma,0.08084714,5,2020,1
+No Vehicle,0.05284318,5,2020,1
+Single-Parent Household,0.069253646,5,2020,1
+Unemployment,0.103096575,5,2020,1
+Aged 17 or Younger,0.08440002,5,2020,2
+Aged 65 or Older,0.071466826,5,2020,2
+Below Poverty,0.08450512,5,2020,2
+Crowding,0.047646657,5,2020,2
+Group Quarters,0.05947153,5,2020,2
+Limited English Ability,0.06419577,5,2020,2
+Minority Status,0.10049916,5,2020,2
+Mobile Homes,0.08257751,5,2020,2
+Multi-Unit Structures,0.06522033,5,2020,2
+No High School Diploma,0.08259825,5,2020,2
+No Vehicle,0.06349293,5,2020,2
+Single-Parent Household,0.06413391,5,2020,2
+Unemployment,0.12979202,5,2020,2
+Aged 17 or Younger,0.09094744,5,2020,3
+Aged 65 or Older,0.070476614,5,2020,3
+Below Poverty,0.065905176,5,2020,3
+Crowding,0.06520244,5,2020,3
+Group Quarters,0.07065304,5,2020,3
+Limited English Ability,0.07087244,5,2020,3
+Minority Status,0.09511346,5,2020,3
+Mobile Homes,0.08574552,5,2020,3
+Multi-Unit Structures,0.062252525,5,2020,3
+No High School Diploma,0.08474127,5,2020,3
+No Vehicle,0.05641426,5,2020,3
+Single-Parent Household,0.06888732,5,2020,3
+Unemployment,0.11278843,5,2020,3
+Aged 17 or Younger,0.072401285,5,2020,4
+Aged 65 or Older,0.069436334,5,2020,4
+Below Poverty,0.0916083,5,2020,4
+Crowding,0.067723975,5,2020,4
+Group Quarters,0.060428325,5,2020,4
+Limited English Ability,0.06825519,5,2020,4
+Minority Status,0.104457684,5,2020,4
+Mobile Homes,0.0723048,5,2020,4
+Multi-Unit Structures,0.06776291,5,2020,4
+No High School Diploma,0.08098567,5,2020,4
+No Vehicle,0.05765096,5,2020,4
+Single-Parent Household,0.06713523,5,2020,4
+Unemployment,0.11984931,5,2020,4
+Aged 17 or Younger,0.08091329,5,2020,5
+Aged 65 or Older,0.07456003,5,2020,5
+Below Poverty,0.08407984,5,2020,5
+Crowding,0.053259633,5,2020,5
+Group Quarters,0.05748176,5,2020,5
+Limited English Ability,0.06531881,5,2020,5
+Minority Status,0.1041921,5,2020,5
+Mobile Homes,0.07730525,5,2020,5
+Multi-Unit Structures,0.06723927,5,2020,5
+No High School Diploma,0.09043054,5,2020,5
+No Vehicle,0.06139099,5,2020,5
+Single-Parent Household,0.06319698,5,2020,5
+Unemployment,0.120631546,5,2020,5
+Aged 17 or Younger,0.07226939,5,2021,1
+Aged 65 or Older,0.070754975,5,2021,1
+Below Poverty,0.07236258,5,2021,1
+Crowding,0.053713217,5,2021,1
+Group Quarters,0.05732728,5,2021,1
+Limited English Ability,0.06507026,5,2021,1
+Minority Status,0.13399467,5,2021,1
+Mobile Homes,0.09288176,5,2021,1
+Multi-Unit Structures,0.06632185,5,2021,1
+No High School Diploma,0.07040057,5,2021,1
+No Vehicle,0.06480872,5,2021,1
+Single-Parent Household,0.06318066,5,2021,1
+Unemployment,0.11691412,5,2021,1
+Aged 17 or Younger,0.087822855,5,2021,2
+Aged 65 or Older,0.06323327,5,2021,2
+Below Poverty,0.07114019,5,2021,2
+Crowding,0.049834903,5,2021,2
+Group Quarters,0.05775562,5,2021,2
+Limited English Ability,0.06955082,5,2021,2
+Minority Status,0.093083374,5,2021,2
+Mobile Homes,0.126416,5,2021,2
+Multi-Unit Structures,0.058300763,5,2021,2
+No High School Diploma,0.06344467,5,2021,2
+No Vehicle,0.06887632,5,2021,2
+Single-Parent Household,0.061237287,5,2021,2
+Unemployment,0.12930387,5,2021,2
+Aged 17 or Younger,0.073869266,5,2021,3
+Aged 65 or Older,0.060795303,5,2021,3
+Below Poverty,0.07195341,5,2021,3
+Crowding,0.051875234,5,2021,3
+Group Quarters,0.056785587,5,2021,3
+Limited English Ability,0.06568811,5,2021,3
+Minority Status,0.11644942,5,2021,3
+Mobile Homes,0.09906734,5,2021,3
+Multi-Unit Structures,0.078131266,5,2021,3
+No High School Diploma,0.068277635,5,2021,3
+No Vehicle,0.06801186,5,2021,3
+Single-Parent Household,0.06624785,5,2021,3
+Unemployment,0.122847684,5,2021,3
+Aged 17 or Younger,0.06762348,5,2021,4
+Aged 65 or Older,0.07166642,5,2021,4
+Below Poverty,0.08306883,5,2021,4
+Crowding,0.05752543,5,2021,4
+Group Quarters,0.051920656,5,2021,4
+Limited English Ability,0.07018868,5,2021,4
+Minority Status,0.12991324,5,2021,4
+Mobile Homes,0.08201103,5,2021,4
+Multi-Unit Structures,0.06219303,5,2021,4
+No High School Diploma,0.07094189,5,2021,4
+No Vehicle,0.059844848,5,2021,4
+Single-Parent Household,0.06994171,5,2021,4
+Unemployment,0.12316078,5,2021,4
+Aged 17 or Younger,0.0678937,5,2021,5
+Aged 65 or Older,0.07751885,5,2021,5
+Below Poverty,0.075661175,5,2021,5
+Crowding,0.054664467,5,2021,5
+Group Quarters,0.049170773,5,2021,5
+Limited English Ability,0.07451986,5,2021,5
+Minority Status,0.121524155,5,2021,5
+Mobile Homes,0.08558777,5,2021,5
+Multi-Unit Structures,0.061265152,5,2021,5
+No High School Diploma,0.07119112,5,2021,5
+No Vehicle,0.07335209,5,2021,5
+Single-Parent Household,0.06107435,5,2021,5
+Unemployment,0.12657656,5,2021,5
+Aged 17 or Younger,0.048719287,6,2010,1
+Aged 65 or Older,0.060922183,6,2010,1
+Below Poverty,0.04278621,6,2010,1
+Crowding,0.04325013,6,2010,1
+Group Quarters,0.0394289,6,2010,1
+Limited English Ability,0.058864467,6,2010,1
+Minority Status,0.1764206,6,2010,1
+Mobile Homes,0.10783535,6,2010,1
+Multi-Unit Structures,0.056857634,6,2010,1
+No High School Diploma,0.10298197,6,2010,1
+No Vehicle,0.0923167,6,2010,1
+Single-Parent Household,0.073432334,6,2010,1
+Unemployment,0.096184246,6,2010,1
+Aged 17 or Younger,0.05524058,6,2010,2
+Aged 65 or Older,0.06723643,6,2010,2
+Below Poverty,0.049889494,6,2010,2
+Crowding,0.062195078,6,2010,2
+Group Quarters,0.039392494,6,2010,2
+Limited English Ability,0.047288444,6,2010,2
+Minority Status,0.15190889,6,2010,2
+Mobile Homes,0.10530279,6,2010,2
+Multi-Unit Structures,0.055227347,6,2010,2
+No High School Diploma,0.11587823,6,2010,2
+No Vehicle,0.09158755,6,2010,2
+Single-Parent Household,0.06870018,6,2010,2
+Unemployment,0.09015253,6,2010,2
+Aged 17 or Younger,0.053141017,6,2010,3
+Aged 65 or Older,0.05871521,6,2010,3
+Below Poverty,0.04797315,6,2010,3
+Crowding,0.04750731,6,2010,3
+Group Quarters,0.0392993,6,2010,3
+Limited English Ability,0.045630347,6,2010,3
+Minority Status,0.160695,6,2010,3
+Mobile Homes,0.11696681,6,2010,3
+Multi-Unit Structures,0.05620735,6,2010,3
+No High School Diploma,0.09268065,6,2010,3
+No Vehicle,0.12317103,6,2010,3
+Single-Parent Household,0.06686006,6,2010,3
+Unemployment,0.09115278,6,2010,3
+Aged 17 or Younger,0.049000584,6,2010,4
+Aged 65 or Older,0.05501285,6,2010,4
+Below Poverty,0.049306948,6,2010,4
+Crowding,0.047401354,6,2010,4
+Group Quarters,0.045232818,6,2010,4
+Limited English Ability,0.046949342,6,2010,4
+Minority Status,0.15268812,6,2010,4
+Mobile Homes,0.12218336,6,2010,4
+Multi-Unit Structures,0.06137294,6,2010,4
+No High School Diploma,0.10236669,6,2010,4
+No Vehicle,0.10876212,6,2010,4
+Single-Parent Household,0.06528462,6,2010,4
+Unemployment,0.094438225,6,2010,4
+Aged 17 or Younger,0.051727105,6,2010,5
+Aged 65 or Older,0.07104068,6,2010,5
+Below Poverty,0.044851735,6,2010,5
+Crowding,0.04758017,6,2010,5
+Group Quarters,0.038814947,6,2010,5
+Limited English Ability,0.047165763,6,2010,5
+Minority Status,0.16025774,6,2010,5
+Mobile Homes,0.10482156,6,2010,5
+Multi-Unit Structures,0.058624562,6,2010,5
+No High School Diploma,0.08678002,6,2010,5
+No Vehicle,0.124017365,6,2010,5
+Single-Parent Household,0.06325002,6,2010,5
+Unemployment,0.101068355,6,2010,5
+Aged 17 or Younger,0.040989,6,2011,1
+Aged 65 or Older,0.06260469,6,2011,1
+Below Poverty,0.058032185,6,2011,1
+Crowding,0.05315106,6,2011,1
+Group Quarters,0.04280116,6,2011,1
+Limited English Ability,0.05244064,6,2011,1
+Minority Status,0.15780117,6,2011,1
+Mobile Homes,0.095511615,6,2011,1
+Multi-Unit Structures,0.060014658,6,2011,1
+No High School Diploma,0.14397097,6,2011,1
+No Vehicle,0.05272575,6,2011,1
+Single-Parent Household,0.06886481,6,2011,1
+Unemployment,0.111092195,6,2011,1
+Aged 17 or Younger,0.046394724,6,2011,2
+Aged 65 or Older,0.06284276,6,2011,2
+Below Poverty,0.07380122,6,2011,2
+Crowding,0.06463993,6,2011,2
+Group Quarters,0.03828502,6,2011,2
+Limited English Ability,0.053552687,6,2011,2
+Minority Status,0.14204493,6,2011,2
+Mobile Homes,0.089112155,6,2011,2
+Multi-Unit Structures,0.05451538,6,2011,2
+No High School Diploma,0.14696456,6,2011,2
+No Vehicle,0.05749156,6,2011,2
+Single-Parent Household,0.0689602,6,2011,2
+Unemployment,0.10139476,6,2011,2
+Aged 17 or Younger,0.047511406,6,2011,3
+Aged 65 or Older,0.06625852,6,2011,3
+Below Poverty,0.06475823,6,2011,3
+Crowding,0.06632935,6,2011,3
+Group Quarters,0.041605223,6,2011,3
+Limited English Ability,0.05025994,6,2011,3
+Minority Status,0.15405937,6,2011,3
+Mobile Homes,0.095856376,6,2011,3
+Multi-Unit Structures,0.046405815,6,2011,3
+No High School Diploma,0.13508609,6,2011,3
+No Vehicle,0.05672676,6,2011,3
+Single-Parent Household,0.06699325,6,2011,3
+Unemployment,0.10814971,6,2011,3
+Aged 17 or Younger,0.057418454,6,2011,4
+Aged 65 or Older,0.0647256,6,2011,4
+Below Poverty,0.06290222,6,2011,4
+Crowding,0.05460079,6,2011,4
+Group Quarters,0.04465688,6,2011,4
+Limited English Ability,0.060508367,6,2011,4
+Minority Status,0.14144789,6,2011,4
+Mobile Homes,0.08329958,6,2011,4
+Multi-Unit Structures,0.051542718,6,2011,4
+No High School Diploma,0.12515567,6,2011,4
+No Vehicle,0.0708715,6,2011,4
+Single-Parent Household,0.07076486,6,2011,4
+Unemployment,0.1121055,6,2011,4
+Aged 17 or Younger,0.046990305,6,2011,5
+Aged 65 or Older,0.0629433,6,2011,5
+Below Poverty,0.07905074,6,2011,5
+Crowding,0.06557238,6,2011,5
+Group Quarters,0.043398876,6,2011,5
+Limited English Ability,0.04733834,6,2011,5
+Minority Status,0.15980476,6,2011,5
+Mobile Homes,0.07495863,6,2011,5
+Multi-Unit Structures,0.047207937,6,2011,5
+No High School Diploma,0.13748482,6,2011,5
+No Vehicle,0.05378002,6,2011,5
+Single-Parent Household,0.069219664,6,2011,5
+Unemployment,0.11225021,6,2011,5
+Aged 17 or Younger,0.05609289,6,2012,1
+Aged 65 or Older,0.07168146,6,2012,1
+Below Poverty,0.0600105,6,2012,1
+Crowding,0.04670338,6,2012,1
+Group Quarters,0.052847736,6,2012,1
+Limited English Ability,0.05789532,6,2012,1
+Minority Status,0.15132822,6,2012,1
+Mobile Homes,0.07929719,6,2012,1
+Multi-Unit Structures,0.053168137,6,2012,1
+No High School Diploma,0.118548416,6,2012,1
+No Vehicle,0.05912481,6,2012,1
+Single-Parent Household,0.06833447,6,2012,1
+Unemployment,0.12496742,6,2012,1
+Aged 17 or Younger,0.0638187,6,2012,2
+Aged 65 or Older,0.06413926,6,2012,2
+Below Poverty,0.05026191,6,2012,2
+Crowding,0.05170832,6,2012,2
+Group Quarters,0.047197256,6,2012,2
+Limited English Ability,0.05743261,6,2012,2
+Minority Status,0.14706942,6,2012,2
+Mobile Homes,0.080989785,6,2012,2
+Multi-Unit Structures,0.054718968,6,2012,2
+No High School Diploma,0.10291107,6,2012,2
+No Vehicle,0.09240877,6,2012,2
+Single-Parent Household,0.06895005,6,2012,2
+Unemployment,0.118393995,6,2012,2
+Aged 17 or Younger,0.059362747,6,2012,3
+Aged 65 or Older,0.07335794,6,2012,3
+Below Poverty,0.049374044,6,2012,3
+Crowding,0.05126261,6,2012,3
+Group Quarters,0.04580989,6,2012,3
+Limited English Ability,0.054477222,6,2012,3
+Minority Status,0.14516659,6,2012,3
+Mobile Homes,0.08870498,6,2012,3
+Multi-Unit Structures,0.045188807,6,2012,3
+No High School Diploma,0.102746315,6,2012,3
+No Vehicle,0.094597824,6,2012,3
+Single-Parent Household,0.06761981,6,2012,3
+Unemployment,0.12233132,6,2012,3
+Aged 17 or Younger,0.05650088,6,2012,4
+Aged 65 or Older,0.067674644,6,2012,4
+Below Poverty,0.061366946,6,2012,4
+Crowding,0.065376714,6,2012,4
+Group Quarters,0.052500986,6,2012,4
+Limited English Ability,0.05570197,6,2012,4
+Minority Status,0.1343303,6,2012,4
+Mobile Homes,0.06757049,6,2012,4
+Multi-Unit Structures,0.04833157,6,2012,4
+No High School Diploma,0.10291652,6,2012,4
+No Vehicle,0.09747335,6,2012,4
+Single-Parent Household,0.06629033,6,2012,4
+Unemployment,0.12396522,6,2012,4
+Aged 17 or Younger,0.07190933,6,2012,5
+Aged 65 or Older,0.06768117,6,2012,5
+Below Poverty,0.04710587,6,2012,5
+Crowding,0.05272002,6,2012,5
+Group Quarters,0.052203305,6,2012,5
+Limited English Ability,0.052191943,6,2012,5
+Minority Status,0.13400869,6,2012,5
+Mobile Homes,0.089154825,6,2012,5
+Multi-Unit Structures,0.055511605,6,2012,5
+No High School Diploma,0.093942344,6,2012,5
+No Vehicle,0.09389667,6,2012,5
+Single-Parent Household,0.06319005,6,2012,5
+Unemployment,0.12648411,6,2012,5
+Aged 17 or Younger,0.04842904,6,2013,1
+Aged 65 or Older,0.08074287,6,2013,1
+Below Poverty,0.066927455,6,2013,1
+Crowding,0.053340554,6,2013,1
+Group Quarters,0.043524485,6,2013,1
+Limited English Ability,0.05998988,6,2013,1
+Minority Status,0.15707135,6,2013,1
+Mobile Homes,0.080115944,6,2013,1
+Multi-Unit Structures,0.05060559,6,2013,1
+No High School Diploma,0.12896027,6,2013,1
+No Vehicle,0.05771964,6,2013,1
+Single-Parent Household,0.047930207,6,2013,1
+Unemployment,0.124642804,6,2013,1
+Aged 17 or Younger,0.054253556,6,2013,2
+Aged 65 or Older,0.08089888,6,2013,2
+Below Poverty,0.047159545,6,2013,2
+Crowding,0.052991368,6,2013,2
+Group Quarters,0.04269325,6,2013,2
+Limited English Ability,0.058450304,6,2013,2
+Minority Status,0.1568332,6,2013,2
+Mobile Homes,0.091663785,6,2013,2
+Multi-Unit Structures,0.04802312,6,2013,2
+No High School Diploma,0.13706075,6,2013,2
+No Vehicle,0.06790007,6,2013,2
+Single-Parent Household,0.05018683,6,2013,2
+Unemployment,0.11188533,6,2013,2
+Aged 17 or Younger,0.05262914,6,2013,3
+Aged 65 or Older,0.087235786,6,2013,3
+Below Poverty,0.0453036,6,2013,3
+Crowding,0.049581658,6,2013,3
+Group Quarters,0.04084679,6,2013,3
+Limited English Ability,0.052275103,6,2013,3
+Minority Status,0.14885479,6,2013,3
+Mobile Homes,0.09769985,6,2013,3
+Multi-Unit Structures,0.04294582,6,2013,3
+No High School Diploma,0.12939437,6,2013,3
+No Vehicle,0.07859275,6,2013,3
+Single-Parent Household,0.051815584,6,2013,3
+Unemployment,0.12282479,6,2013,3
+Aged 17 or Younger,0.055971194,6,2013,4
+Aged 65 or Older,0.075450994,6,2013,4
+Below Poverty,0.060440205,6,2013,4
+Crowding,0.05928469,6,2013,4
+Group Quarters,0.05212953,6,2013,4
+Limited English Ability,0.055805445,6,2013,4
+Minority Status,0.14320044,6,2013,4
+Mobile Homes,0.07030135,6,2013,4
+Multi-Unit Structures,0.050121095,6,2013,4
+No High School Diploma,0.13078132,6,2013,4
+No Vehicle,0.07314506,6,2013,4
+Single-Parent Household,0.049730025,6,2013,4
+Unemployment,0.123638734,6,2013,4
+Aged 17 or Younger,0.04732776,6,2013,5
+Aged 65 or Older,0.06730775,6,2013,5
+Below Poverty,0.07470474,6,2013,5
+Crowding,0.050552577,6,2013,5
+Group Quarters,0.03906698,6,2013,5
+Limited English Ability,0.051650472,6,2013,5
+Minority Status,0.17405015,6,2013,5
+Mobile Homes,0.079329774,6,2013,5
+Multi-Unit Structures,0.04737902,6,2013,5
+No High School Diploma,0.13103168,6,2013,5
+No Vehicle,0.063782,6,2013,5
+Single-Parent Household,0.051153183,6,2013,5
+Unemployment,0.122663885,6,2013,5
+Aged 17 or Younger,0.05111227,6,2014,1
+Aged 65 or Older,0.10028145,6,2014,1
+Below Poverty,0.05475586,6,2014,1
+Crowding,0.045007534,6,2014,1
+Group Quarters,0.04858185,6,2014,1
+Limited English Ability,0.06218139,6,2014,1
+Minority Status,0.14274968,6,2014,1
+Mobile Homes,0.04886966,6,2014,1
+Multi-Unit Structures,0.062211625,6,2014,1
+No High School Diploma,0.116453916,6,2014,1
+No Vehicle,0.07740064,6,2014,1
+Single-Parent Household,0.05681912,6,2014,1
+Unemployment,0.13357499,6,2014,1
+Aged 17 or Younger,0.057479497,6,2014,2
+Aged 65 or Older,0.0850658,6,2014,2
+Below Poverty,0.060750738,6,2014,2
+Crowding,0.041993715,6,2014,2
+Group Quarters,0.044459626,6,2014,2
+Limited English Ability,0.050786447,6,2014,2
+Minority Status,0.13208647,6,2014,2
+Mobile Homes,0.06356151,6,2014,2
+Multi-Unit Structures,0.058216967,6,2014,2
+No High School Diploma,0.10345645,6,2014,2
+No Vehicle,0.12052025,6,2014,2
+Single-Parent Household,0.05489612,6,2014,2
+Unemployment,0.12672645,6,2014,2
+Aged 17 or Younger,0.055550706,6,2014,3
+Aged 65 or Older,0.07864693,6,2014,3
+Below Poverty,0.06251918,6,2014,3
+Crowding,0.04368579,6,2014,3
+Group Quarters,0.05262886,6,2014,3
+Limited English Ability,0.050308067,6,2014,3
+Minority Status,0.13353385,6,2014,3
+Mobile Homes,0.056246962,6,2014,3
+Multi-Unit Structures,0.048836898,6,2014,3
+No High School Diploma,0.11697999,6,2014,3
+No Vehicle,0.11249153,6,2014,3
+Single-Parent Household,0.05341442,6,2014,3
+Unemployment,0.13515683,6,2014,3
+Aged 17 or Younger,0.05610816,6,2014,4
+Aged 65 or Older,0.08203363,6,2014,4
+Below Poverty,0.060869537,6,2014,4
+Crowding,0.0427648,6,2014,4
+Group Quarters,0.055406023,6,2014,4
+Limited English Ability,0.04980499,6,2014,4
+Minority Status,0.13448201,6,2014,4
+Mobile Homes,0.047951482,6,2014,4
+Multi-Unit Structures,0.051398724,6,2014,4
+No High School Diploma,0.10349944,6,2014,4
+No Vehicle,0.12289858,6,2014,4
+Single-Parent Household,0.06024182,6,2014,4
+Unemployment,0.13254091,6,2014,4
+Aged 17 or Younger,0.054746334,6,2014,5
+Aged 65 or Older,0.08409771,6,2014,5
+Below Poverty,0.062026534,6,2014,5
+Crowding,0.040140856,6,2014,5
+Group Quarters,0.047067214,6,2014,5
+Limited English Ability,0.050237052,6,2014,5
+Minority Status,0.14402682,6,2014,5
+Mobile Homes,0.054688614,6,2014,5
+Multi-Unit Structures,0.0514108,6,2014,5
+No High School Diploma,0.11056281,6,2014,5
+No Vehicle,0.10862841,6,2014,5
+Single-Parent Household,0.05879465,6,2014,5
+Unemployment,0.13357222,6,2014,5
+Aged 17 or Younger,0.061067138,6,2015,1
+Aged 65 or Older,0.09844203,6,2015,1
+Below Poverty,0.054371905,6,2015,1
+Crowding,0.056022648,6,2015,1
+Group Quarters,0.047093384,6,2015,1
+Limited English Ability,0.05870876,6,2015,1
+Minority Status,0.16174828,6,2015,1
+Mobile Homes,0.048188675,6,2015,1
+Multi-Unit Structures,0.07707313,6,2015,1
+No High School Diploma,0.07555084,6,2015,1
+No Vehicle,0.078373455,6,2015,1
+Single-Parent Household,0.053897195,6,2015,1
+Unemployment,0.12946266,6,2015,1
+Aged 17 or Younger,0.060026906,6,2015,2
+Aged 65 or Older,0.10613732,6,2015,2
+Below Poverty,0.04835448,6,2015,2
+Crowding,0.05822285,6,2015,2
+Group Quarters,0.047622368,6,2015,2
+Limited English Ability,0.05308543,6,2015,2
+Minority Status,0.16170143,6,2015,2
+Mobile Homes,0.05542399,6,2015,2
+Multi-Unit Structures,0.08596292,6,2015,2
+No High School Diploma,0.08099918,6,2015,2
+No Vehicle,0.06386936,6,2015,2
+Single-Parent Household,0.05588604,6,2015,2
+Unemployment,0.1227078,6,2015,2
+Aged 17 or Younger,0.06596597,6,2015,3
+Aged 65 or Older,0.109022126,6,2015,3
+Below Poverty,0.04669233,6,2015,3
+Crowding,0.061683506,6,2015,3
+Group Quarters,0.048892487,6,2015,3
+Limited English Ability,0.053924143,6,2015,3
+Minority Status,0.15452416,6,2015,3
+Mobile Homes,0.067821674,6,2015,3
+Multi-Unit Structures,0.071916506,6,2015,3
+No High School Diploma,0.07933955,6,2015,3
+No Vehicle,0.0597712,6,2015,3
+Single-Parent Household,0.05316241,6,2015,3
+Unemployment,0.12728389,6,2015,3
+Aged 17 or Younger,0.0610802,6,2015,4
+Aged 65 or Older,0.10457432,6,2015,4
+Below Poverty,0.059582025,6,2015,4
+Crowding,0.06008948,6,2015,4
+Group Quarters,0.056124818,6,2015,4
+Limited English Ability,0.056577932,6,2015,4
+Minority Status,0.15292229,6,2015,4
+Mobile Homes,0.0496213,6,2015,4
+Multi-Unit Structures,0.081018664,6,2015,4
+No High School Diploma,0.080014184,6,2015,4
+No Vehicle,0.062021207,6,2015,4
+Single-Parent Household,0.05144462,6,2015,4
+Unemployment,0.124928944,6,2015,4
+Aged 17 or Younger,0.061092854,6,2015,5
+Aged 65 or Older,0.107654005,6,2015,5
+Below Poverty,0.05173533,6,2015,5
+Crowding,0.05988447,6,2015,5
+Group Quarters,0.046442173,6,2015,5
+Limited English Ability,0.054029096,6,2015,5
+Minority Status,0.15201907,6,2015,5
+Mobile Homes,0.061052304,6,2015,5
+Multi-Unit Structures,0.076265596,6,2015,5
+No High School Diploma,0.07668035,6,2015,5
+No Vehicle,0.06649297,6,2015,5
+Single-Parent Household,0.050082944,6,2015,5
+Unemployment,0.13656875,6,2015,5
+Aged 17 or Younger,0.060635712,6,2016,1
+Aged 65 or Older,0.121191435,6,2016,1
+Below Poverty,0.04311279,6,2016,1
+Crowding,0.055015743,6,2016,1
+Group Quarters,0.0486629,6,2016,1
+Limited English Ability,0.055230215,6,2016,1
+Minority Status,0.18718533,6,2016,1
+Mobile Homes,0.053990465,6,2016,1
+Multi-Unit Structures,0.049062654,6,2016,1
+No High School Diploma,0.06841962,6,2016,1
+No Vehicle,0.070770465,6,2016,1
+Single-Parent Household,0.053819243,6,2016,1
+Unemployment,0.13290335,6,2016,1
+Aged 17 or Younger,0.05753232,6,2016,2
+Aged 65 or Older,0.12642589,6,2016,2
+Below Poverty,0.044688884,6,2016,2
+Crowding,0.0531783,6,2016,2
+Group Quarters,0.04808169,6,2016,2
+Limited English Ability,0.051293276,6,2016,2
+Minority Status,0.18177064,6,2016,2
+Mobile Homes,0.050824385,6,2016,2
+Multi-Unit Structures,0.055666085,6,2016,2
+No High School Diploma,0.07799353,6,2016,2
+No Vehicle,0.06802082,6,2016,2
+Single-Parent Household,0.060279153,6,2016,2
+Unemployment,0.124244936,6,2016,2
+Aged 17 or Younger,0.06368383,6,2016,3
+Aged 65 or Older,0.12230841,6,2016,3
+Below Poverty,0.041696914,6,2016,3
+Crowding,0.04700658,6,2016,3
+Group Quarters,0.050322182,6,2016,3
+Limited English Ability,0.053697094,6,2016,3
+Minority Status,0.18127444,6,2016,3
+Mobile Homes,0.060986057,6,2016,3
+Multi-Unit Structures,0.049235236,6,2016,3
+No High School Diploma,0.07936679,6,2016,3
+No Vehicle,0.062331162,6,2016,3
+Single-Parent Household,0.05591878,6,2016,3
+Unemployment,0.13217247,6,2016,3
+Aged 17 or Younger,0.068926424,6,2016,4
+Aged 65 or Older,0.10943244,6,2016,4
+Below Poverty,0.046622977,6,2016,4
+Crowding,0.052139286,6,2016,4
+Group Quarters,0.058520615,6,2016,4
+Limited English Ability,0.05644513,6,2016,4
+Minority Status,0.16516662,6,2016,4
+Mobile Homes,0.05730905,6,2016,4
+Multi-Unit Structures,0.046729643,6,2016,4
+No High School Diploma,0.07634249,6,2016,4
+No Vehicle,0.06565371,6,2016,4
+Single-Parent Household,0.06225437,6,2016,4
+Unemployment,0.1344572,6,2016,4
+Aged 17 or Younger,0.059047982,6,2016,5
+Aged 65 or Older,0.110941224,6,2016,5
+Below Poverty,0.049172845,6,2016,5
+Crowding,0.048594527,6,2016,5
+Group Quarters,0.048434727,6,2016,5
+Limited English Ability,0.056875918,6,2016,5
+Minority Status,0.18349758,6,2016,5
+Mobile Homes,0.05517858,6,2016,5
+Multi-Unit Structures,0.048973557,6,2016,5
+No High School Diploma,0.08049851,6,2016,5
+No Vehicle,0.07276238,6,2016,5
+Single-Parent Household,0.04920311,6,2016,5
+Unemployment,0.13681903,6,2016,5
+Aged 17 or Younger,0.078785226,6,2017,1
+Aged 65 or Older,0.09617191,6,2017,1
+Below Poverty,0.053786233,6,2017,1
+Crowding,0.048752375,6,2017,1
+Group Quarters,0.053524252,6,2017,1
+Limited English Ability,0.06388768,6,2017,1
+Minority Status,0.1618836,6,2017,1
+Mobile Homes,0.06900383,6,2017,1
+Multi-Unit Structures,0.049626235,6,2017,1
+No High School Diploma,0.08227545,6,2017,1
+No Vehicle,0.069965765,6,2017,1
+Single-Parent Household,0.055117365,6,2017,1
+Unemployment,0.117220074,6,2017,1
+Aged 17 or Younger,0.06852508,6,2017,2
+Aged 65 or Older,0.09834289,6,2017,2
+Below Poverty,0.057794906,6,2017,2
+Crowding,0.04805206,6,2017,2
+Group Quarters,0.056672893,6,2017,2
+Limited English Ability,0.06193893,6,2017,2
+Minority Status,0.14807723,6,2017,2
+Mobile Homes,0.066884205,6,2017,2
+Multi-Unit Structures,0.05911671,6,2017,2
+No High School Diploma,0.09115287,6,2017,2
+No Vehicle,0.06885951,6,2017,2
+Single-Parent Household,0.057466667,6,2017,2
+Unemployment,0.11711598,6,2017,2
+Aged 17 or Younger,0.08067019,6,2017,3
+Aged 65 or Older,0.07691247,6,2017,3
+Below Poverty,0.050867412,6,2017,3
+Crowding,0.04577045,6,2017,3
+Group Quarters,0.058371153,6,2017,3
+Limited English Ability,0.064492114,6,2017,3
+Minority Status,0.14847088,6,2017,3
+Mobile Homes,0.06755644,6,2017,3
+Multi-Unit Structures,0.050731745,6,2017,3
+No High School Diploma,0.09318081,6,2017,3
+No Vehicle,0.07355692,6,2017,3
+Single-Parent Household,0.05971223,6,2017,3
+Unemployment,0.1297072,6,2017,3
+Aged 17 or Younger,0.07885328,6,2017,4
+Aged 65 or Older,0.09245222,6,2017,4
+Below Poverty,0.056207407,6,2017,4
+Crowding,0.050908826,6,2017,4
+Group Quarters,0.05590766,6,2017,4
+Limited English Ability,0.059210226,6,2017,4
+Minority Status,0.14664313,6,2017,4
+Mobile Homes,0.07083383,6,2017,4
+Multi-Unit Structures,0.06107858,6,2017,4
+No High School Diploma,0.07340778,6,2017,4
+No Vehicle,0.07367846,6,2017,4
+Single-Parent Household,0.058314152,6,2017,4
+Unemployment,0.12250451,6,2017,4
+Aged 17 or Younger,0.075128704,6,2017,5
+Aged 65 or Older,0.08262648,6,2017,5
+Below Poverty,0.05118427,6,2017,5
+Crowding,0.047553565,6,2017,5
+Group Quarters,0.054048456,6,2017,5
+Limited English Ability,0.05815648,6,2017,5
+Minority Status,0.16394022,6,2017,5
+Mobile Homes,0.06845221,6,2017,5
+Multi-Unit Structures,0.052820057,6,2017,5
+No High School Diploma,0.088118725,6,2017,5
+No Vehicle,0.06853745,6,2017,5
+Single-Parent Household,0.057523474,6,2017,5
+Unemployment,0.13190994,6,2017,5
+Aged 17 or Younger,0.076546624,6,2018,1
+Aged 65 or Older,0.09414147,6,2018,1
+Below Poverty,0.057630133,6,2018,1
+Crowding,0.048779536,6,2018,1
+Group Quarters,0.058808114,6,2018,1
+Limited English Ability,0.055802163,6,2018,1
+Minority Status,0.15198411,6,2018,1
+Mobile Homes,0.065439776,6,2018,1
+Multi-Unit Structures,0.05600536,6,2018,1
+No High School Diploma,0.082881145,6,2018,1
+No Vehicle,0.07859055,6,2018,1
+Single-Parent Household,0.057126183,6,2018,1
+Unemployment,0.11626481,6,2018,1
+Aged 17 or Younger,0.070951015,6,2018,2
+Aged 65 or Older,0.092271484,6,2018,2
+Below Poverty,0.05428555,6,2018,2
+Crowding,0.047657482,6,2018,2
+Group Quarters,0.058015995,6,2018,2
+Limited English Ability,0.05754267,6,2018,2
+Minority Status,0.1417844,6,2018,2
+Mobile Homes,0.071621455,6,2018,2
+Multi-Unit Structures,0.05190112,6,2018,2
+No High School Diploma,0.09545344,6,2018,2
+No Vehicle,0.073025666,6,2018,2
+Single-Parent Household,0.06398361,6,2018,2
+Unemployment,0.12150602,6,2018,2
+Aged 17 or Younger,0.074581936,6,2018,3
+Aged 65 or Older,0.09305823,6,2018,3
+Below Poverty,0.054288834,6,2018,3
+Crowding,0.050640326,6,2018,3
+Group Quarters,0.050687242,6,2018,3
+Limited English Ability,0.055895418,6,2018,3
+Minority Status,0.14145087,6,2018,3
+Mobile Homes,0.08123794,6,2018,3
+Multi-Unit Structures,0.05885837,6,2018,3
+No High School Diploma,0.09437591,6,2018,3
+No Vehicle,0.06082127,6,2018,3
+Single-Parent Household,0.0633112,6,2018,3
+Unemployment,0.1207925,6,2018,3
+Aged 17 or Younger,0.0825002,6,2018,4
+Aged 65 or Older,0.09255642,6,2018,4
+Below Poverty,0.056707326,6,2018,4
+Crowding,0.053104375,6,2018,4
+Group Quarters,0.059803825,6,2018,4
+Limited English Ability,0.056313343,6,2018,4
+Minority Status,0.13411693,6,2018,4
+Mobile Homes,0.06547495,6,2018,4
+Multi-Unit Structures,0.056623332,6,2018,4
+No High School Diploma,0.08409507,6,2018,4
+No Vehicle,0.07966186,6,2018,4
+Single-Parent Household,0.056775942,6,2018,4
+Unemployment,0.122266375,6,2018,4
+Aged 17 or Younger,0.07168943,6,2018,5
+Aged 65 or Older,0.08795052,6,2018,5
+Below Poverty,0.058721893,6,2018,5
+Crowding,0.047184817,6,2018,5
+Group Quarters,0.052352164,6,2018,5
+Limited English Ability,0.051929932,6,2018,5
+Minority Status,0.15687712,6,2018,5
+Mobile Homes,0.06756875,6,2018,5
+Multi-Unit Structures,0.053736996,6,2018,5
+No High School Diploma,0.08488159,6,2018,5
+No Vehicle,0.07269731,6,2018,5
+Single-Parent Household,0.06734604,6,2018,5
+Unemployment,0.12706341,6,2018,5
+Aged 17 or Younger,0.06613534,6,2019,1
+Aged 65 or Older,0.05841597,6,2019,1
+Below Poverty,0.0671843,6,2019,1
+Crowding,0.04349314,6,2019,1
+Group Quarters,0.04432102,6,2019,1
+Limited English Ability,0.053092416,6,2019,1
+Minority Status,0.18871357,6,2019,1
+Mobile Homes,0.1018584,6,2019,1
+Multi-Unit Structures,0.04143204,6,2019,1
+No High School Diploma,0.08501122,6,2019,1
+No Vehicle,0.05438349,6,2019,1
+Single-Parent Household,0.054025225,6,2019,1
+Unemployment,0.14193386,6,2019,1
+Aged 17 or Younger,0.06482659,6,2019,2
+Aged 65 or Older,0.06500128,6,2019,2
+Below Poverty,0.051189024,6,2019,2
+Crowding,0.043183103,6,2019,2
+Group Quarters,0.04739382,6,2019,2
+Limited English Ability,0.050427854,6,2019,2
+Minority Status,0.15843543,6,2019,2
+Mobile Homes,0.08661623,6,2019,2
+Multi-Unit Structures,0.047205497,6,2019,2
+No High School Diploma,0.10487845,6,2019,2
+No Vehicle,0.07319919,6,2019,2
+Single-Parent Household,0.060279015,6,2019,2
+Unemployment,0.14736445,6,2019,2
+Aged 17 or Younger,0.07383738,6,2019,3
+Aged 65 or Older,0.064263605,6,2019,3
+Below Poverty,0.0511388,6,2019,3
+Crowding,0.04429169,6,2019,3
+Group Quarters,0.040955123,6,2019,3
+Limited English Ability,0.056676973,6,2019,3
+Minority Status,0.17202751,6,2019,3
+Mobile Homes,0.08843594,6,2019,3
+Multi-Unit Structures,0.045314506,6,2019,3
+No High School Diploma,0.107401855,6,2019,3
+No Vehicle,0.049293894,6,2019,3
+Single-Parent Household,0.06016333,6,2019,3
+Unemployment,0.14619935,6,2019,3
+Aged 17 or Younger,0.06293027,6,2019,4
+Aged 65 or Older,0.067235805,6,2019,4
+Below Poverty,0.060155287,6,2019,4
+Crowding,0.04478251,6,2019,4
+Group Quarters,0.04904732,6,2019,4
+Limited English Ability,0.057915386,6,2019,4
+Minority Status,0.15667799,6,2019,4
+Mobile Homes,0.089119665,6,2019,4
+Multi-Unit Structures,0.044296898,6,2019,4
+No High School Diploma,0.08827346,6,2019,4
+No Vehicle,0.074860215,6,2019,4
+Single-Parent Household,0.055886727,6,2019,4
+Unemployment,0.14881854,6,2019,4
+Aged 17 or Younger,0.07431323,6,2019,5
+Aged 65 or Older,0.05690668,6,2019,5
+Below Poverty,0.05669236,6,2019,5
+Crowding,0.0413827,6,2019,5
+Group Quarters,0.04412772,6,2019,5
+Limited English Ability,0.049601994,6,2019,5
+Minority Status,0.17270294,6,2019,5
+Mobile Homes,0.09214226,6,2019,5
+Multi-Unit Structures,0.041057177,6,2019,5
+No High School Diploma,0.08964854,6,2019,5
+No Vehicle,0.06258798,6,2019,5
+Single-Parent Household,0.060053915,6,2019,5
+Unemployment,0.15878245,6,2019,5
+Aged 17 or Younger,0.05664652,6,2020,1
+Aged 65 or Older,0.06672511,6,2020,1
+Below Poverty,0.06482449,6,2020,1
+Crowding,0.047377504,6,2020,1
+Group Quarters,0.04965341,6,2020,1
+Limited English Ability,0.0589596,6,2020,1
+Minority Status,0.15674156,6,2020,1
+Mobile Homes,0.113726296,6,2020,1
+Multi-Unit Structures,0.054731198,6,2020,1
+No High School Diploma,0.09769664,6,2020,1
+No Vehicle,0.05572947,6,2020,1
+Single-Parent Household,0.05120725,6,2020,1
+Unemployment,0.12598096,6,2020,1
+Aged 17 or Younger,0.05724252,6,2020,2
+Aged 65 or Older,0.06748763,6,2020,2
+Below Poverty,0.063792355,6,2020,2
+Crowding,0.045768548,6,2020,2
+Group Quarters,0.039786924,6,2020,2
+Limited English Ability,0.059598718,6,2020,2
+Minority Status,0.1426772,6,2020,2
+Mobile Homes,0.09740713,6,2020,2
+Multi-Unit Structures,0.049410824,6,2020,2
+No High School Diploma,0.1286511,6,2020,2
+No Vehicle,0.0644968,6,2020,2
+Single-Parent Household,0.05648467,6,2020,2
+Unemployment,0.12719557,6,2020,2
+Aged 17 or Younger,0.06802364,6,2020,3
+Aged 65 or Older,0.06660669,6,2020,3
+Below Poverty,0.05869127,6,2020,3
+Crowding,0.052038386,6,2020,3
+Group Quarters,0.044048965,6,2020,3
+Limited English Ability,0.062373117,6,2020,3
+Minority Status,0.14177032,6,2020,3
+Mobile Homes,0.11500563,6,2020,3
+Multi-Unit Structures,0.04480961,6,2020,3
+No High School Diploma,0.110727675,6,2020,3
+No Vehicle,0.05917472,6,2020,3
+Single-Parent Household,0.05355659,6,2020,3
+Unemployment,0.12317344,6,2020,3
+Aged 17 or Younger,0.06665087,6,2020,4
+Aged 65 or Older,0.06639256,6,2020,4
+Below Poverty,0.058773156,6,2020,4
+Crowding,0.048814535,6,2020,4
+Group Quarters,0.040627226,6,2020,4
+Limited English Ability,0.066778526,6,2020,4
+Minority Status,0.14811906,6,2020,4
+Mobile Homes,0.09423239,6,2020,4
+Multi-Unit Structures,0.03940294,6,2020,4
+No High School Diploma,0.12304393,6,2020,4
+No Vehicle,0.063262805,6,2020,4
+Single-Parent Household,0.052456643,6,2020,4
+Unemployment,0.13144532,6,2020,4
+Aged 17 or Younger,0.059306663,6,2020,5
+Aged 65 or Older,0.061281856,6,2020,5
+Below Poverty,0.05815247,6,2020,5
+Crowding,0.05138337,6,2020,5
+Group Quarters,0.04158771,6,2020,5
+Limited English Ability,0.05987953,6,2020,5
+Minority Status,0.14894556,6,2020,5
+Mobile Homes,0.11261008,6,2020,5
+Multi-Unit Structures,0.04626633,6,2020,5
+No High School Diploma,0.1253377,6,2020,5
+No Vehicle,0.066129856,6,2020,5
+Single-Parent Household,0.048567444,6,2020,5
+Unemployment,0.12055143,6,2020,5
+Aged 17 or Younger,0.07174684,6,2021,1
+Aged 65 or Older,0.05557143,6,2021,1
+Below Poverty,0.054927643,6,2021,1
+Crowding,0.04713202,6,2021,1
+Group Quarters,0.046619006,6,2021,1
+Limited English Ability,0.055978928,6,2021,1
+Minority Status,0.14610687,6,2021,1
+Mobile Homes,0.12910584,6,2021,1
+Multi-Unit Structures,0.041308377,6,2021,1
+No High School Diploma,0.09234348,6,2021,1
+No Vehicle,0.06499124,6,2021,1
+Single-Parent Household,0.057246625,6,2021,1
+Unemployment,0.13692173,6,2021,1
+Aged 17 or Younger,0.07329285,6,2021,2
+Aged 65 or Older,0.055426594,6,2021,2
+Below Poverty,0.056405723,6,2021,2
+Crowding,0.046168797,6,2021,2
+Group Quarters,0.044767175,6,2021,2
+Limited English Ability,0.054879554,6,2021,2
+Minority Status,0.13935421,6,2021,2
+Mobile Homes,0.13860942,6,2021,2
+Multi-Unit Structures,0.049393706,6,2021,2
+No High School Diploma,0.09138247,6,2021,2
+No Vehicle,0.06865872,6,2021,2
+Single-Parent Household,0.061214756,6,2021,2
+Unemployment,0.12044601,6,2021,2
+Aged 17 or Younger,0.07960006,6,2021,3
+Aged 65 or Older,0.049747605,6,2021,3
+Below Poverty,0.06270043,6,2021,3
+Crowding,0.044799354,6,2021,3
+Group Quarters,0.045762748,6,2021,3
+Limited English Ability,0.052018676,6,2021,3
+Minority Status,0.13462822,6,2021,3
+Mobile Homes,0.1372543,6,2021,3
+Multi-Unit Structures,0.04904681,6,2021,3
+No High School Diploma,0.0909882,6,2021,3
+No Vehicle,0.0725861,6,2021,3
+Single-Parent Household,0.05673143,6,2021,3
+Unemployment,0.12413608,6,2021,3
+Aged 17 or Younger,0.077742316,6,2021,4
+Aged 65 or Older,0.05376183,6,2021,4
+Below Poverty,0.053343754,6,2021,4
+Crowding,0.045666207,6,2021,4
+Group Quarters,0.04529538,6,2021,4
+Limited English Ability,0.051489994,6,2021,4
+Minority Status,0.14553486,6,2021,4
+Mobile Homes,0.14606291,6,2021,4
+Multi-Unit Structures,0.043420788,6,2021,4
+No High School Diploma,0.09618734,6,2021,4
+No Vehicle,0.07308138,6,2021,4
+Single-Parent Household,0.055481665,6,2021,4
+Unemployment,0.11293152,6,2021,4
+Aged 17 or Younger,0.069411576,6,2021,5
+Aged 65 or Older,0.054047108,6,2021,5
+Below Poverty,0.06405098,6,2021,5
+Crowding,0.043838155,6,2021,5
+Group Quarters,0.045391668,6,2021,5
+Limited English Ability,0.053777155,6,2021,5
+Minority Status,0.14694445,6,2021,5
+Mobile Homes,0.14151157,6,2021,5
+Multi-Unit Structures,0.053467367,6,2021,5
+No High School Diploma,0.0917252,6,2021,5
+No Vehicle,0.071600184,6,2021,5
+Single-Parent Household,0.053461995,6,2021,5
+Unemployment,0.11077255,6,2021,5

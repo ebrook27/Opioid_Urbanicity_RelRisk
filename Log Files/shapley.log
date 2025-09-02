@@ -1,0 +1,50 @@
+12:30:51 Input tensor shape: torch.Size([1, 13, 3144])
+12:30:52 shap_values shape: (13, 3144)
+
+12:30:52 Input tensor shape: torch.Size([1, 13, 3144])
+12:30:52 shap_values shape: (13, 3144)
+
+12:30:52 Input tensor shape: torch.Size([1, 13, 3144])
+12:30:53 shap_values shape: (13, 3144)
+
+12:30:53 Input tensor shape: torch.Size([1, 13, 3144])
+12:30:54 shap_values shape: (13, 3144)
+
+12:30:54 Input tensor shape: torch.Size([1, 13, 3144])
+12:30:54 shap_values shape: (13, 3144)
+
+12:30:54 Input tensor shape: torch.Size([1, 13, 3144])
+12:30:55 shap_values shape: (13, 3144)
+
+12:30:55 Input tensor shape: torch.Size([1, 13, 3144])
+12:30:55 shap_values shape: (13, 3144)
+
+12:30:55 Input tensor shape: torch.Size([1, 13, 3144])
+12:30:56 shap_values shape: (13, 3144)
+
+12:30:56 Input tensor shape: torch.Size([1, 13, 3144])
+12:30:56 shap_values shape: (13, 3144)
+
+12:30:56 Input tensor shape: torch.Size([1, 13, 3144])
+12:30:57 shap_values shape: (13, 3144)
+
+12:30:57 Input tensor shape: torch.Size([1, 13, 3144])
+12:30:57 shap_values shape: (13, 3144)
+
+12:30:57 Input tensor shape: torch.Size([1, 13, 3144])
+12:30:58 shap_values shape: (13, 3144)
+
+12:30:58 Average SHAP Value for each variable:
+12:30:58 Crowding: 0.00143
+12:30:58 No Vehicle: 0.00137
+12:30:58 Multi-Unit Structures: 0.00136
+12:30:58 Aged 65 or Older: 0.00131
+12:30:58 No High School Diploma: 0.00122
+12:30:58 Aged 17 or Younger: 0.00120
+12:30:58 Unemployment: 0.00116
+12:30:58 Mobile Homes: 0.00093
+12:30:58 Minority Status: 0.00081
+12:30:58 Below Poverty: 0.00041
+12:30:58 Group Quarters: 0.00038
+12:30:58 Limited English Ability: 0.00029
+12:30:58 Single-Parent Household: 0.00027
