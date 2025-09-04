@@ -43,3 +43,4 @@ For some analyses, we collapse categories into broader groupings (urban vs rural
 - [ ] Predict mortality, sort zero-mortality counties into own bin, fit Log-Normal to rest. Compare to actual log-normal  
 - [ ] [Tweedie XGBoost?](https://xgboost.readthedocs.io/en/stable/parameter.html#learning-task-parameters)  
 - [ ] Weighted %BPR for each risk category, to use as loss function?
+- [ ] Do we want to consider top 10% of ALL counties or top 10% without counting the zero counties? (Probably both and compare)
