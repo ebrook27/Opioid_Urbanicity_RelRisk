@@ -31,9 +31,15 @@ For some analyses, we collapse categories into broader groupings (urban vs rural
 ### Mortality & Relative Risk
 - Mortality rates: county-level opioid overdose deaths per 100,000 residents.  
 - Relative Risk Score (RRS): a transformation used to highlight **high-risk strata** across counties.  
-  - Defined as:  
-    \[
-    RR = \frac{\text{# cases in top risk strata / # counties in top strata}}
-             {\text{# cases in population / # counties in total population}}
-    \]
+  - Defined as:
+    ```math
+    RR = \frac{\text{(No. of cases in top risk strata) / (No. of counties in top strata)}}
+             {\text{(No. of cases in population) / (No. of counties in total population)}}
+    ```
   - This allows us to compare risk concentration across county groupings (e.g., by urbanicity).
+
+### TODO:  
+- [ ] [Custom loss for XGBoost, weighting high risk bins/counties more](https://pubmed.ncbi.nlm.nih.gov/39277561/)  
+- [ ] Predict mortality, sort zero-mortality counties into own bin, fit Log-Normal to rest. Compare to actual log-normal  
+- [ ] [Tweedie XGBoost?](https://xgboost.readthedocs.io/en/stable/parameter.html#learning-task-parameters)  
+- [ ] Weighted %BPR for each risk category, to use as loss function?
