@@ -96,71 +96,71 @@ def prepare_yearly_prediction_data_mortality():
     return svi_merged
 
 # def prepare_lstm_dataset_with_tracking(df, svi_variables, sequence_length=3):
-    """
-    Prepares LSTM-ready sequences for mortality prediction.
-    Each X is a (sequence_length, n_features) array of SVI data,
-    with an optional static feature vector (urbanicity one-hot).
-    Returns sequences, static features, targets, FIPS, and years.
-    """
+#     """
+#     Prepares LSTM-ready sequences for mortality prediction.
+#     Each X is a (sequence_length, n_features) array of SVI data,
+#     with an optional static feature vector (urbanicity one-hot).
+#     Returns sequences, static features, targets, FIPS, and years.
+#     """
 
-    # Encode county_class (urbanicity) as one-hot
-    enc = OneHotEncoder(sparse=False, handle_unknown='ignore')
-    county_class_encoded = enc.fit_transform(df[['county_class']])
-    df_encoded = df.copy()
-    for i, col in enumerate(enc.get_feature_names_out(['county_class'])):
-        df_encoded[col] = county_class_encoded[:, i]
+#     # Encode county_class (urbanicity) as one-hot
+#     enc = OneHotEncoder(sparse=False, handle_unknown='ignore')
+#     county_class_encoded = enc.fit_transform(df[['county_class']])
+#     df_encoded = df.copy()
+#     for i, col in enumerate(enc.get_feature_names_out(['county_class'])):
+#         df_encoded[col] = county_class_encoded[:, i]
 
-    # Normalize SVI variables individually
-    scalers = {var: StandardScaler() for var in svi_variables}
-    for var in svi_variables:
-        df_encoded[var] = scalers[var].fit_transform(df_encoded[[var]])
+#     # Normalize SVI variables individually
+#     scalers = {var: StandardScaler() for var in svi_variables}
+#     for var in svi_variables:
+#         df_encoded[var] = scalers[var].fit_transform(df_encoded[[var]])
 
-    sequences = []
-    static_features = []
-    targets = []
-    fips_list = []
-    year_list = []
+#     sequences = []
+#     static_features = []
+#     targets = []
+#     fips_list = []
+#     year_list = []
 
-    grouped = df_encoded.groupby('FIPS')
+#     grouped = df_encoded.groupby('FIPS')
 
-    for fips, group in grouped:
-        group = group.sort_values('year')
-        if len(group) < sequence_length + 1:
-            continue
+#     for fips, group in grouped:
+#         group = group.sort_values('year')
+#         if len(group) < sequence_length + 1:
+#             continue
 
-        # Verify urbanicity is consistent
-        urban_vals = group[enc.get_feature_names_out(['county_class'])].drop_duplicates()
-        if len(urban_vals) != 1:
-            print(f"⚠️ Urbanicity mismatch for FIPS {fips}, skipping.")
-            continue
-        urban_static = urban_vals.values[0]
+#         # Verify urbanicity is consistent
+#         urban_vals = group[enc.get_feature_names_out(['county_class'])].drop_duplicates()
+#         if len(urban_vals) != 1:
+#             print(f"⚠️ Urbanicity mismatch for FIPS {fips}, skipping.")
+#             continue
+#         urban_static = urban_vals.values[0]
 
-        svi_seq = group[svi_variables].values
-        mortality_seq = group['mortality_next'].values
-        years = group['year'].values
+#         svi_seq = group[svi_variables].values
+#         mortality_seq = group['mortality_next'].values
+#         years = group['year'].values
 
-        for i in range(len(group) - sequence_length):
-            x_seq = svi_seq[i:i+sequence_length]
-            y_target = mortality_seq[i + sequence_length]
-            target_year = years[i + sequence_length]
+#         for i in range(len(group) - sequence_length):
+#             x_seq = svi_seq[i:i+sequence_length]
+#             y_target = mortality_seq[i + sequence_length]
+#             target_year = years[i + sequence_length]
 
-            if np.isnan(y_target):
-                continue
+#             if np.isnan(y_target):
+#                 continue
 
-            sequences.append(x_seq)
-            static_features.append(urban_static)
-            targets.append(y_target)
-            fips_list.append(fips)
-            year_list.append(target_year)
+#             sequences.append(x_seq)
+#             static_features.append(urban_static)
+#             targets.append(y_target)
+#             fips_list.append(fips)
+#             year_list.append(target_year)
 
-    print(f"✅ Built {len(sequences)} valid sequences.")
-    return (
-        np.array(sequences),
-        np.array(static_features),
-        np.array(targets),
-        np.array(fips_list),
-        np.array(year_list)
-    )
+#     print(f"✅ Built {len(sequences)} valid sequences.")
+#     return (
+#         np.array(sequences),
+#         np.array(static_features),
+#         np.array(targets),
+#         np.array(fips_list),
+#         np.array(year_list)
+#     )
 
 def prepare_lstm_dataset_with_tracking_classification(df, svi_variables, sequence_length=3):
     from sklearn.preprocessing import OneHotEncoder, StandardScaler
@@ -251,7 +251,7 @@ def preprocess_with_zero_class(df, svi_variables):
 
 def build_lstm_classification_sequences(df, svi_variables, sequence_length=3):
     # Encode county_class as one-hot
-    enc = OneHotEncoder(sparse=False, handle_unknown='ignore')
+    enc = OneHotEncoder(sparse_output=False, handle_unknown='ignore')
     county_class_encoded = enc.fit_transform(df[['county_class']])
     df_encoded = df.copy()
     for i, col in enumerate(enc.get_feature_names_out(['county_class'])):

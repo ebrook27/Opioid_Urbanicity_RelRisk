@@ -606,37 +606,112 @@ def evaluate_per_year(predictions_df):
 
 #######
 ### Function to evaluate several metrics, by year
-def performance_evaluation_v2(predictions_df, metrics_df=None, save_plots=False, output_dir="./evaluation_plots"):
+# def performance_evaluation_v2(predictions_df, metrics_df=None, save_plots=False, output_dir="./evaluation_plots"):
+#     """
+#     Extended evaluation function for ordinal classification.
+#     Includes:
+#     - Metrics by year (Accuracy, F1s, MAE)
+#     - Confusion matrices per year
+#     - Plots: ExpectedBin vs TrueBin and MAE over time
+#     """
+
+#     print("\n📊 Evaluating Ordinal Classification Performance...\n")
+
+#     # ----------------------------------------
+#     # 1. Metrics by year (recompute if needed)
+#     # ----------------------------------------
+#     if metrics_df is None:
+#         metrics_df = predictions_df.groupby("Year").apply(
+#             lambda df: pd.Series({
+#                 "Accuracy": (df["TrueBin"] == df["PredBin"]).mean(),
+#                 "MAE": mean_absolute_error(df["TrueBin"], df["ExpectedBin"])
+#             })
+#         ).reset_index()
+
+#     print("📈 Metrics by Year (recomputed from predictions):")
+#     print(metrics_df.round(4))
+
+#     # ----------------------------------------
+#     # 2. Plot: ExpectedBin vs TrueBin (scatter)
+#     # ----------------------------------------
+#     plt.figure(figsize=(6, 6))
+#     sns.scatterplot(data=predictions_df, x="TrueBin", y="ExpectedBin", alpha=0.3, edgecolor=None)
+#     plt.plot([0, 9], [0, 9], ls='--', color='gray')
+#     plt.title("Expected Bin vs True Bin")
+#     plt.xlabel("True Bin")
+#     plt.ylabel("Expected Bin")
+#     plt.grid(True)
+#     if save_plots:
+#         plt.savefig(f"{output_dir}/expected_vs_true_bin.png", bbox_inches="tight")
+#     plt.show()
+
+#     # ----------------------------------------
+#     # 3. Plot: MAE over Time
+#     # ----------------------------------------
+#     plt.figure(figsize=(8, 4))
+#     sns.lineplot(data=metrics_df, x="Year", y="MAE", marker="o")
+#     plt.title("Mean Absolute Error Over Time")
+#     plt.ylabel("MAE (ExpectedBin vs TrueBin)")
+#     plt.grid(True)
+#     if save_plots:
+#         plt.savefig(f"{output_dir}/mae_over_time.png", bbox_inches="tight")
+#     plt.show()
+
+#     # ----------------------------------------
+#     # 4. Confusion Matrices by Year
+#     # ----------------------------------------
+#     unique_years = sorted(predictions_df['Year'].unique())
+#     for year in unique_years:
+#         year_df = predictions_df[predictions_df['Year'] == year]
+#         y_true = year_df['TrueBin'].astype(int)
+#         y_pred = year_df['PredBin'].astype(int)
+
+#         cm = confusion_matrix(y_true, y_pred, labels=list(range(10)))
+#         disp = ConfusionMatrixDisplay(confusion_matrix=cm, display_labels=list(range(10)))
+#         disp.plot(cmap='Blues', xticks_rotation=45, values_format='.0f')
+#         plt.title(f"Confusion Matrix for Year {year}")
+#         if save_plots:
+#             plt.savefig(f"{output_dir}/confusion_matrix_{year}.png", bbox_inches="tight")
+#         plt.show()
+
+#     # ----------------------------------------
+#     # 5. Return summary
+#     # ----------------------------------------
+#     overall_mae = mean_absolute_error(predictions_df['TrueBin'], predictions_df['ExpectedBin'])
+#     print(f"\n📉 Overall MAE (Expected Bin vs True Bin): {overall_mae:.4f}")
+
+#     return metrics_df, overall_mae
+
+def performance_evaluation_v2(predictions_df, metrics_df, save_plots=False, output_dir="./evaluation_plots"):
     """
     Extended evaluation function for ordinal classification.
+    Aggregates metrics across folds within each year (using metrics_df).
     Includes:
-    - Metrics by year (Accuracy, F1s, MAE)
-    - Confusion matrices per year
+    - Metrics by year (Accuracy, F1s, MAE averaged across folds)
+    - Confusion matrices per year (from predictions_df)
     - Plots: ExpectedBin vs TrueBin and MAE over time
     """
 
     print("\n📊 Evaluating Ordinal Classification Performance...\n")
 
     # ----------------------------------------
-    # 1. Metrics by year (recompute if needed)
+    # 1. Metrics by year (average across folds)
     # ----------------------------------------
-    if metrics_df is None:
-        metrics_df = predictions_df.groupby("Year").apply(
-            lambda df: pd.Series({
-                "Accuracy": (df["TrueBin"] == df["PredBin"]).mean(),
-                "MAE": mean_absolute_error(df["TrueBin"], df["ExpectedBin"])
-            })
-        ).reset_index()
+    metrics_summary = (
+        metrics_df.groupby("Year")[["Accuracy", "MacroF1", "WeightedF1", "MAE"]]
+        .mean()
+        .reset_index()
+    )
 
-    print("📈 Metrics by Year (recomputed from predictions):")
-    print(metrics_df.round(4))
+    print("📈 Metrics by Year (averaged across folds):")
+    print(metrics_summary.round(4))
 
     # ----------------------------------------
     # 2. Plot: ExpectedBin vs TrueBin (scatter)
     # ----------------------------------------
     plt.figure(figsize=(6, 6))
     sns.scatterplot(data=predictions_df, x="TrueBin", y="ExpectedBin", alpha=0.3, edgecolor=None)
-    plt.plot([0, 9], [0, 9], ls='--', color='gray')
+    plt.plot([0, 9], [0, 9], ls="--", color="gray")
     plt.title("Expected Bin vs True Bin")
     plt.xlabel("True Bin")
     plt.ylabel("Expected Bin")
@@ -649,8 +724,8 @@ def performance_evaluation_v2(predictions_df, metrics_df=None, save_plots=False,
     # 3. Plot: MAE over Time
     # ----------------------------------------
     plt.figure(figsize=(8, 4))
-    sns.lineplot(data=metrics_df, x="Year", y="MAE", marker="o")
-    plt.title("Mean Absolute Error Over Time")
+    sns.lineplot(data=metrics_summary, x="Year", y="MAE", marker="o")
+    plt.title("Mean Absolute Error Over Time (fold-averaged)")
     plt.ylabel("MAE (ExpectedBin vs TrueBin)")
     plt.grid(True)
     if save_plots:
@@ -658,30 +733,25 @@ def performance_evaluation_v2(predictions_df, metrics_df=None, save_plots=False,
     plt.show()
 
     # ----------------------------------------
-    # 4. Confusion Matrices by Year
+    # 4. Confusion Matrices by Year (print only)
     # ----------------------------------------
-    unique_years = sorted(predictions_df['Year'].unique())
+    unique_years = sorted(predictions_df["Year"].unique())
     for year in unique_years:
-        year_df = predictions_df[predictions_df['Year'] == year]
-        y_true = year_df['TrueBin'].astype(int)
-        y_pred = year_df['PredBin'].astype(int)
+        year_df = predictions_df[predictions_df["Year"] == year]
+        y_true = year_df["TrueBin"].astype(int)
+        y_pred = year_df["PredBin"].astype(int)
 
         cm = confusion_matrix(y_true, y_pred, labels=list(range(10)))
-        disp = ConfusionMatrixDisplay(confusion_matrix=cm, display_labels=list(range(10)))
-        disp.plot(cmap='Blues', xticks_rotation=45, values_format='.0f')
-        plt.title(f"Confusion Matrix for Year {year}")
-        if save_plots:
-            plt.savefig(f"{output_dir}/confusion_matrix_{year}.png", bbox_inches="tight")
-        plt.show()
+        print(f"\nConfusion Matrix for Year {year}:")
+        print(cm)
 
     # ----------------------------------------
     # 5. Return summary
     # ----------------------------------------
-    overall_mae = mean_absolute_error(predictions_df['TrueBin'], predictions_df['ExpectedBin'])
+    overall_mae = mean_absolute_error(predictions_df["TrueBin"], predictions_df["ExpectedBin"])
     print(f"\n📉 Overall MAE (Expected Bin vs True Bin): {overall_mae:.4f}")
 
-    return metrics_df, overall_mae
-
+    return metrics_summary, overall_mae
 
 
 def main():

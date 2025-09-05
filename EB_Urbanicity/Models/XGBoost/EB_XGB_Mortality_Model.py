@@ -293,6 +293,7 @@ def yearly_mortality_prediction_native_categorical(df, n_splits=5):
                 min_child_weight=5,
                 gamma=0,
                 objective='reg:squarederror',
+                # objective='reg:tweedie',
                 n_jobs=-1,
                 random_state=42,
                 enable_categorical=True  # ← key change
@@ -523,6 +524,9 @@ def plot_grouped_feature_importance_summary(feature_df, start_year=2010, end_yea
     plt.close()
     print(f"✅ Saved summary feature importance plot to {save_path}")
 
+
+
+###############################################################
 ### 8/21/25, EB: Using the native categorical support in XGBoost to more simply handle the county_class feature, we need to update
 ### the feature importance plotting functions to account for the fact that the county_class feature is no longer one-hot encoded.
 
@@ -755,6 +759,67 @@ def tune_xgb_hyperparameters_by_year(df, n_splits=5, n_iter=30, random_state=42,
 
 
 
+#############
+### 9/4/25, EB: Adding a function that plots the absolute error histograms for each year
+def plot_abs_error_histograms(predictions_df, save_plots=False, output_dir="./evaluation_plots"):
+    """
+    Plot separate histograms of absolute prediction error for each year.
+    predictions_df must have columns: ["Year", "True", "Predicted"].
+    """
+
+    # compute absolute error
+    predictions_df = predictions_df.copy()
+    predictions_df["AbsError"] = np.abs(predictions_df["True"] - predictions_df["Predicted"])
+
+    unique_years = sorted(predictions_df["Year"].unique())
+
+    for year in unique_years:
+        year_df = predictions_df[predictions_df["Year"] == year]
+
+        plt.figure(figsize=(8, 4))
+        sns.histplot(year_df["AbsError"], bins=40, kde=False, color="steelblue")
+        plt.title(f"Distribution of Absolute Errors: {year} → {year+1}", fontsize=14, fontweight="bold")
+        plt.xlabel("Absolute Error")
+        plt.ylabel("Count")
+        plt.grid(True, linestyle="--", alpha=0.6)
+
+        if save_plots:
+            plt.savefig(f"{output_dir}/abs_error_hist_{year}.png", bbox_inches="tight")
+
+        plt.show()
+
+
+def plot_actual_vs_predicted_distributions(predictions_df, save_plots=False, output_dir="./evaluation_plots"):
+    """
+    Plot side-by-side histograms (overlaid) of actual vs predicted mortality rates per year.
+    predictions_df must have columns: ["Year", "True", "Predicted"].
+    """
+    if save_plots:
+        os.makedirs(output_dir, exist_ok=True)  # ✅ Create directory if it doesn't exist
+
+    unique_years = sorted(predictions_df["Year"].unique())
+
+    for year in unique_years:
+        year_df = predictions_df[predictions_df["Year"] == year]
+
+        plt.figure(figsize=(8, 4))
+        # Actual distribution
+        sns.histplot(year_df["True"], bins=40, color="steelblue", label="Actual", alpha=0.5, kde=False)
+        # Predicted distribution
+        sns.histplot(year_df["Predicted"], bins=40, color="orange", label="Predicted", alpha=0.5, kde=False)
+
+        plt.title(f"Mortality Rate Distribution: {year} → {year+1}", fontsize=14, fontweight="bold")
+        plt.xlabel("Mortality Rate")
+        plt.ylabel("Count")
+        plt.legend()
+        plt.grid(True, linestyle="--", alpha=0.6)
+
+        if save_plots:
+            plt.savefig(f"{output_dir}/mortality_dist_comparison_squarederror_{year}.png", bbox_inches="tight")
+
+        plt.show()
+
+
 
 def main():
     # df = prepare_yearly_prediction_data()
@@ -785,7 +850,12 @@ def main():
     #                                                     show_plots=True
     # )
     ### 8/29/25, EB: Added Andrew's big average feature importance plot function, using here:
-    plot_average_feature_importance(feature_importance)
+    # plot_average_feature_importance(feature_importance)
+    
+    # print('Results from running XGBoost using Tweedie Objective function:')
+    # print(metrics)
+    # plot_abs_error_histograms(predictions, save_plots=False)
+    plot_actual_vs_predicted_distributions(predictions, save_plots=True, output_dir='EB_Urbanicity/Plots/XGB_Mortality_Plots')
     
 
 

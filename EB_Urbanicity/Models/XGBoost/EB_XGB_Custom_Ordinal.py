@@ -633,7 +633,7 @@ def main():
     print('-----------------------------------------')
     print('')
     metrics_df, predictions_df = yearly_mortality_prediction_allthreshold(df, bin_edges_dict, n_splits=5)
-    evaluate_model_performance_with_ranking(metrics_df, predictions_df, top_k=0.05)
+    evaluate_model_performance_with_ranking(metrics_df, predictions_df, top_k=0.10)
     print('Model prediction loop complete.')
     
     

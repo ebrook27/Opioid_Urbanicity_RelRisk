@@ -23,7 +23,7 @@ import xgboost as xgb
 import matplotlib.pyplot as plt
 import seaborn as sns
 from scipy.stats import lognorm
-from sklearn.model_selection import KFold
+from sklearn.model_selection import KFold, StratifiedKFold
 from sklearn.metrics import accuracy_score, classification_report, confusion_matrix, ConfusionMatrixDisplay, mean_absolute_error
 from tqdm import tqdm
 from itertools import product
@@ -181,9 +181,13 @@ def ordinal_mortality_classifier(df_cat, svi_vars, n_splits=5):
             X[col] = X[col].astype("category")
 
         # K-Fold per year
-        kf = KFold(n_splits=n_splits, shuffle=True, random_state=42)
+        # kf = KFold(n_splits=n_splits, shuffle=True, random_state=42)
+        skf = StratifiedKFold(n_splits=n_splits, shuffle=True, random_state=42)
+        # for f, (_, test_idx) in enumerate(kf.split(X), 1):
+        #     print(f'Fold {f} y distribution:\n', y.iloc[test_idx].value_counts(normalize=True).sort_index())
 
-        for fold, (train_idx, test_idx) in enumerate(kf.split(X)):
+        # for fold, (train_idx, test_idx) in enumerate(kf.split(X)):
+        for fold, (train_idx, test_idx) in enumerate(skf.split(X, y)):       
             X_train, X_test = X.iloc[train_idx], X.iloc[test_idx]
             y_train, y_test = y.iloc[train_idx], y.iloc[test_idx]
             fips_test = fips.iloc[test_idx]

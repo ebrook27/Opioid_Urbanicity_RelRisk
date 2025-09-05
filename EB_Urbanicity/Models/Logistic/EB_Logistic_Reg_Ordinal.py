@@ -17,7 +17,7 @@ import pandas as pd
 from sklearn.preprocessing import OneHotEncoder
 from sklearn.compose import ColumnTransformer
 from sklearn.pipeline import Pipeline
-from sklearn.model_selection import KFold
+from sklearn.model_selection import KFold, StratifiedKFold
 from sklearn.metrics import classification_report, roc_auc_score, accuracy_score, f1_score, mean_absolute_error
 from sklearn.metrics import precision_recall_curve
 import matplotlib.pyplot as plt
@@ -352,13 +352,15 @@ def run_ordinal_logistic_sliding_window_full_metrics(data_df, n_splits=5, top_k=
         test_X = test_df[features].copy()
         test_y = test_df[target].copy()
 
-        kf = KFold(n_splits=n_splits, shuffle=True, random_state=42)
+        ### 9/4/25, EB: Correcting KFold splitting to account for class imbalances.
+        # kf = KFold(n_splits=n_splits, shuffle=True, random_state=42)
+        skf = StratifiedKFold(n_splits=n_splits, shuffle=True, random_state=42)
 
         fold_true = []
         fold_pred = []
         fold_index = []
 
-        for train_idx, val_idx in kf.split(X):
+        for train_idx, val_idx in skf.split(X, y):
             X_train, X_val = X.iloc[train_idx], X.iloc[val_idx]
             y_train, y_val = y.iloc[train_idx], y.iloc[val_idx]
 
@@ -381,7 +383,6 @@ def run_ordinal_logistic_sliding_window_full_metrics(data_df, n_splits=5, top_k=
         all_true.extend(fold_true)
         all_pred.extend(fold_pred)
         all_index.extend(fold_index)
-
         print(f"✅ Year {year} → {year+1} done")
 
     # ---- Evaluation ----
@@ -412,6 +413,125 @@ def run_ordinal_logistic_sliding_window_full_metrics(data_df, n_splits=5, top_k=
     results_df['Predicted'] = all_pred
 
     return results_df
+
+from sklearn.model_selection import StratifiedKFold
+from sklearn.metrics import classification_report, mean_absolute_error
+from sklearn.preprocessing import OneHotEncoder
+from sklearn.compose import ColumnTransformer
+from sklearn.pipeline import Pipeline
+from scipy.stats import spearmanr, kendalltau
+import mord
+import numpy as np
+import pandas as pd
+
+def run_ordinal_logistic_sliding_window_full_metrics_per_year(data_df, n_splits=5, top_k=0.1):
+    """
+    Runs ordinal logistic regression (LogisticAT from mord) with a sliding window approach,
+    predicting next-year risk category using current-year features.
+
+    Evaluates with classification metrics, MAE, rank correlations, and Top-K overlap.
+    Prints per-year classification reports (averaged across folds)
+    and an overall report across all years.
+    """
+
+    features = [col for col in DATA if col != 'Mortality'] + ['county_class']
+    target = 'mortality_bin'
+    
+    years = sorted(data_df['year'].unique())
+    all_true = []
+    all_pred = []
+    all_index = []
+
+    per_year_results = {}
+
+    for year in years:
+        train_df = data_df[data_df['year'] == year].copy()
+        test_df = data_df[data_df['year'] == year].copy()
+
+        if len(test_df) == 0:
+            continue  # Skip if next year's data is missing
+
+        X = train_df[features].copy()
+        y = train_df[target].copy()
+        test_X = test_df[features].copy()
+        test_y = test_df[target].copy()
+
+        skf = StratifiedKFold(n_splits=n_splits, shuffle=True, random_state=42)
+
+        fold_true = []
+        fold_pred = []
+        fold_index = []
+
+        for train_idx, val_idx in skf.split(X, y):
+            X_train, X_val = X.iloc[train_idx], X.iloc[val_idx]
+            y_train, y_val = y.iloc[train_idx], y.iloc[val_idx]
+
+            preprocessor = ColumnTransformer([
+                ('cat', OneHotEncoder(drop='first'), ['county_class'])
+            ], remainder='passthrough')
+
+            pipeline = Pipeline([
+                ('prep', preprocessor),
+                ('clf', mord.LogisticAT(alpha=0.5))
+            ])
+
+            pipeline.fit(X_train, y_train)
+            y_pred = pipeline.predict(test_X)  # predictions on full test year
+
+            fold_true.extend(test_y)
+            fold_pred.extend(y_pred)
+            fold_index.extend(test_X.index)
+
+        # store overall per-year results
+        per_year_results[year] = {
+            "y_true": np.array(fold_true),
+            "y_pred": np.array(fold_pred),
+            "indices": fold_index
+        }
+
+        # extend global trackers
+        all_true.extend(fold_true)
+        all_pred.extend(fold_pred)
+        all_index.extend(fold_index)
+
+        print(f"✅ Year {year} → {year+1} done")
+
+    # ---- Per-year classification reports ----
+    print("\n📊 Per-Year Classification Reports (averaged across folds):")
+    for year, results in per_year_results.items():
+        print(f"\nYear {year} → {year+1}")
+        print(classification_report(results["y_true"], results["y_pred"], zero_division=0))
+
+    # ---- Overall evaluation ----
+    print("\n🔍 Overall Classification Report (all years combined):\n",
+          classification_report(all_true, all_pred, zero_division=0))
+
+    # MAE on ordinal bins
+    mae = mean_absolute_error(all_true, all_pred)
+    print(f"\n📉 Overall Mean Absolute Error (bins): {mae:.4f}")
+
+    # Ranking metrics
+    spearman_corr, _ = spearmanr(all_true, all_pred)
+    kendall_corr, _ = kendalltau(all_true, all_pred)
+    print(f"📈 Spearman rank correlation: {spearman_corr:.4f}")
+    print(f"📈 Kendall's tau: {kendall_corr:.4f}")
+
+    # Top-K hit rate
+    k = int(len(all_true) * top_k)
+    true_top_idx = np.argsort(all_true)[-k:]
+    pred_top_idx = np.argsort(all_pred)[-k:]
+    overlap = len(set(true_top_idx).intersection(set(pred_top_idx)))
+    topk_hit_rate = overlap / k if k > 0 else np.nan
+    print(f"🎯 Top-{int(top_k*100)}% hit rate: {topk_hit_rate:.4f}")
+
+    # ---- Results DF ----
+    results_df = data_df.loc[all_index].copy()
+    results_df['True'] = all_true
+    results_df['Predicted'] = all_pred
+
+    return results_df
+
+
 
 def run_binary_logistic_sliding_window_full_metrics(data_df, n_splits=5, top_k=0.1):
     """
@@ -501,8 +621,6 @@ def run_binary_logistic_sliding_window_full_metrics(data_df, n_splits=5, top_k=0
     results_df['Predicted'] = all_pred
 
     return results_df
-
-
 
 def run_ordinal_logistic_expanding_window(data_df, start_year=2010, n_splits=5):
     features = [col for col in DATA if col != 'Mortality'] + ['county_class']
@@ -821,12 +939,12 @@ def main():
     # Label high-risk counties
     #df = add_ordinal_labels(df, n_bins=10) # 10 bins -> deciles  
     df, bin_edges_dict = transform_to_categorical(df, svi_variables)
-    print(df.tail())
-    print(f"Unique Risk Scores: {df['RR'].unique()}")
+    # print(df.tail())
+    # print(f"Unique Risk Scores: {df['RR'].unique()}")
     
 
     # Run logistic regression
-    # results_df = run_ordinal_logistic_sliding_window_full_metrics(df)
+    results_df = run_ordinal_logistic_sliding_window_full_metrics_per_year(df)
     #results_df = run_ordinal_logistic_sliding_window_full_metrics(df)
     
     # results_df['correct'] = results_df['True'] == results_df['Predicted']
